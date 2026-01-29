@@ -75,3 +75,93 @@ def select_team_greedy(
         available_candidates.remove(best_cand)
         
     return team
+
+def select_team_goodness(
+    proposal: Proposal,
+    candidates: List[Researcher],
+    weights: Dict[str, float],
+    alpha: float = 0.5,  # Unused in goodness metric directly but kept for signature compatibility if needed
+    max_size: int = 5
+) -> List[Researcher]:
+    """
+    Selects a team that maximizes the Goodness Measure from metrics_scorer.py.
+    The Goodness Measure is non-monotonic with respect to team size (due to setsize penalty and k-robustness bonus).
+    Therefore, we search for the best team of size k for k in range 1..max_size.
+    """
+    # Import here to avoid circular dependencies if metrics imports greedy (though it shouldn't)
+    from .metrics_scorer import MetricScorer
+
+    best_overall_team = []
+    best_overall_score = -float('inf')
+
+    # Optimization: Pre-compute researcher map for MetricScorer
+    # MetricScorer needs researchers in a dict format: {id: [skills]}
+    # candidates is a list of Researcher objects.
+    all_researchers_skills = {r.id: r.skills for r in candidates}
+    
+    # We will try to find the best team for each target size
+    for target_size in range(1, max_size + 1):
+        # For a fixed size, we can try a greedy approach to build the team
+        # However, "Goodness" is complex. A simple greedy might get stuck.
+        # But since we want to align with the "Goodness" definition which heavily weights coverage,
+        # we can start with the most relevant people.
+        
+        # Let's try a Beam Search or simple Greedy wrapper around Goodness.
+        # Simple Greedy: Start empty, add the person who increases Goodness the most, until size k.
+        
+        current_team_ids = []
+        
+        scorer = MetricScorer()
+        scorer.demand = proposal.required_skills
+        # Default weights from M1.py: [-1, -1, 1, 1] 
+        # (Redundancy, Setsize, Coverage, kRobustness)
+        scorer.set_new_weights([-1, -1, 1, 1])
+        
+        # Available candidates to pick from
+        available = [r.id for r in candidates]
+        
+        for _ in range(target_size):
+            best_candidate = None
+            best_score_at_step = -float('inf')
+            
+            # Try adding each available candidate
+            for cand_id in available:
+                temp_team = current_team_ids + [cand_id]
+                
+                # Setup scorer
+                scorer.reset()
+                scorer.demand = proposal.required_skills
+                scorer.team = temp_team
+                scorer.researchers = all_researchers_skills # Pass the full dictionary
+                scorer.set_new_weights([-1, -1, 1, 1])
+                
+                # Run metrics
+                scorer.run_metrics()
+                score = scorer.goodness
+                
+                if score > best_score_at_step:
+                    best_score_at_step = score
+                    best_candidate = cand_id
+            
+            if best_candidate:
+                current_team_ids.append(best_candidate)
+                available.remove(best_candidate)
+            else:
+                break
+        
+        # Evaluate final team of this size
+        # (It should match best_score_at_step, but let's be safe)
+        scorer.reset()
+        scorer.demand = proposal.required_skills
+        scorer.team = current_team_ids
+        scorer.researchers = all_researchers_skills
+        scorer.set_new_weights([-1, -1, 1, 1])
+        scorer.run_metrics()
+        final_score = scorer.goodness
+        
+        if final_score > best_overall_score:
+            best_overall_score = final_score
+            # Map back to Researcher objects
+            best_overall_team = [r for r in candidates if r.id in current_team_ids]
+
+    return best_overall_team

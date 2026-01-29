@@ -7,15 +7,15 @@
 | Skill | Weight |
 |---|---|
 | search | 4.6201 |
-| high aluminum | 4.6201 |
-| novel high | 4.6201 |
-| previous position | 4.6201 |
+| universityresearch growth | 4.6201 |
 | electronic photonic | 4.6201 |
-| including high | 4.6201 |
+| gallium oxide | 4.6201 |
+| fabrication novel high power electronic photonic device | 4.6201 |
+| inc ph | 4.6201 |
+| previous position senior scientist | 4.6201 |
+| simulation device | 4.6201 |
+| novel high | 4.6201 |
 | sensor electronic | 4.6201 |
-| tech universityresearch | 4.6201 |
-| senior scientist | 4.6201 |
-| sensor electronic technology | 4.6201 |
 
 ## Seat Costs (Top 10)
 | Proposal | Seat Cost |

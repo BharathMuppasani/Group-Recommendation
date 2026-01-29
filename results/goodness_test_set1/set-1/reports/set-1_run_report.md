@@ -11,7 +11,7 @@
 1. **Broughton, Earnie** (ID: 17)
    - Covers: professional development
 2. **Devereux, Emily** (ID: 35)
-   - Covers: development, economic development
+   - Covers: economic development, development
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 4. **Gholizadeh, Sona** (ID: 54)
@@ -76,7 +76,7 @@
 2. **Devereux, Emily** (ID: 35)
    - Covers: development
 3. **Jamshidi, Pooyan ** (ID: 84)
-   - Covers: machine learning, artificial intelligence
+   - Covers: artificial intelligence, machine learning
 4. **Koppel, Tarmo** (ID: 92)
    - Covers: industry
 5. **Matthews, Manton M** (ID: 106)
@@ -114,15 +114,15 @@
 
 ### Selected Team
 1. **Gatzke, Edward P.** (ID: 52)
-   - Covers: fundamental understanding, control
+   - Covers: control, fundamental understanding
 2. **Matta, Fabio** (ID: 104)
-   - Covers: science foundation, national science, industry
+   - Covers: industry, national science, science foundation
 3. **Monnier, John R.** (ID: 113)
    - Covers: design synthesis, synthesis characterization
 4. **Shazly, Tarek ** (ID: 150)
    - Covers: novel design, property
 5. **Tang, Chuanbing** (ID: 167)
-   - Covers: biomaterials, polymer
+   - Covers: polymer, biomaterials
 
 ---
 
@@ -139,7 +139,7 @@
 2. **Chandrashekhar, MVS** (ID: 22)
    - Covers: chemistry
 3. **Gatzke, Edward P.** (ID: 52)
-   - Covers: fundamental understanding, control
+   - Covers: control, fundamental understanding
 4. **Monnier, John R.** (ID: 113)
    - Covers: design synthesis, synthesis characterization
 5. **Shazly, Tarek ** (ID: 150)
@@ -177,13 +177,13 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: directorate engineering, science foundation, national science
+   - Covers: national science, science foundation, directorate engineering
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science, information science
 3. **Jalilvand, Golareh** (ID: 83)
    - Covers: computer science, science engineering
 4. **Matta, Fabio** (ID: 104)
-   - Covers: science foundation, national science, industry
+   - Covers: industry, national science, science foundation
 5. **Summers, Bill ** (ID: 162)
    - Covers: science technology, experience new
 
@@ -198,15 +198,15 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Gatzke, Edward P.** (ID: 52)
-   - Covers: fundamental understanding, method used
+   - Covers: method used, fundamental understanding
 3. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: dynamic, soft material
+   - Covers: soft material, dynamic
 4. **Shazly, Tarek ** (ID: 150)
-   - Covers: material soft, polymeric material, material system, property
+   - Covers: polymeric material, property, material soft, material system
 5. **Taheri-Qazvini, Nader ** (ID: 165)
-   - Covers: soft matter, material
+   - Covers: material, soft matter
 
 ---
 
@@ -246,7 +246,7 @@
 3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
 4. **Matta, Fabio** (ID: 104)
-   - Covers: science foundation, national science, national institute
+   - Covers: national science, national institute, science foundation
 5. **Pain, Christopher C.** (ID: 123)
    - Covers: biomedical science
 
@@ -282,11 +282,11 @@
 
 ### Selected Team
 1. **Boltin, Nicholas D.** (ID: 14)
-   - Covers: decision support, support system, machine learning
+   - Covers: machine learning, support system, decision support
 2. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
 3. **Srivastava, Biplav** (ID: 158)
-   - Covers: health, artificial intelligence
+   - Covers: artificial intelligence, health
 4. **Wu, Dezhi** (ID: 191)
    - Covers: ai, health
 5. **Zhang, Qi** (ID: 199)
@@ -330,9 +330,9 @@
 3. **Gassman, Sarah** (ID: 51)
    - Covers: civil
 4. **Jamshidi, Pooyan ** (ID: 84)
-   - Covers: machine learning, artificial intelligence
+   - Covers: artificial intelligence, machine learning
 5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: machine learning, automation
+   - Covers: automation, machine learning
 
 ---
 
@@ -429,7 +429,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -450,15 +450,15 @@
 
 ### Selected Team
 1. **Alexeev, Oleg S.** (ID: 2)
-   - Covers: fundamental understanding, product
+   - Covers: product, fundamental understanding
 2. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 3. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 4. **Blanchette, James  Otto** (ID: 13)
    - Covers: cell cell
 5. **Gatzke, Edward P.** (ID: 52)
-   - Covers: fundamental understanding, control
+   - Covers: control, fundamental understanding
 
 ---
 
@@ -471,13 +471,13 @@
 
 ### Selected Team
 1. **Agostinelli, Forest** (ID: 0)
-   - Covers: deep learning, artificial intelligence
+   - Covers: artificial intelligence, deep learning
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: science foundation, activity focused, national science
+   - Covers: activity focused, science foundation, national science
 3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science
 4. **Brookshire, Robert G., Ph.D.** (ID: 16)
-   - Covers: computer information, learning, new york
+   - Covers: new york, computer information, learning
 5. **Dougal, Roger A.** (ID: 37)
    - Covers: graduate student
 
@@ -492,7 +492,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
 3. **Broughton, Earnie** (ID: 17)
@@ -555,7 +555,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, program director, foundation nsf
+   - Covers: foundation nsf, program director, national science, science foundation
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
@@ -576,7 +576,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, program director, foundation nsf
+   - Covers: foundation nsf, program director, national science, science foundation
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
@@ -597,7 +597,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: communication, science foundation, national science, cyber system
+   - Covers: cyber system, national science, science foundation, communication
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: machine learning, information science
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -605,7 +605,7 @@
 4. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
 5. **Jamshidi, Pooyan ** (ID: 84)
-   - Covers: machine learning, artificial intelligence
+   - Covers: artificial intelligence, machine learning
 
 ---
 
@@ -618,7 +618,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: directorate engineering, communication, science foundation, national science, cyber system, division electrical
+   - Covers: cyber system, national science, science foundation, division electrical, directorate engineering, communication
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science
 3. **Berge, Nicole D.** (ID: 10)
@@ -639,7 +639,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Broughton, Earnie** (ID: 17)
    - Covers: professional development
 3. **Devereux, Emily** (ID: 35)
@@ -647,7 +647,7 @@
 4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 5. **Lyons, Jed ** (ID: 101)
-   - Covers: retention, full professor
+   - Covers: full professor, retention
 
 ---
 
@@ -664,7 +664,7 @@
 2. **Devereux, Emily** (ID: 35)
    - Covers: development
 3. **Jamshidi, Pooyan ** (ID: 84)
-   - Covers: machine learning, artificial intelligence
+   - Covers: artificial intelligence, machine learning
 4. **Koppel, Tarmo** (ID: 92)
    - Covers: industry
 5. **Matthews, Manton M** (ID: 106)
@@ -681,11 +681,11 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 3. **Dryer, Frederick  L. ** (ID: 39)
-   - Covers: fluid dynamic, combustion
+   - Covers: combustion, fluid dynamic
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 5. **Hu, Ming** (ID: 72)
@@ -702,7 +702,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 3. **Blanchette, James  Otto** (ID: 13)
@@ -729,9 +729,9 @@
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 4. **Lyons, Jed ** (ID: 101)
-   - Covers: engineering material, professional engineer, engineering education
+   - Covers: engineering material, engineering education, professional engineer
 5. **Smoak, Wilson** (ID: 155)
-   - Covers: capstone design, engineering department
+   - Covers: engineering department, capstone design
 
 ---
 
@@ -794,7 +794,7 @@
 4. **Jalilvand, Golareh** (ID: 83)
    - Covers: material science, science engineering
 5. **Vogt, Thomas** (ID: 180)
-   - Covers: physic, material science
+   - Covers: material science, physic
 
 ---
 
@@ -891,11 +891,11 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
 3. **Jamshidi, Pooyan ** (ID: 84)
-   - Covers: machine learning, artificial intelligence
+   - Covers: artificial intelligence, machine learning
 4. **Wu, Dezhi** (ID: 191)
    - Covers: ai, health
 5. **Zhang, Qi** (ID: 199)
@@ -933,7 +933,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science
 3. **Devereux, Emily** (ID: 35)
@@ -954,7 +954,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, program director, foundation nsf
+   - Covers: foundation nsf, program director, national science, science foundation
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
@@ -975,7 +975,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: directorate engineering, science foundation, national science
+   - Covers: national science, science foundation, directorate engineering
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -1017,11 +1017,11 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 3. **Dryer, Frederick  L. ** (ID: 39)
-   - Covers: fluid dynamic, combustion
+   - Covers: combustion, fluid dynamic
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 5. **Hu, Ming** (ID: 72)
@@ -1038,7 +1038,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
 3. **Devereux, Emily** (ID: 35)
@@ -1059,7 +1059,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Devereux, Emily** (ID: 35)
    - Covers: development
 3. **Jalilvand, Golareh** (ID: 83)
@@ -1067,7 +1067,7 @@
 4. **Shazly, Tarek ** (ID: 150)
    - Covers: advanced material, property
 5. **Wang, Yi** (ID: 185)
-   - Covers: discovery, system design, science engineering
+   - Covers: discovery, science engineering, system design
 
 ---
 
@@ -1080,7 +1080,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, program director, foundation nsf
+   - Covers: foundation nsf, program director, national science, science foundation
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
@@ -1101,7 +1101,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 3. **Blanchette, James  Otto** (ID: 13)
@@ -1126,7 +1126,7 @@
 2. **Ahmad, Iftikhar** (ID: 1)
    - Covers: 
 3. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science
 5. **Regan, Elizabeth A.** (ID: 133)
@@ -1233,7 +1233,7 @@
 3. **Alexeev, Oleg S.** (ID: 2)
    - Covers: 
 4. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science
 
@@ -1355,13 +1355,13 @@
 1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
 2. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science, biomedical
 4. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
 5. **Matta, Fabio** (ID: 104)
-   - Covers: science foundation, national science, national institute
+   - Covers: national science, national institute, science foundation
 
 ---
 
@@ -1437,7 +1437,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: directorate engineering, science foundation, national science, system directorate, foundation nsf
+   - Covers: foundation nsf, national science, science foundation, directorate engineering, system directorate
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science, information science
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -1458,7 +1458,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science, biomedical
 3. **Boltin, Nicholas D.** (ID: 14)
@@ -1466,7 +1466,7 @@
 4. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information
 5. **Reifsnider, Kenneth ** (ID: 134)
-   - Covers: aging, science engineering
+   - Covers: science engineering, aging
 
 ---
 
@@ -1481,7 +1481,7 @@
 1. **Agostinelli, Forest** (ID: 0)
    - Covers: artificial intelligence
 2. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 3. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
 4. **Gassman, Sarah** (ID: 51)
@@ -1500,7 +1500,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
 3. **Broughton, Earnie** (ID: 17)
@@ -1584,7 +1584,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 3. **Dryer, Frederick  L. ** (ID: 39)
@@ -1605,7 +1605,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science
 3. **Devereux, Emily** (ID: 35)
@@ -1647,7 +1647,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science
 3. **Berge, Nicole D.** (ID: 10)
@@ -1668,7 +1668,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Devereux, Emily** (ID: 35)
    - Covers: development
 3. **Gholizadeh, Sona** (ID: 54)
@@ -1676,7 +1676,7 @@
 4. **Lyons, Jed ** (ID: 101)
    - Covers: program level
 5. **Matta, Fabio** (ID: 104)
-   - Covers: science foundation, national science, industry
+   - Covers: industry, national science, science foundation
 
 ---
 
@@ -1710,15 +1710,15 @@
 
 ### Selected Team
 1. **Gatzke, Edward P.** (ID: 52)
-   - Covers: fundamental understanding, method used
+   - Covers: method used, fundamental understanding
 2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: dynamic, soft material
+   - Covers: soft material, dynamic
 3. **Shazly, Tarek ** (ID: 150)
-   - Covers: material soft, polymeric material, material system, property
+   - Covers: polymeric material, property, material soft, material system
 4. **Taheri-Qazvini, Nader ** (ID: 165)
-   - Covers: soft matter, material
+   - Covers: material, soft matter
 5. **Tang, Chuanbing** (ID: 167)
-   - Covers: biomaterials, polymer
+   - Covers: polymer, biomaterials
 
 ---
 
@@ -1731,7 +1731,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: directorate engineering, science foundation, national science
+   - Covers: national science, science foundation, directorate engineering
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -1798,7 +1798,7 @@
 2. **Dougal, Roger A.** (ID: 37)
    - Covers: processing
 3. **Gatzke, Edward P.** (ID: 52)
-   - Covers: fundamental understanding, control
+   - Covers: control, fundamental understanding
 4. **Monnier, John R.** (ID: 113)
    - Covers: design synthesis, synthesis characterization
 5. **Shazly, Tarek ** (ID: 150)
@@ -1901,13 +1901,13 @@
 1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
 2. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science, biomedical
 4. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
 5. **Matta, Fabio** (ID: 104)
-   - Covers: science foundation, national science, national institute
+   - Covers: national science, national institute, science foundation
 
 ---
 
@@ -1928,7 +1928,7 @@
 4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
 5. **Matta, Fabio** (ID: 104)
-   - Covers: science foundation, national science, industry
+   - Covers: industry, national science, science foundation
 
 ---
 
@@ -1962,7 +1962,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: science foundation, national science
 3. **Boltin, Nicholas D.** (ID: 14)
@@ -2004,7 +2004,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science
+   - Covers: national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
 3. **Gassman, Sarah** (ID: 51)
@@ -2067,7 +2067,7 @@
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
-   - Covers: science foundation, national science, foundation nsf
+   - Covers: foundation nsf, national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
 3. **Broughton, Earnie** (ID: 17)

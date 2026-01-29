@@ -3,29 +3,29 @@
     "proposal_id": "0",
     "proposal_name": "https://www.nsf.gov/pubs/2021/nsf21598/nsf21598.htm",
     "required_skills": [
-      "economic development",
-      "industry",
       "professional development",
       "development",
-      "material",
+      "economic development",
       "engineering",
+      "industry",
+      "material",
       "science engineering",
       "higher education"
     ],
     "recommended_team": [
-      {
-        "id": "17",
-        "name": "Broughton, Earnie",
-        "matching_skills": [
-          "professional development"
-        ]
-      },
       {
         "id": "35",
         "name": "Devereux, Emily",
         "matching_skills": [
           "development",
           "economic development"
+        ]
+      },
+      {
+        "id": "17",
+        "name": "Broughton, Earnie",
+        "matching_skills": [
+          "professional development"
         ]
       },
       {
@@ -43,20 +43,20 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
+        "id": "92",
+        "name": "Koppel, Tarmo",
         "matching_skills": [
-          "science engineering"
+          "industry"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.7567015503437478,
+      "coverage": 0.7767084177671749,
       "seat_cost": 4.3306828468577665,
       "goodness_score": 0.40625,
       "uncovered": [
-        "industry",
-        "material"
+        "material",
+        "science engineering"
       ]
     }
   },
@@ -64,10 +64,10 @@
     "proposal_id": "1",
     "proposal_name": "https://www.nsf.gov/pubs/2021/nsf21527/nsf21527.htm",
     "required_skills": [
-      "chemical",
       "environmental engineering",
-      "engineering",
-      "science engineering"
+      "science engineering",
+      "chemical",
+      "engineering"
     ],
     "recommended_team": [
       {
@@ -85,13 +85,6 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
         "id": "108",
         "name": "McAnally, A. Steve",
         "matching_skills": [
@@ -99,8 +92,8 @@
         ]
       },
       {
-        "id": "123",
-        "name": "Pain, Christopher C.",
+        "id": "83",
+        "name": "Jalilvand, Golareh",
         "matching_skills": [
           "science engineering"
         ]
@@ -109,7 +102,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.172118931174828,
-      "goodness_score": 0.53125,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -117,27 +110,10 @@
     "proposal_id": "2",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20609/nsf20609.htm",
     "required_skills": [
-      "theoretical foundation",
-      "computer science"
+      "computer science",
+      "theoretical foundation"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science"
-        ]
-      },
       {
         "id": "47",
         "name": "Fenner, Stephen A. ",
@@ -146,8 +122,8 @@
         ]
       },
       {
-        "id": "48",
-        "name": "Fiedler, Kirk",
+        "id": "14",
+        "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "computer science"
         ]
@@ -156,7 +132,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.070752654147787,
-      "goodness_score": 0.5625,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -165,30 +141,16 @@
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20604/nsf20604.htm",
     "required_skills": [
       "machine learning",
-      "ai",
-      "industry",
-      "security",
       "development",
-      "economic impact",
+      "security",
+      "continued advancement",
       "learning",
+      "economic impact",
+      "industry",
       "artificial intelligence",
-      "continued advancement"
+      "ai"
     ],
     "recommended_team": [
-      {
-        "id": "16",
-        "name": "Brookshire, Robert G., Ph.D.",
-        "matching_skills": [
-          "learning"
-        ]
-      },
-      {
-        "id": "35",
-        "name": "Devereux, Emily",
-        "matching_skills": [
-          "development"
-        ]
-      },
       {
         "id": "84",
         "name": "Jamshidi, Pooyan ",
@@ -198,10 +160,24 @@
         ]
       },
       {
-        "id": "92",
-        "name": "Koppel, Tarmo",
+        "id": "16",
+        "name": "Brookshire, Robert G., Ph.D.",
         "matching_skills": [
-          "industry"
+          "learning"
+        ]
+      },
+      {
+        "id": "191",
+        "name": "Wu, Dezhi",
+        "matching_skills": [
+          "ai"
+        ]
+      },
+      {
+        "id": "35",
+        "name": "Devereux, Emily",
+        "matching_skills": [
+          "development"
         ]
       },
       {
@@ -213,13 +189,13 @@
       }
     ],
     "metrics": {
-      "coverage": 0.6330749905276324,
+      "coverage": 0.6438090017255123,
       "seat_cost": 4.197096299618473,
       "goodness_score": 0.375,
       "uncovered": [
-        "ai",
         "continued advancement",
-        "economic impact"
+        "economic impact",
+        "industry"
       ]
     }
   },
@@ -228,11 +204,11 @@
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20591/nsf20591.htm",
     "required_skills": [
       "computer information",
-      "communication",
-      "project develop",
+      "information science",
       "engineering",
       "science engineering",
-      "information science"
+      "project develop",
+      "communication"
     ],
     "recommended_team": [
       {
@@ -264,19 +240,19 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
+        "id": "98",
+        "name": "Liu, Chang",
         "matching_skills": [
-          "science engineering"
+          "project develop"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.8392375107823363,
+      "coverage": 0.8656770858226394,
       "seat_cost": 4.369379232352463,
       "goodness_score": 0.4375,
       "uncovered": [
-        "project develop"
+        "science engineering"
       ]
     }
   },
@@ -284,29 +260,46 @@
     "proposal_id": "5",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20589/nsf20589.htm",
     "required_skills": [
-      "novel design",
-      "science foundation",
-      "national science",
-      "synthesis characterization",
-      "polymer",
-      "physic",
       "united state",
-      "synthesis",
-      "development",
-      "material",
       "lead new",
-      "engineering",
-      "fundamental understanding",
-      "industry",
+      "development",
       "biomaterials",
-      "property",
-      "material unique",
       "discovery",
-      "design synthesis",
+      "engineering",
+      "national science",
+      "control",
+      "polymer",
       "processing",
-      "control"
+      "synthesis",
+      "synthesis characterization",
+      "material unique",
+      "physic",
+      "design synthesis",
+      "industry",
+      "material",
+      "science foundation",
+      "novel design",
+      "fundamental understanding",
+      "property"
     ],
     "recommended_team": [
+      {
+        "id": "104",
+        "name": "Matta, Fabio",
+        "matching_skills": [
+          "national science",
+          "industry",
+          "science foundation"
+        ]
+      },
+      {
+        "id": "150",
+        "name": "Shazly, Tarek ",
+        "matching_skills": [
+          "novel design",
+          "property"
+        ]
+      },
       {
         "id": "52",
         "name": "Gatzke, Edward P.",
@@ -316,28 +309,11 @@
         ]
       },
       {
-        "id": "104",
-        "name": "Matta, Fabio",
-        "matching_skills": [
-          "science foundation",
-          "national science",
-          "industry"
-        ]
-      },
-      {
         "id": "113",
         "name": "Monnier, John R.",
         "matching_skills": [
           "design synthesis",
           "synthesis characterization"
-        ]
-      },
-      {
-        "id": "150",
-        "name": "Shazly, Tarek ",
-        "matching_skills": [
-          "novel design",
-          "property"
         ]
       },
       {
@@ -350,8 +326,8 @@
       }
     ],
     "metrics": {
-      "coverage": 0.5053772614475548,
-      "seat_cost": 4.408855410425045,
+      "coverage": 0.5053772614475547,
+      "seat_cost": 4.408855410425046,
       "goodness_score": 0.32142857142857145,
       "uncovered": [
         "development",
@@ -371,39 +347,33 @@
     "proposal_id": "6",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20588/nsf20588.htm",
     "required_skills": [
-      "electronic photonic",
-      "novel design",
-      "chemistry",
-      "synthesis characterization",
       "united state",
-      "synthesis",
-      "development",
-      "material",
       "lead new",
-      "engineering",
-      "fundamental understanding",
-      "industry",
-      "property",
-      "material unique",
-      "solid state",
+      "development",
       "discovery",
-      "design synthesis",
+      "engineering",
+      "solid state",
+      "control",
       "processing",
-      "control"
+      "synthesis",
+      "synthesis characterization",
+      "material unique",
+      "design synthesis",
+      "electronic photonic",
+      "industry",
+      "material",
+      "chemistry",
+      "novel design",
+      "fundamental understanding",
+      "property"
     ],
     "recommended_team": [
       {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
+        "id": "150",
+        "name": "Shazly, Tarek ",
         "matching_skills": [
-          "electronic photonic"
-        ]
-      },
-      {
-        "id": "22",
-        "name": "Chandrashekhar, MVS",
-        "matching_skills": [
-          "chemistry"
+          "novel design",
+          "property"
         ]
       },
       {
@@ -423,20 +393,26 @@
         ]
       },
       {
-        "id": "150",
-        "name": "Shazly, Tarek ",
+        "id": "1",
+        "name": "Ahmad, Iftikhar",
         "matching_skills": [
-          "novel design",
-          "property"
+          "electronic photonic"
+        ]
+      },
+      {
+        "id": "35",
+        "name": "Devereux, Emily",
+        "matching_skills": [
+          "development"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.4168366372053259,
-      "seat_cost": 4.476876023687063,
+      "coverage": 0.42160341402355517,
+      "seat_cost": 4.476876023687064,
       "goodness_score": 0.28289473684210525,
       "uncovered": [
-        "development",
+        "chemistry",
         "discovery",
         "engineering",
         "industry",
@@ -454,20 +430,10 @@
     "proposal_id": "7",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20586/nsf20586.htm",
     "required_skills": [
-      "chemical",
-      "chemistry"
+      "chemistry",
+      "chemical"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
       {
         "id": "10",
         "name": "Berge, Nicole D.",
@@ -481,19 +447,12 @@
         "matching_skills": [
           "chemistry"
         ]
-      },
-      {
-        "id": "180",
-        "name": "Vogt, Thomas",
-        "matching_skills": [
-          "chemistry"
-        ]
       }
     ],
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.41732624442776,
-      "goodness_score": 0.5625,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -501,67 +460,67 @@
     "proposal_id": "8",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20584/nsf20584.htm",
     "required_skills": [
-      "area",
-      "revolve around",
-      "computer information",
-      "industry",
-      "computer science",
-      "directorate engineering",
+      "science technology",
       "experience new",
-      "material",
-      "science foundation",
-      "science engineering",
-      "engineering",
+      "area",
       "national science",
+      "computer information",
+      "revolve around",
       "information science",
-      "science technology"
+      "computer science",
+      "engineering",
+      "industry",
+      "material",
+      "science engineering",
+      "science foundation",
+      "directorate engineering"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "directorate engineering",
-          "science foundation",
-          "national science"
-        ]
-      },
-      {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science",
-          "information science"
-        ]
-      },
-      {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "computer science",
-          "science engineering"
-        ]
-      },
-      {
-        "id": "104",
-        "name": "Matta, Fabio",
-        "matching_skills": [
-          "science foundation",
           "national science",
-          "industry"
+          "science foundation",
+          "directorate engineering"
         ]
       },
       {
         "id": "162",
         "name": "Summers, Bill ",
         "matching_skills": [
-          "science technology",
-          "experience new"
+          "experience new",
+          "science technology"
+        ]
+      },
+      {
+        "id": "14",
+        "name": "Boltin, Nicholas D.",
+        "matching_skills": [
+          "information science",
+          "computer science"
+        ]
+      },
+      {
+        "id": "104",
+        "name": "Matta, Fabio",
+        "matching_skills": [
+          "national science",
+          "industry",
+          "science foundation"
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Jalilvand, Golareh",
+        "matching_skills": [
+          "science engineering",
+          "computer science"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.6207420468139746,
+      "coverage": 0.6207420468139747,
       "seat_cost": 4.274291922960352,
       "goodness_score": 0.3928571428571429,
       "uncovered": [
@@ -577,49 +536,43 @@
     "proposal_id": "9",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20582/nsf20582.htm",
     "required_skills": [
-      "area",
-      "material soft",
-      "soft matter",
-      "electronic photonic",
-      "science foundation",
-      "chemistry",
+      "material state",
+      "development",
+      "soft material",
+      "biomaterials",
+      "modeling",
+      "material system",
+      "molecular dynamic",
+      "polymeric material",
+      "broad spectrum",
+      "solid state",
+      "statistical mechanic",
       "national science",
       "polymer",
-      "physic",
-      "broad spectrum",
-      "polymeric material",
-      "development",
-      "material",
-      "learning",
-      "machine learning",
-      "modeling",
-      "fundamental understanding",
-      "soft material",
-      "statistical mechanic",
-      "material system",
-      "biomaterials",
-      "property",
-      "method used",
-      "solid state",
       "dynamic",
-      "material state",
-      "molecular dynamic"
+      "method used",
+      "machine learning",
+      "area",
+      "physic",
+      "electronic photonic",
+      "material",
+      "science foundation",
+      "chemistry",
+      "fundamental understanding",
+      "soft matter",
+      "learning",
+      "property",
+      "material soft"
     ],
     "recommended_team": [
       {
-        "id": "3",
-        "name": "Ali, Mohammod",
+        "id": "150",
+        "name": "Shazly, Tarek ",
         "matching_skills": [
-          "science foundation",
-          "national science"
-        ]
-      },
-      {
-        "id": "52",
-        "name": "Gatzke, Edward P.",
-        "matching_skills": [
-          "fundamental understanding",
-          "method used"
+          "polymeric material",
+          "material system",
+          "property",
+          "material soft"
         ]
       },
       {
@@ -631,44 +584,50 @@
         ]
       },
       {
-        "id": "150",
-        "name": "Shazly, Tarek ",
+        "id": "52",
+        "name": "Gatzke, Edward P.",
         "matching_skills": [
-          "material soft",
-          "polymeric material",
-          "material system",
-          "property"
+          "fundamental understanding",
+          "method used"
         ]
       },
       {
-        "id": "165",
-        "name": "Taheri-Qazvini, Nader ",
+        "id": "172",
+        "name": "Uline, Mark J.",
         "matching_skills": [
           "soft matter",
-          "material"
+          "statistical mechanic"
+        ]
+      },
+      {
+        "id": "180",
+        "name": "Vogt, Thomas",
+        "matching_skills": [
+          "chemistry",
+          "physic"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.440594008285128,
+      "coverage": 0.4561255036336873,
       "seat_cost": 4.370048473956459,
       "goodness_score": 0.29166666666666663,
       "uncovered": [
         "area",
         "biomaterials",
         "broad spectrum",
-        "chemistry",
         "development",
         "electronic photonic",
         "learning",
         "machine learning",
+        "material",
         "material state",
         "modeling",
         "molecular dynamic",
-        "physic",
+        "national science",
         "polymer",
-        "solid state",
-        "statistical mechanic"
+        "science foundation",
+        "solid state"
       ]
     }
   },
@@ -676,13 +635,13 @@
     "proposal_id": "10",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20577/nsf20577.htm",
     "required_skills": [
-      "synthesis",
-      "computational method",
+      "catalysis",
+      "chemistry",
       "chemical",
       "dynamic",
-      "chemistry",
-      "imaging",
-      "catalysis"
+      "synthesis",
+      "computational method",
+      "imaging"
     ],
     "recommended_team": [
       {
@@ -690,13 +649,6 @@
         "name": "Berge, Nicole D.",
         "matching_skills": [
           "chemical"
-        ]
-      },
-      {
-        "id": "22",
-        "name": "Chandrashekhar, MVS",
-        "matching_skills": [
-          "chemistry"
         ]
       },
       {
@@ -719,14 +671,21 @@
         "matching_skills": [
           "computational method"
         ]
+      },
+      {
+        "id": "141",
+        "name": "Roberts, Kenneth L",
+        "matching_skills": [
+          "catalysis"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.7106581154790855,
+      "coverage": 0.7233547113022862,
       "seat_cost": 4.562135211609247,
       "goodness_score": 0.39285714285714285,
       "uncovered": [
-        "catalysis",
+        "chemistry",
         "dynamic"
       ]
     }
@@ -735,23 +694,16 @@
     "proposal_id": "11",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20575/nsf20575.htm",
     "required_skills": [
-      "national institute",
       "support interface",
       "biomedical science",
-      "biomedical",
+      "national science",
       "science foundation",
-      "statistic",
       "health",
-      "national science"
+      "national institute",
+      "statistic",
+      "biomedical"
     ],
     "recommended_team": [
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": [
-          "support interface"
-        ]
-      },
       {
         "id": "8",
         "name": "Bayoumi, Abdel-Moez E. ",
@@ -762,19 +714,26 @@
         ]
       },
       {
+        "id": "104",
+        "name": "Matta, Fabio",
+        "matching_skills": [
+          "national science",
+          "national institute",
+          "science foundation"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Alexeev, Oleg S.",
+        "matching_skills": [
+          "support interface"
+        ]
+      },
+      {
         "id": "14",
         "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "statistic"
-        ]
-      },
-      {
-        "id": "104",
-        "name": "Matta, Fabio",
-        "matching_skills": [
-          "science foundation",
-          "national science",
-          "national institute"
         ]
       },
       {
@@ -786,7 +745,7 @@
       }
     ],
     "metrics": {
-      "coverage": 0.8832103964557968,
+      "coverage": 0.8832103964557969,
       "seat_cost": 4.202976440916269,
       "goodness_score": 0.484375,
       "uncovered": [
@@ -798,25 +757,10 @@
     "proposal_id": "12",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20574/nsf20574.htm",
     "required_skills": [
-      "chemical",
-      "communication"
+      "communication",
+      "chemical"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
@@ -835,7 +779,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -844,16 +788,16 @@
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20566/nsf20566.htm",
     "required_skills": [
       "machine learning",
-      "ai",
       "security",
-      "artificial intelligence",
-      "support system",
-      "health",
       "ha long",
-      "decision support",
       "learning",
+      "health",
       "ai system",
-      "algorithm"
+      "algorithm",
+      "artificial intelligence",
+      "decision support",
+      "support system",
+      "ai"
     ],
     "recommended_team": [
       {
@@ -866,26 +810,11 @@
         ]
       },
       {
-        "id": "16",
-        "name": "Brookshire, Robert G., Ph.D.",
-        "matching_skills": [
-          "learning"
-        ]
-      },
-      {
-        "id": "158",
-        "name": "Srivastava, Biplav",
-        "matching_skills": [
-          "health",
-          "artificial intelligence"
-        ]
-      },
-      {
         "id": "191",
         "name": "Wu, Dezhi",
         "matching_skills": [
-          "ai",
-          "health"
+          "health",
+          "ai"
         ]
       },
       {
@@ -895,14 +824,27 @@
           "artificial intelligence",
           "ai system"
         ]
+      },
+      {
+        "id": "16",
+        "name": "Brookshire, Robert G., Ph.D.",
+        "matching_skills": [
+          "learning"
+        ]
+      },
+      {
+        "id": "168",
+        "name": "Tang, Jijun",
+        "matching_skills": [
+          "algorithm"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.6962332211870225,
+      "coverage": 0.7974888141246818,
       "seat_cost": 4.1479718120372775,
-      "goodness_score": 0.4204545454545454,
+      "goodness_score": 0.4318181818181818,
       "uncovered": [
-        "algorithm",
         "ha long",
         "security"
       ]
@@ -916,26 +858,6 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": []
-      },
-      {
         "id": "117",
         "name": "Mustain, William E",
         "matching_skills": [
@@ -946,7 +868,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.4,
       "uncovered": []
     }
   },
@@ -954,17 +876,25 @@
     "proposal_id": "15",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20563/nsf20563.htm",
     "required_skills": [
-      "machine learning",
       "automation",
-      "security",
       "personalized medicine",
-      "range application",
+      "machine learning",
+      "security",
       "energy",
-      "civil",
       "learning",
-      "artificial intelligence"
+      "artificial intelligence",
+      "range application",
+      "civil"
     ],
     "recommended_team": [
+      {
+        "id": "179",
+        "name": "Vitzilaios, Nikolaos (Nikos)",
+        "matching_skills": [
+          "machine learning",
+          "automation"
+        ]
+      },
       {
         "id": "16",
         "name": "Brookshire, Robert G., Ph.D.",
@@ -987,28 +917,19 @@
         ]
       },
       {
-        "id": "84",
-        "name": "Jamshidi, Pooyan ",
+        "id": "98",
+        "name": "Liu, Chang",
         "matching_skills": [
-          "machine learning",
-          "artificial intelligence"
-        ]
-      },
-      {
-        "id": "179",
-        "name": "Vitzilaios, Nikolaos (Nikos)",
-        "matching_skills": [
-          "machine learning",
-          "automation"
+          "personalized medicine"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.6369717399363031,
+      "coverage": 0.6791264303501632,
       "seat_cost": 4.242147978297158,
-      "goodness_score": 0.3888888888888889,
+      "goodness_score": 0.375,
       "uncovered": [
-        "personalized medicine",
+        "artificial intelligence",
         "range application",
         "security"
       ]
@@ -1018,15 +939,15 @@
     "proposal_id": "16",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20560/nsf20560.htm",
     "required_skills": [
-      "including limited",
-      "energy transport",
       "biological process",
-      "synthesis",
-      "modeling",
       "experimental theoretical",
       "chemical",
+      "energy transport",
       "energy",
+      "modeling",
+      "including limited",
       "engineering",
+      "synthesis",
       "science engineering"
     ],
     "recommended_team": [
@@ -1083,28 +1004,28 @@
     "proposal_id": "17",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20557/nsf20557.htm",
     "required_skills": [
-      "internet thing",
       "system application",
-      "communication",
       "application including",
       "wireless communication",
       "high speed",
-      "thing iot"
+      "internet thing",
+      "thing iot",
+      "communication"
     ],
     "recommended_team": [
+      {
+        "id": "92",
+        "name": "Koppel, Tarmo",
+        "matching_skills": [
+          "internet thing",
+          "thing iot"
+        ]
+      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
           "communication"
-        ]
-      },
-      {
-        "id": "92",
-        "name": "Koppel, Tarmo",
-        "matching_skills": [
-          "thing iot",
-          "internet thing"
         ]
       },
       {
@@ -1115,26 +1036,26 @@
         ]
       },
       {
-        "id": "130",
-        "name": "Qian, Yu",
-        "matching_skills": [
-          "high speed"
-        ]
-      },
-      {
         "id": "145",
         "name": "Sadati, Monirosadat (Sanaz)",
         "matching_skills": [
           "application including"
         ]
+      },
+      {
+        "id": "146",
+        "name": "Sahin, Alphan ",
+        "matching_skills": [
+          "wireless communication"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.8553290577395427,
+      "coverage": 0.8680256535627434,
       "seat_cost": 4.562135211609247,
       "goodness_score": 0.4464285714285714,
       "uncovered": [
-        "wireless communication"
+        "high speed"
       ]
     }
   },
@@ -1147,16 +1068,6 @@
       "engineering"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
       {
         "id": "35",
         "name": "Devereux, Emily",
@@ -1182,7 +1093,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.45,
       "uncovered": []
     }
   },
@@ -1190,12 +1101,12 @@
     "proposal_id": "19",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20552/nsf20552.htm",
     "required_skills": [
+      "chemical",
+      "production",
       "business",
       "material",
-      "chemical",
       "machine design",
-      "logistics",
-      "production"
+      "logistics"
     ],
     "recommended_team": [
       {
@@ -1227,19 +1138,19 @@
         ]
       },
       {
-        "id": "138",
-        "name": "Ritter, James A.",
+        "id": "142",
+        "name": "Rocheleau, David ",
         "matching_skills": [
-          "material"
+          "machine design"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.8308593155448354,
+      "coverage": 0.8457034222758228,
       "seat_cost": 4.552481280463815,
       "goodness_score": 0.4375,
       "uncovered": [
-        "machine design"
+        "material"
       ]
     }
   },
@@ -1247,20 +1158,20 @@
     "proposal_id": "20",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20544/nsf20544.htm",
     "required_skills": [
-      "computer information",
-      "science foundation",
-      "science engineering",
-      "engineering",
       "national science",
-      "information science"
+      "computer information",
+      "information science",
+      "engineering",
+      "science engineering",
+      "science foundation"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -1285,37 +1196,49 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
+        "id": "8",
+        "name": "Bayoumi, Abdel-Moez E. ",
         "matching_skills": [
-          "science engineering"
+          "science foundation",
+          "national science"
         ]
       }
     ],
     "metrics": {
-      "coverage": 1.0,
+      "coverage": 0.8579440914333486,
       "seat_cost": 4.131526506412439,
-      "goodness_score": 0.5,
-      "uncovered": []
+      "goodness_score": 0.47916666666666663,
+      "uncovered": [
+        "science engineering"
+      ]
     }
   },
   {
     "proposal_id": "21",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20541/nsf20541.htm",
     "required_skills": [
-      "cell type",
-      "develop strategy",
-      "foundation nsf",
-      "product",
-      "science foundation",
       "chemical",
-      "dynamic",
       "national science",
-      "cell cell",
+      "foundation nsf",
+      "fundamental understanding",
       "control",
-      "fundamental understanding"
+      "develop strategy",
+      "product",
+      "cell type",
+      "dynamic",
+      "science foundation",
+      "cell cell"
     ],
     "recommended_team": [
+      {
+        "id": "3",
+        "name": "Ali, Mohammod",
+        "matching_skills": [
+          "foundation nsf",
+          "national science",
+          "science foundation"
+        ]
+      },
       {
         "id": "2",
         "name": "Alexeev, Oleg S.",
@@ -1325,12 +1248,11 @@
         ]
       },
       {
-        "id": "3",
-        "name": "Ali, Mohammod",
+        "id": "52",
+        "name": "Gatzke, Edward P.",
         "matching_skills": [
-          "science foundation",
-          "national science",
-          "foundation nsf"
+          "fundamental understanding",
+          "control"
         ]
       },
       {
@@ -1346,19 +1268,11 @@
         "matching_skills": [
           "cell cell"
         ]
-      },
-      {
-        "id": "52",
-        "name": "Gatzke, Edward P.",
-        "matching_skills": [
-          "fundamental understanding",
-          "control"
-        ]
       }
     ],
     "metrics": {
-      "coverage": 0.720724130679871,
-      "seat_cost": 4.379739554848693,
+      "coverage": 0.7207241306798708,
+      "seat_cost": 4.379739554848694,
       "goodness_score": 0.40909090909090906,
       "uncovered": [
         "cell type",
@@ -1371,28 +1285,29 @@
     "proposal_id": "22",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20540/nsf20540.htm",
     "required_skills": [
-      "graduate student",
-      "principal investigator",
       "area",
-      "computer information",
-      "artificial intelligence",
-      "science foundation",
-      "deep learning",
-      "science engineering",
-      "new york",
-      "activity focused",
-      "engineering",
       "national science",
       "learning",
-      "information science"
+      "computer information",
+      "principal investigator",
+      "information science",
+      "deep learning",
+      "engineering",
+      "graduate student",
+      "artificial intelligence",
+      "new york",
+      "science engineering",
+      "science foundation",
+      "activity focused"
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
+        "id": "16",
+        "name": "Brookshire, Robert G., Ph.D.",
         "matching_skills": [
-          "deep learning",
-          "artificial intelligence"
+          "new york",
+          "learning",
+          "computer information"
         ]
       },
       {
@@ -1405,19 +1320,18 @@
         ]
       },
       {
+        "id": "0",
+        "name": "Agostinelli, Forest",
+        "matching_skills": [
+          "deep learning",
+          "artificial intelligence"
+        ]
+      },
+      {
         "id": "14",
         "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "information science"
-        ]
-      },
-      {
-        "id": "16",
-        "name": "Brookshire, Robert G., Ph.D.",
-        "matching_skills": [
-          "computer information",
-          "learning",
-          "new york"
         ]
       },
       {
@@ -1445,29 +1359,22 @@
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20539/nsf20539.htm",
     "required_skills": [
       "professional development",
-      "computer science",
       "development",
-      "foundation nsf",
-      "material",
-      "science foundation",
       "national science",
-      "teaching"
+      "foundation nsf",
+      "teaching",
+      "computer science",
+      "material",
+      "science foundation"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
-        ]
-      },
-      {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science"
+          "science foundation"
         ]
       },
       {
@@ -1490,14 +1397,21 @@
         "matching_skills": [
           "teaching"
         ]
+      },
+      {
+        "id": "138",
+        "name": "Ritter, James A.",
+        "matching_skills": [
+          "material"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.8746544933804435,
+      "coverage": 0.8952692645522525,
       "seat_cost": 4.202976440916269,
       "goodness_score": 0.453125,
       "uncovered": [
-        "material"
+        "computer science"
       ]
     }
   },
@@ -1505,16 +1419,11 @@
     "proposal_id": "24",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20522/nsf20522.htm",
     "required_skills": [
-      "development",
       "united state",
+      "development",
       "robotics"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
       {
         "id": "35",
         "name": "Devereux, Emily",
@@ -1535,19 +1444,12 @@
         "matching_skills": [
           "robotics"
         ]
-      },
-      {
-        "id": "160",
-        "name": "Stiffler, Nick",
-        "matching_skills": [
-          "robotics"
-        ]
       }
     ],
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.484903762445787,
-      "goodness_score": 0.5416666666666666,
+      "goodness_score": 0.45,
       "uncovered": []
     }
   },
@@ -1555,10 +1457,10 @@
     "proposal_id": "25",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20517/nsf20517.htm",
     "required_skills": [
-      "chemical",
       "environmental engineering",
-      "engineering",
-      "science engineering"
+      "science engineering",
+      "chemical",
+      "engineering"
     ],
     "recommended_team": [
       {
@@ -1576,13 +1478,6 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
         "id": "108",
         "name": "McAnally, A. Steve",
         "matching_skills": [
@@ -1590,8 +1485,8 @@
         ]
       },
       {
-        "id": "123",
-        "name": "Pain, Christopher C.",
+        "id": "83",
+        "name": "Jalilvand, Golareh",
         "matching_skills": [
           "science engineering"
         ]
@@ -1600,7 +1495,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.172118931174828,
-      "goodness_score": 0.53125,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -1609,23 +1504,23 @@
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20514/nsf20514.htm",
     "required_skills": [
       "area",
+      "national science",
       "foundation nsf",
-      "area future",
-      "science foundation",
-      "science engineering",
-      "program director",
       "engineering",
-      "national science"
+      "science engineering",
+      "science foundation",
+      "program director",
+      "area future"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "program director",
-          "foundation nsf"
+          "science foundation",
+          "program director"
         ]
       },
       {
@@ -1643,25 +1538,28 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
         "id": "98",
         "name": "Liu, Chang",
         "matching_skills": [
           "area future"
         ]
+      },
+      {
+        "id": "8",
+        "name": "Bayoumi, Abdel-Moez E. ",
+        "matching_skills": [
+          "science foundation",
+          "national science"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 1.0,
+      "coverage": 0.8965171505836104,
       "seat_cost": 4.253659579429789,
-      "goodness_score": 0.5,
-      "uncovered": []
+      "goodness_score": 0.484375,
+      "uncovered": [
+        "science engineering"
+      ]
     }
   },
   {
@@ -1669,23 +1567,23 @@
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20513/nsf20513.htm",
     "required_skills": [
       "area",
+      "national science",
       "foundation nsf",
-      "area future",
-      "science foundation",
-      "science engineering",
-      "program director",
       "engineering",
-      "national science"
+      "science engineering",
+      "science foundation",
+      "program director",
+      "area future"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "program director",
-          "foundation nsf"
+          "science foundation",
+          "program director"
         ]
       },
       {
@@ -1703,48 +1601,51 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
         "id": "98",
         "name": "Liu, Chang",
         "matching_skills": [
           "area future"
         ]
+      },
+      {
+        "id": "8",
+        "name": "Bayoumi, Abdel-Moez E. ",
+        "matching_skills": [
+          "science foundation",
+          "national science"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 1.0,
+      "coverage": 0.8965171505836104,
       "seat_cost": 4.253659579429789,
-      "goodness_score": 0.5,
-      "uncovered": []
+      "goodness_score": 0.484375,
+      "uncovered": [
+        "science engineering"
+      ]
     }
   },
   {
     "proposal_id": "28",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20511/nsf20511.htm",
     "required_skills": [
-      "machine learning",
-      "fuel",
-      "area",
-      "synthesis",
       "system application",
-      "big data",
-      "security",
-      "communication",
-      "artificial intelligence",
-      "science foundation",
-      "energy",
-      "engineering",
+      "machine learning",
+      "area",
       "national science",
+      "fuel",
+      "control",
+      "security",
+      "cyber system",
+      "energy",
       "learning",
       "information science",
-      "control",
-      "cyber system"
+      "big data",
+      "engineering",
+      "artificial intelligence",
+      "synthesis",
+      "communication",
+      "science foundation"
     ],
     "recommended_team": [
       {
@@ -1752,9 +1653,9 @@
         "name": "Ali, Mohammod",
         "matching_skills": [
           "communication",
-          "science foundation",
           "national science",
-          "cyber system"
+          "cyber system",
+          "science foundation"
         ]
       },
       {
@@ -1780,23 +1681,22 @@
         ]
       },
       {
-        "id": "84",
-        "name": "Jamshidi, Pooyan ",
+        "id": "51",
+        "name": "Gassman, Sarah",
         "matching_skills": [
-          "machine learning",
-          "artificial intelligence"
+          "engineering"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.49581405459907407,
-      "seat_cost": 4.312189454634167,
-      "goodness_score": 0.3308823529411765,
+      "coverage": 0.5177687528734587,
+      "seat_cost": 4.312189454634168,
+      "goodness_score": 0.3235294117647059,
       "uncovered": [
         "area",
+        "artificial intelligence",
         "big data",
         "control",
-        "engineering",
         "fuel",
         "security",
         "synthesis",
@@ -1808,36 +1708,36 @@
     "proposal_id": "29",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20510/nsf20510.htm",
     "required_skills": [
+      "chemical",
+      "national science",
+      "cyber system",
       "division electrical",
-      "directorate engineering",
+      "review process",
+      "engineering",
       "communication",
       "science foundation",
-      "chemical",
       "civil",
-      "engineering",
-      "national science",
-      "review process",
-      "cyber system"
+      "directorate engineering"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "directorate engineering",
+          "division electrical",
           "communication",
-          "science foundation",
           "national science",
           "cyber system",
-          "division electrical"
+          "science foundation",
+          "directorate engineering"
         ]
       },
       {
-        "id": "8",
-        "name": "Bayoumi, Abdel-Moez E. ",
+        "id": "51",
+        "name": "Gassman, Sarah",
         "matching_skills": [
-          "science foundation",
-          "national science"
+          "civil",
+          "engineering"
         ]
       },
       {
@@ -1853,20 +1753,12 @@
         "matching_skills": [
           "review process"
         ]
-      },
-      {
-        "id": "51",
-        "name": "Gassman, Sarah",
-        "matching_skills": [
-          "civil",
-          "engineering"
-        ]
       }
     ],
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.436800652107012,
-      "goodness_score": 0.525,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -1874,23 +1766,31 @@
     "proposal_id": "30",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20505/nsf20505.htm",
     "required_skills": [
-      "area",
       "professional development",
-      "year",
+      "area",
       "development",
-      "science foundation",
-      "track",
-      "full professor",
       "national science",
-      "retention"
+      "full professor",
+      "track",
+      "science foundation",
+      "retention",
+      "year"
     ],
     "recommended_team": [
+      {
+        "id": "101",
+        "name": "Lyons, Jed ",
+        "matching_skills": [
+          "retention",
+          "full professor"
+        ]
+      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -1901,35 +1801,27 @@
         ]
       },
       {
-        "id": "35",
-        "name": "Devereux, Emily",
+        "id": "133",
+        "name": "Regan, Elizabeth A.",
         "matching_skills": [
-          "development"
+          "year"
         ]
       },
       {
-        "id": "77",
-        "name": "Humphries, Wilfred Kenneth",
+        "id": "139",
+        "name": "Rizos, Dimitris",
         "matching_skills": [
-          "area"
-        ]
-      },
-      {
-        "id": "101",
-        "name": "Lyons, Jed ",
-        "matching_skills": [
-          "retention",
-          "full professor"
+          "track"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.7675322091733394,
-      "seat_cost": 4.416438635843141,
+      "coverage": 0.7675322091733396,
+      "seat_cost": 4.41643863584314,
       "goodness_score": 0.4166666666666667,
       "uncovered": [
-        "track",
-        "year"
+        "area",
+        "development"
       ]
     }
   },
@@ -1938,30 +1830,16 @@
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20503/nsf20503.htm",
     "required_skills": [
       "machine learning",
-      "ai",
-      "industry",
-      "security",
       "development",
-      "economic impact",
+      "security",
+      "continued advancement",
       "learning",
+      "economic impact",
+      "industry",
       "artificial intelligence",
-      "continued advancement"
+      "ai"
     ],
     "recommended_team": [
-      {
-        "id": "16",
-        "name": "Brookshire, Robert G., Ph.D.",
-        "matching_skills": [
-          "learning"
-        ]
-      },
-      {
-        "id": "35",
-        "name": "Devereux, Emily",
-        "matching_skills": [
-          "development"
-        ]
-      },
       {
         "id": "84",
         "name": "Jamshidi, Pooyan ",
@@ -1971,10 +1849,24 @@
         ]
       },
       {
-        "id": "92",
-        "name": "Koppel, Tarmo",
+        "id": "16",
+        "name": "Brookshire, Robert G., Ph.D.",
         "matching_skills": [
-          "industry"
+          "learning"
+        ]
+      },
+      {
+        "id": "191",
+        "name": "Wu, Dezhi",
+        "matching_skills": [
+          "ai"
+        ]
+      },
+      {
+        "id": "35",
+        "name": "Devereux, Emily",
+        "matching_skills": [
+          "development"
         ]
       },
       {
@@ -1986,13 +1878,13 @@
       }
     ],
     "metrics": {
-      "coverage": 0.6330749905276324,
+      "coverage": 0.6438090017255123,
       "seat_cost": 4.197096299618473,
       "goodness_score": 0.375,
       "uncovered": [
-        "ai",
         "continued advancement",
-        "economic impact"
+        "economic impact",
+        "industry"
       ]
     }
   },
@@ -2000,26 +1892,42 @@
     "proposal_id": "32",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20501/nsf20501.htm",
     "required_skills": [
-      "combustion",
-      "thermal transport",
-      "foundation nsf",
-      "science foundation",
       "chemical",
-      "transport phenomenon",
-      "engineering",
       "national science",
+      "foundation nsf",
       "transport process",
+      "fluid dynamic",
       "dynamic",
-      "fluid dynamic"
+      "engineering",
+      "transport phenomenon",
+      "science foundation",
+      "thermal transport",
+      "combustion"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
+        ]
+      },
+      {
+        "id": "72",
+        "name": "Hu, Ming",
+        "matching_skills": [
+          "transport process",
+          "thermal transport"
+        ]
+      },
+      {
+        "id": "39",
+        "name": "Dryer, Frederick  L. ",
+        "matching_skills": [
+          "combustion",
+          "fluid dynamic"
         ]
       },
       {
@@ -2030,26 +1938,10 @@
         ]
       },
       {
-        "id": "39",
-        "name": "Dryer, Frederick  L. ",
-        "matching_skills": [
-          "fluid dynamic",
-          "combustion"
-        ]
-      },
-      {
         "id": "51",
         "name": "Gassman, Sarah",
         "matching_skills": [
           "engineering"
-        ]
-      },
-      {
-        "id": "72",
-        "name": "Hu, Ming",
-        "matching_skills": [
-          "thermal transport",
-          "transport process"
         ]
       }
     ],
@@ -2067,23 +1959,31 @@
     "proposal_id": "33",
     "proposal_name": "https://www.nsf.gov/pubs/2020/nsf20500/nsf20500.htm",
     "required_skills": [
-      "tissue engineering",
-      "mechanobiology",
-      "foundation nsf",
-      "science foundation",
       "chemical",
-      "civil",
+      "foundation nsf",
+      "national science",
+      "mechanobiology",
       "engineering",
-      "national science"
+      "science foundation",
+      "tissue engineering",
+      "civil"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "civil",
+          "engineering"
         ]
       },
       {
@@ -2094,13 +1994,6 @@
         ]
       },
       {
-        "id": "13",
-        "name": "Blanchette, James  Otto",
-        "matching_skills": [
-          "tissue engineering"
-        ]
-      },
-      {
         "id": "41",
         "name": "Eberth, John F.",
         "matching_skills": [
@@ -2108,38 +2001,57 @@
         ]
       },
       {
-        "id": "51",
-        "name": "Gassman, Sarah",
+        "id": "8",
+        "name": "Bayoumi, Abdel-Moez E. ",
         "matching_skills": [
-          "civil",
-          "engineering"
+          "science foundation",
+          "national science"
         ]
       }
     ],
     "metrics": {
-      "coverage": 1.0,
-      "seat_cost": 4.276449774029034,
-      "goodness_score": 0.5,
-      "uncovered": []
+      "coverage": 0.8917394023571625,
+      "seat_cost": 4.276449774029033,
+      "goodness_score": 0.484375,
+      "uncovered": [
+        "tissue engineering"
+      ]
     }
   },
   {
     "proposal_id": "34",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19614/nsf19614.htm",
     "required_skills": [
-      "engineering material",
-      "professional practice",
-      "year",
-      "material",
+      "capstone design",
       "professional engineer",
       "engineering education",
-      "capstone design",
-      "first year",
       "engineering department",
+      "learning",
       "engineering",
-      "learning"
+      "first year",
+      "material",
+      "engineering material",
+      "professional practice",
+      "year"
     ],
     "recommended_team": [
+      {
+        "id": "101",
+        "name": "Lyons, Jed ",
+        "matching_skills": [
+          "engineering education",
+          "professional engineer",
+          "engineering material"
+        ]
+      },
+      {
+        "id": "155",
+        "name": "Smoak, Wilson",
+        "matching_skills": [
+          "capstone design",
+          "engineering department"
+        ]
+      },
       {
         "id": "16",
         "name": "Brookshire, Robert G., Ph.D.",
@@ -2160,23 +2072,6 @@
         "matching_skills": [
           "engineering"
         ]
-      },
-      {
-        "id": "101",
-        "name": "Lyons, Jed ",
-        "matching_skills": [
-          "engineering material",
-          "professional engineer",
-          "engineering education"
-        ]
-      },
-      {
-        "id": "155",
-        "name": "Smoak, Wilson",
-        "matching_skills": [
-          "capstone design",
-          "engineering department"
-        ]
       }
     ],
     "metrics": {
@@ -2194,25 +2089,26 @@
     "proposal_id": "35",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19613/nsf19613.htm",
     "required_skills": [
+      "system application",
       "machine learning",
       "area",
-      "computer information",
-      "synthesis",
-      "system application",
-      "modeling",
-      "year",
       "embedded system",
-      "engineering",
-      "science engineering",
       "learning",
-      "information science"
+      "computer information",
+      "modeling",
+      "information science",
+      "engineering",
+      "synthesis",
+      "science engineering",
+      "year"
     ],
     "recommended_team": [
       {
-        "id": "5",
-        "name": "Bakos, Jason D. ",
+        "id": "16",
+        "name": "Brookshire, Robert G., Ph.D.",
         "matching_skills": [
-          "embedded system"
+          "learning",
+          "computer information"
         ]
       },
       {
@@ -2224,11 +2120,18 @@
         ]
       },
       {
-        "id": "16",
-        "name": "Brookshire, Robert G., Ph.D.",
+        "id": "83",
+        "name": "Jalilvand, Golareh",
         "matching_skills": [
-          "computer information",
-          "learning"
+          "machine learning",
+          "science engineering"
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Bakos, Jason D. ",
+        "matching_skills": [
+          "embedded system"
         ]
       },
       {
@@ -2236,14 +2139,6 @@
         "name": "Gassman, Sarah",
         "matching_skills": [
           "engineering"
-        ]
-      },
-      {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "machine learning",
-          "science engineering"
         ]
       }
     ],
@@ -2265,20 +2160,10 @@
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19599/nsf19599.htm",
     "required_skills": [
       "area",
-      "directorate engineering",
-      "engineering"
+      "engineering",
+      "directorate engineering"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
@@ -2304,7 +2189,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.45,
       "uncovered": []
     }
   },
@@ -2312,16 +2197,32 @@
     "proposal_id": "37",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19596/nsf19596.htm",
     "required_skills": [
-      "physic",
-      "material science",
-      "property",
       "applied mathematics",
-      "material",
-      "plasma",
+      "physic",
+      "property",
       "engineering",
-      "science engineering"
+      "material science",
+      "material",
+      "science engineering",
+      "plasma"
     ],
     "recommended_team": [
+      {
+        "id": "180",
+        "name": "Vogt, Thomas",
+        "matching_skills": [
+          "physic",
+          "material science"
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Jalilvand, Golareh",
+        "matching_skills": [
+          "science engineering",
+          "material science"
+        ]
+      },
       {
         "id": "46",
         "name": "Farouk, Tanvir   I.",
@@ -2342,27 +2243,11 @@
         "matching_skills": [
           "applied mathematics"
         ]
-      },
-      {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "material science",
-          "science engineering"
-        ]
-      },
-      {
-        "id": "180",
-        "name": "Vogt, Thomas",
-        "matching_skills": [
-          "physic",
-          "material science"
-        ]
       }
     ],
     "metrics": {
       "coverage": 0.7458622668029932,
-      "seat_cost": 4.345405726314815,
+      "seat_cost": 4.345405726314814,
       "goodness_score": 0.421875,
       "uncovered": [
         "material",
@@ -2375,11 +2260,11 @@
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19589/nsf19589.htm",
     "required_skills": [
       "computer information",
-      "communication",
-      "project develop",
+      "information science",
       "engineering",
       "science engineering",
-      "information science"
+      "project develop",
+      "communication"
     ],
     "recommended_team": [
       {
@@ -2411,19 +2296,19 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
+        "id": "98",
+        "name": "Liu, Chang",
         "matching_skills": [
-          "science engineering"
+          "project develop"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.8392375107823363,
+      "coverage": 0.8656770858226394,
       "seat_cost": 4.369379232352463,
       "goodness_score": 0.4375,
       "uncovered": [
-        "project develop"
+        "science engineering"
       ]
     }
   },
@@ -2431,13 +2316,13 @@
     "proposal_id": "39",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19577/nsf19577.htm",
     "required_skills": [
-      "synthesis",
-      "computational method",
+      "catalysis",
+      "chemistry",
       "chemical",
       "dynamic",
-      "chemistry",
-      "imaging",
-      "catalysis"
+      "synthesis",
+      "computational method",
+      "imaging"
     ],
     "recommended_team": [
       {
@@ -2445,13 +2330,6 @@
         "name": "Berge, Nicole D.",
         "matching_skills": [
           "chemical"
-        ]
-      },
-      {
-        "id": "22",
-        "name": "Chandrashekhar, MVS",
-        "matching_skills": [
-          "chemistry"
         ]
       },
       {
@@ -2474,14 +2352,21 @@
         "matching_skills": [
           "computational method"
         ]
+      },
+      {
+        "id": "141",
+        "name": "Roberts, Kenneth L",
+        "matching_skills": [
+          "catalysis"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.7106581154790855,
+      "coverage": 0.7233547113022862,
       "seat_cost": 4.562135211609247,
       "goodness_score": 0.39285714285714285,
       "uncovered": [
-        "catalysis",
+        "chemistry",
         "dynamic"
       ]
     }
@@ -2495,16 +2380,6 @@
       "development"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
       {
         "id": "14",
         "name": "Boltin, Nicholas D.",
@@ -2530,7 +2405,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.45,
       "uncovered": []
     }
   },
@@ -2539,16 +2414,11 @@
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19572/nsf19572.htm",
     "required_skills": [
       "security",
-      "problem involving",
       "cyber system",
+      "problem involving",
       "engineering"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
@@ -2581,7 +2451,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -2590,23 +2460,39 @@
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19571/nsf19571.htm",
     "required_skills": [
       "machine learning",
-      "ai",
+      "national science",
       "security",
-      "artificial intelligence",
-      "science foundation",
-      "health",
       "ha long",
       "learning",
-      "national science",
-      "ai system"
+      "health",
+      "ai system",
+      "artificial intelligence",
+      "science foundation",
+      "ai"
     ],
     "recommended_team": [
+      {
+        "id": "191",
+        "name": "Wu, Dezhi",
+        "matching_skills": [
+          "health",
+          "ai"
+        ]
+      },
+      {
+        "id": "199",
+        "name": "Zhang, Qi",
+        "matching_skills": [
+          "artificial intelligence",
+          "ai system"
+        ]
+      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -2617,37 +2503,20 @@
         ]
       },
       {
-        "id": "84",
-        "name": "Jamshidi, Pooyan ",
+        "id": "106",
+        "name": "Matthews, Manton M",
         "matching_skills": [
-          "machine learning",
-          "artificial intelligence"
-        ]
-      },
-      {
-        "id": "191",
-        "name": "Wu, Dezhi",
-        "matching_skills": [
-          "ai",
-          "health"
-        ]
-      },
-      {
-        "id": "199",
-        "name": "Zhang, Qi",
-        "matching_skills": [
-          "artificial intelligence",
-          "ai system"
+          "security"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.7705667389668881,
-      "seat_cost": 4.027366195884801,
-      "goodness_score": 0.43750000000000006,
+      "coverage": 0.81505634785964,
+      "seat_cost": 4.0273661958848015,
+      "goodness_score": 0.42500000000000004,
       "uncovered": [
         "ha long",
-        "security"
+        "machine learning"
       ]
     }
   },
@@ -2655,21 +2524,14 @@
     "proposal_id": "43",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19553/nsf19553.htm",
     "required_skills": [
-      "security",
       "personalized medicine",
-      "range application",
+      "security",
       "energy",
-      "civil",
-      "artificial intelligence"
+      "artificial intelligence",
+      "range application",
+      "civil"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": [
-          "artificial intelligence"
-        ]
-      },
       {
         "id": "46",
         "name": "Farouk, Tanvir   I.",
@@ -2697,14 +2559,21 @@
         "matching_skills": [
           "security"
         ]
+      },
+      {
+        "id": "145",
+        "name": "Sadati, Monirosadat (Sanaz)",
+        "matching_skills": [
+          "range application"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.8230602481763799,
+      "coverage": 0.8846987591181004,
       "seat_cost": 4.351819146409492,
       "goodness_score": 0.4375,
       "uncovered": [
-        "range application"
+        "artificial intelligence"
       ]
     }
   },
@@ -2713,26 +2582,18 @@
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19536/nsf19536.htm",
     "required_skills": [
       "united state",
-      "robotics",
       "development",
-      "science foundation",
-      "national science"
+      "national science",
+      "robotics",
+      "science foundation"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
-        ]
-      },
-      {
-        "id": "8",
-        "name": "Bayoumi, Abdel-Moez E. ",
-        "matching_skills": [
-          "science foundation",
-          "national science"
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -2760,7 +2621,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.172449484110547,
-      "goodness_score": 0.55,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -2769,23 +2630,23 @@
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19532/nsf19532.htm",
     "required_skills": [
       "area",
+      "national science",
       "foundation nsf",
-      "area future",
-      "science foundation",
-      "science engineering",
-      "program director",
       "engineering",
-      "national science"
+      "science engineering",
+      "science foundation",
+      "program director",
+      "area future"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "program director",
-          "foundation nsf"
+          "science foundation",
+          "program director"
         ]
       },
       {
@@ -2803,50 +2664,53 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
         "id": "98",
         "name": "Liu, Chang",
         "matching_skills": [
           "area future"
         ]
+      },
+      {
+        "id": "8",
+        "name": "Bayoumi, Abdel-Moez E. ",
+        "matching_skills": [
+          "science foundation",
+          "national science"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 1.0,
+      "coverage": 0.8965171505836104,
       "seat_cost": 4.253659579429789,
-      "goodness_score": 0.5,
-      "uncovered": []
+      "goodness_score": 0.484375,
+      "uncovered": [
+        "science engineering"
+      ]
     }
   },
   {
     "proposal_id": "46",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19529/nsf19529.htm",
     "required_skills": [
-      "computer information",
-      "directorate engineering",
+      "national science",
       "security",
-      "science foundation",
-      "science engineering",
       "energy",
+      "computer information",
+      "information science",
       "service",
       "engineering",
-      "national science",
-      "information science"
+      "science engineering",
+      "science foundation",
+      "directorate engineering"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "directorate engineering",
+          "national science",
           "science foundation",
-          "national science"
+          "directorate engineering"
         ]
       },
       {
@@ -2879,8 +2743,8 @@
       }
     ],
     "metrics": {
-      "coverage": 0.7050671881784515,
-      "seat_cost": 4.3269394232402,
+      "coverage": 0.7050671881784514,
+      "seat_cost": 4.3269394232402005,
       "goodness_score": 0.38749999999999996,
       "uncovered": [
         "science engineering",
@@ -2893,25 +2757,10 @@
     "proposal_id": "47",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19528/nsf19528.htm",
     "required_skills": [
-      "chemical",
-      "dynamic"
+      "dynamic",
+      "chemical"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
       {
         "id": "10",
         "name": "Berge, Nicole D.",
@@ -2930,7 +2779,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -2938,26 +2787,42 @@
     "proposal_id": "48",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19525/nsf19525.htm",
     "required_skills": [
-      "combustion",
-      "thermal transport",
-      "foundation nsf",
-      "science foundation",
       "chemical",
-      "transport phenomenon",
-      "engineering",
       "national science",
+      "foundation nsf",
       "transport process",
+      "fluid dynamic",
       "dynamic",
-      "fluid dynamic"
+      "engineering",
+      "transport phenomenon",
+      "science foundation",
+      "thermal transport",
+      "combustion"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
+        ]
+      },
+      {
+        "id": "72",
+        "name": "Hu, Ming",
+        "matching_skills": [
+          "transport process",
+          "thermal transport"
+        ]
+      },
+      {
+        "id": "39",
+        "name": "Dryer, Frederick  L. ",
+        "matching_skills": [
+          "combustion",
+          "fluid dynamic"
         ]
       },
       {
@@ -2968,26 +2833,10 @@
         ]
       },
       {
-        "id": "39",
-        "name": "Dryer, Frederick  L. ",
-        "matching_skills": [
-          "fluid dynamic",
-          "combustion"
-        ]
-      },
-      {
         "id": "51",
         "name": "Gassman, Sarah",
         "matching_skills": [
           "engineering"
-        ]
-      },
-      {
-        "id": "72",
-        "name": "Hu, Ming",
-        "matching_skills": [
-          "thermal transport",
-          "transport process"
         ]
       }
     ],
@@ -3005,20 +2854,20 @@
     "proposal_id": "49",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19520/nsf19520.htm",
     "required_skills": [
-      "mm",
       "development",
-      "science foundation",
-      "statistic",
       "national science",
-      "production"
+      "science foundation",
+      "production",
+      "mm",
+      "statistic"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -3061,41 +2910,27 @@
     "proposal_id": "50",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19516/nsf19516.htm",
     "required_skills": [
-      "system design",
-      "material science",
-      "advanced material",
-      "property",
+      "coordination activity",
+      "national science",
       "development",
-      "material",
-      "science foundation",
-      "science engineering",
+      "advanced material",
+      "system design",
+      "property",
       "discovery",
       "engineering",
-      "national science",
-      "coordination activity"
+      "material science",
+      "material",
+      "science engineering",
+      "science foundation"
     ],
     "recommended_team": [
       {
-        "id": "3",
-        "name": "Ali, Mohammod",
+        "id": "185",
+        "name": "Wang, Yi",
         "matching_skills": [
-          "science foundation",
-          "national science"
-        ]
-      },
-      {
-        "id": "35",
-        "name": "Devereux, Emily",
-        "matching_skills": [
-          "development"
-        ]
-      },
-      {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "material science",
-          "science engineering"
+          "discovery",
+          "science engineering",
+          "system design"
         ]
       },
       {
@@ -3107,17 +2942,31 @@
         ]
       },
       {
-        "id": "185",
-        "name": "Wang, Yi",
+        "id": "3",
+        "name": "Ali, Mohammod",
         "matching_skills": [
-          "discovery",
-          "system design",
-          "science engineering"
+          "national science",
+          "science foundation"
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Jalilvand, Golareh",
+        "matching_skills": [
+          "science engineering",
+          "material science"
+        ]
+      },
+      {
+        "id": "35",
+        "name": "Devereux, Emily",
+        "matching_skills": [
+          "development"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.7347139677681715,
+      "coverage": 0.7347139677681717,
       "seat_cost": 4.226479363344803,
       "goodness_score": 0.41666666666666663,
       "uncovered": [
@@ -3132,23 +2981,23 @@
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19511/nsf19511.htm",
     "required_skills": [
       "area",
+      "national science",
       "foundation nsf",
-      "area future",
-      "science foundation",
-      "science engineering",
-      "program director",
       "engineering",
-      "national science"
+      "science engineering",
+      "science foundation",
+      "program director",
+      "area future"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "program director",
-          "foundation nsf"
+          "science foundation",
+          "program director"
         ]
       },
       {
@@ -3166,48 +3015,59 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
         "id": "98",
         "name": "Liu, Chang",
         "matching_skills": [
           "area future"
         ]
+      },
+      {
+        "id": "8",
+        "name": "Bayoumi, Abdel-Moez E. ",
+        "matching_skills": [
+          "science foundation",
+          "national science"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 1.0,
+      "coverage": 0.8965171505836104,
       "seat_cost": 4.253659579429789,
-      "goodness_score": 0.5,
-      "uncovered": []
+      "goodness_score": 0.484375,
+      "uncovered": [
+        "science engineering"
+      ]
     }
   },
   {
     "proposal_id": "52",
     "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19509/nsf19509.htm",
     "required_skills": [
-      "tissue engineering",
-      "mechanobiology",
-      "foundation nsf",
-      "science foundation",
       "chemical",
-      "civil",
+      "foundation nsf",
+      "national science",
+      "mechanobiology",
       "engineering",
-      "national science"
+      "science foundation",
+      "tissue engineering",
+      "civil"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "civil",
+          "engineering"
         ]
       },
       {
@@ -3218,60 +3078,10 @@
         ]
       },
       {
-        "id": "13",
-        "name": "Blanchette, James  Otto",
-        "matching_skills": [
-          "tissue engineering"
-        ]
-      },
-      {
         "id": "41",
         "name": "Eberth, John F.",
         "matching_skills": [
           "mechanobiology"
-        ]
-      },
-      {
-        "id": "51",
-        "name": "Gassman, Sarah",
-        "matching_skills": [
-          "civil",
-          "engineering"
-        ]
-      }
-    ],
-    "metrics": {
-      "coverage": 1.0,
-      "seat_cost": 4.276449774029034,
-      "goodness_score": 0.5,
-      "uncovered": []
-    }
-  },
-  {
-    "proposal_id": "53",
-    "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19505/nsf19505.htm",
-    "required_skills": [
-      "science foundation",
-      "year",
-      "national science"
-    ],
-    "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": [
-          "science foundation",
-          "national science"
         ]
       },
       {
@@ -3280,6 +3090,33 @@
         "matching_skills": [
           "science foundation",
           "national science"
+        ]
+      }
+    ],
+    "metrics": {
+      "coverage": 0.8917394023571625,
+      "seat_cost": 4.276449774029033,
+      "goodness_score": 0.484375,
+      "uncovered": [
+        "tissue engineering"
+      ]
+    }
+  },
+  {
+    "proposal_id": "53",
+    "proposal_name": "https://www.nsf.gov/pubs/2019/nsf19505/nsf19505.htm",
+    "required_skills": [
+      "science foundation",
+      "national science",
+      "year"
+    ],
+    "recommended_team": [
+      {
+        "id": "3",
+        "name": "Ali, Mohammod",
+        "matching_skills": [
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -3293,7 +3130,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.009198310565739,
-      "goodness_score": 0.5833333333333333,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -3301,13 +3138,13 @@
     "proposal_id": "54",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18598/nsf18598.htm",
     "required_skills": [
-      "computer information",
       "united state",
-      "industry",
+      "computer information",
+      "information science",
       "big data",
       "engineering",
-      "science engineering",
-      "information science"
+      "industry",
+      "science engineering"
     ],
     "recommended_team": [
       {
@@ -3339,20 +3176,20 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
+        "id": "191",
+        "name": "Wu, Dezhi",
         "matching_skills": [
-          "science engineering"
+          "big data"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.7134986138859333,
+      "coverage": 0.7491258152843366,
       "seat_cost": 4.405190598942374,
       "goodness_score": 0.39285714285714285,
       "uncovered": [
-        "big data",
-        "industry"
+        "industry",
+        "science engineering"
       ]
     }
   },
@@ -3360,19 +3197,27 @@
     "proposal_id": "55",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18596/nsf18596.htm",
     "required_skills": [
+      "system application",
       "machine learning",
       "area",
-      "computer information",
-      "synthesis",
-      "system application",
-      "modeling",
-      "year",
-      "engineering",
-      "science engineering",
       "learning",
-      "information science"
+      "computer information",
+      "modeling",
+      "information science",
+      "engineering",
+      "synthesis",
+      "science engineering",
+      "year"
     ],
     "recommended_team": [
+      {
+        "id": "16",
+        "name": "Brookshire, Robert G., Ph.D.",
+        "matching_skills": [
+          "learning",
+          "computer information"
+        ]
+      },
       {
         "id": "14",
         "name": "Boltin, Nicholas D.",
@@ -3382,11 +3227,11 @@
         ]
       },
       {
-        "id": "16",
-        "name": "Brookshire, Robert G., Ph.D.",
+        "id": "83",
+        "name": "Jalilvand, Golareh",
         "matching_skills": [
-          "computer information",
-          "learning"
+          "machine learning",
+          "science engineering"
         ]
       },
       {
@@ -3401,14 +3246,6 @@
         "name": "Huang, Kevin ",
         "matching_skills": [
           "modeling"
-        ]
-      },
-      {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "machine learning",
-          "science engineering"
         ]
       }
     ],
@@ -3432,26 +3269,6 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": []
-      },
-      {
         "id": "150",
         "name": "Shazly, Tarek ",
         "matching_skills": [
@@ -3462,7 +3279,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.4,
       "uncovered": []
     }
   },
@@ -3470,27 +3287,10 @@
     "proposal_id": "57",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18591/nsf18591.htm",
     "required_skills": [
-      "theoretical foundation",
-      "computer science"
+      "computer science",
+      "theoretical foundation"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science"
-        ]
-      },
       {
         "id": "47",
         "name": "Fenner, Stephen A. ",
@@ -3499,8 +3299,8 @@
         ]
       },
       {
-        "id": "48",
-        "name": "Fiedler, Kirk",
+        "id": "14",
+        "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "computer science"
         ]
@@ -3509,7 +3309,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.070752654147787,
-      "goodness_score": 0.5625,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -3522,41 +3322,18 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
-      {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
-        ]
-      },
-      {
-        "id": "8",
-        "name": "Bayoumi, Abdel-Moez E. ",
-        "matching_skills": [
-          "science foundation",
-          "national science"
+          "national science",
+          "science foundation"
         ]
       }
     ],
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 3.703768066607687,
-      "goodness_score": 0.625,
+      "goodness_score": 0.4,
       "uncovered": []
     }
   },
@@ -3565,16 +3342,11 @@
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18572/nsf18572.htm",
     "required_skills": [
       "security",
-      "problem involving",
       "cyber system",
+      "problem involving",
       "engineering"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
@@ -3607,7 +3379,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -3615,11 +3387,11 @@
     "proposal_id": "60",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18571/nsf18571.htm",
     "required_skills": [
-      "industry",
       "professional development",
       "development",
-      "material",
       "engineering",
+      "industry",
+      "material",
       "science engineering",
       "higher education"
     ],
@@ -3653,20 +3425,20 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
+        "id": "92",
+        "name": "Koppel, Tarmo",
         "matching_skills": [
-          "science engineering"
+          "industry"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.7192648136431989,
+      "coverage": 0.7423501709994302,
       "seat_cost": 4.289343425197185,
       "goodness_score": 0.39285714285714285,
       "uncovered": [
-        "industry",
-        "material"
+        "material",
+        "science engineering"
       ]
     }
   },
@@ -3679,14 +3451,11 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
+        "id": "179",
+        "name": "Vitzilaios, Nikolaos (Nikos)",
+        "matching_skills": [
+          "intelligent system"
+        ]
       },
       {
         "id": "98",
@@ -3694,26 +3463,12 @@
         "matching_skills": [
           "project develop"
         ]
-      },
-      {
-        "id": "162",
-        "name": "Summers, Bill ",
-        "matching_skills": [
-          "project develop"
-        ]
-      },
-      {
-        "id": "179",
-        "name": "Vitzilaios, Nikolaos (Nikos)",
-        "matching_skills": [
-          "intelligent system"
-        ]
       }
     ],
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.41732624442776,
-      "goodness_score": 0.5625,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -3725,21 +3480,6 @@
       "development"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
       {
         "id": "35",
         "name": "Devereux, Emily",
@@ -3758,7 +3498,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -3767,17 +3507,26 @@
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18567/nsf18567.htm",
     "required_skills": [
       "area",
-      "security",
       "development",
-      "computational data",
       "engineering education",
-      "service",
-      "translational",
+      "security",
       "discovery",
       "engineering",
-      "science engineering"
+      "computational data",
+      "translational",
+      "science engineering",
+      "service"
     ],
     "recommended_team": [
+      {
+        "id": "185",
+        "name": "Wang, Yi",
+        "matching_skills": [
+          "discovery",
+          "computational data",
+          "science engineering"
+        ]
+      },
       {
         "id": "35",
         "name": "Devereux, Emily",
@@ -3793,13 +3542,6 @@
         ]
       },
       {
-        "id": "54",
-        "name": "Gholizadeh, Sona",
-        "matching_skills": [
-          "engineering education"
-        ]
-      },
-      {
         "id": "77",
         "name": "Humphries, Wilfred Kenneth",
         "matching_skills": [
@@ -3807,21 +3549,19 @@
         ]
       },
       {
-        "id": "185",
-        "name": "Wang, Yi",
+        "id": "106",
+        "name": "Matthews, Manton M",
         "matching_skills": [
-          "discovery",
-          "computational data",
-          "science engineering"
+          "security"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.6878959238796468,
+      "coverage": 0.7035042433001107,
       "seat_cost": 4.440882851559037,
       "goodness_score": 0.38749999999999996,
       "uncovered": [
-        "security",
+        "engineering education",
         "service",
         "translational"
       ]
@@ -3831,32 +3571,25 @@
     "proposal_id": "64",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18566/nsf18566.htm",
     "required_skills": [
-      "national institute",
-      "nih",
       "support interface",
       "biomedical science",
       "foundation nsf",
-      "biomedical",
+      "national science",
       "science foundation",
       "health",
+      "national institute",
       "statistic",
-      "national science"
+      "nih",
+      "biomedical"
     ],
     "recommended_team": [
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": [
-          "support interface"
-        ]
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
         ]
       },
       {
@@ -3869,25 +3602,32 @@
         ]
       },
       {
+        "id": "104",
+        "name": "Matta, Fabio",
+        "matching_skills": [
+          "national science",
+          "national institute",
+          "science foundation"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Alexeev, Oleg S.",
+        "matching_skills": [
+          "support interface"
+        ]
+      },
+      {
         "id": "14",
         "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "statistic"
         ]
-      },
-      {
-        "id": "104",
-        "name": "Matta, Fabio",
-        "matching_skills": [
-          "science foundation",
-          "national science",
-          "national institute"
-        ]
       }
     ],
     "metrics": {
-      "coverage": 0.6928179594384651,
-      "seat_cost": 4.286392912429384,
+      "coverage": 0.6928179594384654,
+      "seat_cost": 4.286392912429383,
       "goodness_score": 0.4125,
       "uncovered": [
         "biomedical science",
@@ -3900,19 +3640,16 @@
     "proposal_id": "65",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18564/nsf18564.htm",
     "required_skills": [
-      "broad range",
-      "physic"
+      "physic",
+      "broad range"
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
+        "id": "180",
+        "name": "Vogt, Thomas",
+        "matching_skills": [
+          "physic"
+        ]
       },
       {
         "id": "114",
@@ -3920,26 +3657,12 @@
         "matching_skills": [
           "broad range"
         ]
-      },
-      {
-        "id": "145",
-        "name": "Sadati, Monirosadat (Sanaz)",
-        "matching_skills": [
-          "broad range"
-        ]
-      },
-      {
-        "id": "180",
-        "name": "Vogt, Thomas",
-        "matching_skills": [
-          "physic"
-        ]
       }
     ],
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.41732624442776,
-      "goodness_score": 0.5625,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -3947,13 +3670,13 @@
     "proposal_id": "66",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18561/nsf18561.htm",
     "required_skills": [
-      "synthesis",
-      "computational method",
+      "catalysis",
+      "chemistry",
       "chemical",
       "dynamic",
-      "chemistry",
-      "imaging",
-      "catalysis"
+      "synthesis",
+      "computational method",
+      "imaging"
     ],
     "recommended_team": [
       {
@@ -3961,13 +3684,6 @@
         "name": "Berge, Nicole D.",
         "matching_skills": [
           "chemical"
-        ]
-      },
-      {
-        "id": "22",
-        "name": "Chandrashekhar, MVS",
-        "matching_skills": [
-          "chemistry"
         ]
       },
       {
@@ -3990,14 +3706,21 @@
         "matching_skills": [
           "computational method"
         ]
+      },
+      {
+        "id": "141",
+        "name": "Roberts, Kenneth L",
+        "matching_skills": [
+          "catalysis"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.7106581154790855,
+      "coverage": 0.7233547113022862,
       "seat_cost": 4.562135211609247,
       "goodness_score": 0.39285714285714285,
       "uncovered": [
-        "catalysis",
+        "chemistry",
         "dynamic"
       ]
     }
@@ -4006,17 +3729,12 @@
     "proposal_id": "67",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18557/nsf18557.htm",
     "required_skills": [
-      "perception",
-      "actuation",
       "communication",
+      "actuation",
+      "perception",
       "smart grid"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
@@ -4049,7 +3767,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -4057,40 +3775,48 @@
     "proposal_id": "68",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18556/nsf18556.htm",
     "required_skills": [
-      "graduate student",
-      "principal investigator",
-      "engineering division",
-      "computer information",
-      "computer science",
-      "directorate engineering",
       "foundation nsf",
-      "material",
-      "science foundation",
-      "science engineering",
-      "health",
-      "engineering",
       "national science",
+      "system directorate",
+      "computer information",
+      "principal investigator",
+      "health",
+      "engineering division",
       "information science",
-      "system directorate"
+      "computer science",
+      "engineering",
+      "graduate student",
+      "material",
+      "science engineering",
+      "science foundation",
+      "directorate engineering"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "directorate engineering",
-          "science foundation",
+          "foundation nsf",
           "national science",
           "system directorate",
-          "foundation nsf"
+          "science foundation",
+          "directorate engineering"
         ]
       },
       {
         "id": "14",
         "name": "Boltin, Nicholas D.",
         "matching_skills": [
-          "computer science",
-          "information science"
+          "information science",
+          "computer science"
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Jalilvand, Golareh",
+        "matching_skills": [
+          "science engineering",
+          "computer science"
         ]
       },
       {
@@ -4105,14 +3831,6 @@
         "name": "Dougal, Roger A.",
         "matching_skills": [
           "graduate student"
-        ]
-      },
-      {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "computer science",
-          "science engineering"
         ]
       }
     ],
@@ -4133,33 +3851,41 @@
     "proposal_id": "69",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18541/nsf18541.htm",
     "required_skills": [
-      "national institute",
       "area",
-      "nih",
-      "computer information",
-      "information science",
-      "public health",
-      "modeling",
-      "security",
-      "foundation nsf",
-      "development",
-      "biomedical",
-      "science foundation",
-      "science engineering",
-      "health",
-      "engineering",
       "process modeling",
+      "foundation nsf",
+      "national science",
+      "development",
+      "nih",
+      "security",
+      "computer information",
+      "modeling",
+      "information science",
+      "health",
       "aging",
-      "national science"
+      "engineering",
+      "national institute",
+      "science engineering",
+      "science foundation",
+      "public health",
+      "biomedical"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
+        ]
+      },
+      {
+        "id": "134",
+        "name": "Reifsnider, Kenneth ",
+        "matching_skills": [
+          "aging",
+          "science engineering"
         ]
       },
       {
@@ -4172,39 +3898,33 @@
         ]
       },
       {
+        "id": "104",
+        "name": "Matta, Fabio",
+        "matching_skills": [
+          "national science",
+          "national institute",
+          "science foundation"
+        ]
+      },
+      {
         "id": "14",
         "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "information science"
         ]
-      },
-      {
-        "id": "16",
-        "name": "Brookshire, Robert G., Ph.D.",
-        "matching_skills": [
-          "computer information"
-        ]
-      },
-      {
-        "id": "134",
-        "name": "Reifsnider, Kenneth ",
-        "matching_skills": [
-          "aging",
-          "science engineering"
-        ]
       }
     ],
     "metrics": {
-      "coverage": 0.4271003531775627,
+      "coverage": 0.42195000635464475,
       "seat_cost": 4.373654845748914,
       "goodness_score": 0.3055555555555556,
       "uncovered": [
         "area",
+        "computer information",
         "development",
         "engineering",
         "health",
         "modeling",
-        "national institute",
         "nih",
         "process modeling",
         "public health",
@@ -4216,29 +3936,22 @@
     "proposal_id": "70",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18538/nsf18538.htm",
     "required_skills": [
-      "security",
       "personalized medicine",
-      "range application",
+      "national science",
+      "security",
+      "energy",
       "artificial intelligence",
       "science foundation",
-      "energy",
-      "civil",
-      "national science"
+      "range application",
+      "civil"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": [
-          "artificial intelligence"
-        ]
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -4261,15 +3974,22 @@
         "matching_skills": [
           "personalized medicine"
         ]
+      },
+      {
+        "id": "106",
+        "name": "Matthews, Manton M",
+        "matching_skills": [
+          "security"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.7243274280859237,
+      "coverage": 0.7723439044998737,
       "seat_cost": 4.189806376459041,
       "goodness_score": 0.40625,
       "uncovered": [
-        "range application",
-        "security"
+        "artificial intelligence",
+        "range application"
       ]
     }
   },
@@ -4278,29 +3998,22 @@
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18537/nsf18537.htm",
     "required_skills": [
       "professional development",
-      "computer science",
       "development",
-      "foundation nsf",
-      "material",
-      "science foundation",
       "national science",
-      "teaching"
+      "foundation nsf",
+      "teaching",
+      "computer science",
+      "material",
+      "science foundation"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
-        ]
-      },
-      {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science"
+          "science foundation"
         ]
       },
       {
@@ -4323,14 +4036,21 @@
         "matching_skills": [
           "teaching"
         ]
+      },
+      {
+        "id": "138",
+        "name": "Ritter, James A.",
+        "matching_skills": [
+          "material"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.8746544933804435,
+      "coverage": 0.8952692645522525,
       "seat_cost": 4.202976440916269,
       "goodness_score": 0.453125,
       "uncovered": [
-        "material"
+        "computer science"
       ]
     }
   },
@@ -4338,19 +4058,27 @@
     "proposal_id": "72",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18536/nsf18536.htm",
     "required_skills": [
+      "system application",
       "machine learning",
       "area",
-      "computer information",
-      "synthesis",
-      "system application",
-      "modeling",
-      "year",
-      "engineering",
-      "science engineering",
       "learning",
-      "information science"
+      "computer information",
+      "modeling",
+      "information science",
+      "engineering",
+      "synthesis",
+      "science engineering",
+      "year"
     ],
     "recommended_team": [
+      {
+        "id": "16",
+        "name": "Brookshire, Robert G., Ph.D.",
+        "matching_skills": [
+          "learning",
+          "computer information"
+        ]
+      },
       {
         "id": "14",
         "name": "Boltin, Nicholas D.",
@@ -4360,11 +4088,11 @@
         ]
       },
       {
-        "id": "16",
-        "name": "Brookshire, Robert G., Ph.D.",
+        "id": "83",
+        "name": "Jalilvand, Golareh",
         "matching_skills": [
-          "computer information",
-          "learning"
+          "machine learning",
+          "science engineering"
         ]
       },
       {
@@ -4379,14 +4107,6 @@
         "name": "Huang, Kevin ",
         "matching_skills": [
           "modeling"
-        ]
-      },
-      {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "machine learning",
-          "science engineering"
         ]
       }
     ],
@@ -4407,9 +4127,9 @@
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18528/nsf18528.htm",
     "required_skills": [
       "information science",
-      "computer information",
+      "science engineering",
       "engineering",
-      "science engineering"
+      "computer information"
     ],
     "recommended_team": [
       {
@@ -4439,19 +4159,12 @@
         "matching_skills": [
           "science engineering"
         ]
-      },
-      {
-        "id": "123",
-        "name": "Pain, Christopher C.",
-        "matching_skills": [
-          "science engineering"
-        ]
       }
     ],
     "metrics": {
       "coverage": 1.0,
-      "seat_cost": 4.345405726314814,
-      "goodness_score": 0.53125,
+      "seat_cost": 4.345405726314815,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -4463,26 +4176,6 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": []
-      },
-      {
         "id": "10",
         "name": "Berge, Nicole D.",
         "matching_skills": [
@@ -4493,7 +4186,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.4,
       "uncovered": []
     }
   },
@@ -4501,12 +4194,12 @@
     "proposal_id": "75",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18521/nsf18521.htm",
     "required_skills": [
-      "foundation nsf",
-      "science foundation",
       "chemical",
+      "national science",
+      "foundation nsf",
       "dynamic",
       "engineering",
-      "national science",
+      "science foundation",
       "fluid dynamic"
     ],
     "recommended_team": [
@@ -4514,9 +4207,9 @@
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
         ]
       },
       {
@@ -4524,13 +4217,6 @@
         "name": "Berge, Nicole D.",
         "matching_skills": [
           "chemical"
-        ]
-      },
-      {
-        "id": "39",
-        "name": "Dryer, Frederick  L. ",
-        "matching_skills": [
-          "fluid dynamic"
         ]
       },
       {
@@ -4546,33 +4232,6 @@
         "matching_skills": [
           "dynamic"
         ]
-      }
-    ],
-    "metrics": {
-      "coverage": 1.0,
-      "seat_cost": 4.2013168338509255,
-      "goodness_score": 0.5,
-      "uncovered": []
-    }
-  },
-  {
-    "proposal_id": "76",
-    "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18518/nsf18518.htm",
-    "required_skills": [
-      "united state",
-      "robotics",
-      "development",
-      "science foundation",
-      "national science"
-    ],
-    "recommended_team": [
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": [
-          "science foundation",
-          "national science"
-        ]
       },
       {
         "id": "8",
@@ -4580,6 +4239,35 @@
         "matching_skills": [
           "science foundation",
           "national science"
+        ]
+      }
+    ],
+    "metrics": {
+      "coverage": 0.8802604499944034,
+      "seat_cost": 4.2013168338509255,
+      "goodness_score": 0.4821428571428571,
+      "uncovered": [
+        "fluid dynamic"
+      ]
+    }
+  },
+  {
+    "proposal_id": "76",
+    "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18518/nsf18518.htm",
+    "required_skills": [
+      "united state",
+      "development",
+      "national science",
+      "robotics",
+      "science foundation"
+    ],
+    "recommended_team": [
+      {
+        "id": "3",
+        "name": "Ali, Mohammod",
+        "matching_skills": [
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -4607,7 +4295,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.172449484110547,
-      "goodness_score": 0.55,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -4620,26 +4308,11 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
         "id": "2",
         "name": "Alexeev, Oleg S.",
         "matching_skills": [
           "product"
         ]
-      },
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": []
       },
       {
         "id": "77",
@@ -4652,7 +4325,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -4660,21 +4333,35 @@
     "proposal_id": "78",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18514/nsf18514.htm",
     "required_skills": [
-      "tissue engineering",
-      "foundation nsf",
-      "science foundation",
       "chemical",
+      "national science",
+      "foundation nsf",
       "engineering",
-      "national science"
+      "science foundation",
+      "tissue engineering"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
+        ]
+      },
+      {
+        "id": "10",
+        "name": "Berge, Nicole D.",
+        "matching_skills": [
+          "chemical"
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "engineering"
         ]
       },
       {
@@ -4686,24 +4373,10 @@
         ]
       },
       {
-        "id": "10",
-        "name": "Berge, Nicole D.",
-        "matching_skills": [
-          "chemical"
-        ]
-      },
-      {
         "id": "13",
         "name": "Blanchette, James  Otto",
         "matching_skills": [
           "tissue engineering"
-        ]
-      },
-      {
-        "id": "51",
-        "name": "Gassman, Sarah",
-        "matching_skills": [
-          "engineering"
         ]
       }
     ],
@@ -4718,12 +4391,12 @@
     "proposal_id": "79",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18502/nsf18502.htm",
     "required_skills": [
-      "industry",
       "development",
-      "foundation nsf",
-      "science foundation",
-      "program level",
       "national science",
+      "foundation nsf",
+      "industry",
+      "program level",
+      "science foundation",
       "higher education"
     ],
     "recommended_team": [
@@ -4731,9 +4404,18 @@
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
+        ]
+      },
+      {
+        "id": "104",
+        "name": "Matta, Fabio",
+        "matching_skills": [
+          "national science",
+          "industry",
+          "science foundation"
         ]
       },
       {
@@ -4744,13 +4426,6 @@
         ]
       },
       {
-        "id": "54",
-        "name": "Gholizadeh, Sona",
-        "matching_skills": [
-          "higher education"
-        ]
-      },
-      {
         "id": "101",
         "name": "Lyons, Jed ",
         "matching_skills": [
@@ -4758,12 +4433,10 @@
         ]
       },
       {
-        "id": "104",
-        "name": "Matta, Fabio",
+        "id": "54",
+        "name": "Gholizadeh, Sona",
         "matching_skills": [
-          "science foundation",
-          "national science",
-          "industry"
+          "higher education"
         ]
       }
     ],
@@ -4778,27 +4451,10 @@
     "proposal_id": "80",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18501/nsf18501.htm",
     "required_skills": [
-      "theoretical foundation",
-      "computer science"
+      "computer science",
+      "theoretical foundation"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science"
-        ]
-      },
       {
         "id": "47",
         "name": "Fenner, Stephen A. ",
@@ -4807,8 +4463,8 @@
         ]
       },
       {
-        "id": "48",
-        "name": "Fiedler, Kirk",
+        "id": "14",
+        "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "computer science"
         ]
@@ -4817,7 +4473,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.070752654147787,
-      "goodness_score": 0.5625,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -4825,39 +4481,41 @@
     "proposal_id": "81",
     "proposal_name": "https://www.nsf.gov/pubs/2018/nsf18500/nsf18500.htm",
     "required_skills": [
-      "area",
-      "material soft",
-      "soft matter",
-      "electronic photonic",
-      "chemistry",
-      "polymer",
-      "physic",
-      "broad spectrum",
-      "polymeric material",
-      "development",
-      "material",
-      "learning",
-      "machine learning",
-      "modeling",
-      "fundamental understanding",
-      "soft material",
-      "statistical mechanic",
-      "material system",
-      "biomaterials",
-      "property",
-      "method used",
-      "solid state",
-      "dynamic",
       "material state",
-      "molecular dynamic"
+      "development",
+      "soft material",
+      "biomaterials",
+      "modeling",
+      "material system",
+      "molecular dynamic",
+      "polymeric material",
+      "broad spectrum",
+      "statistical mechanic",
+      "solid state",
+      "polymer",
+      "dynamic",
+      "method used",
+      "machine learning",
+      "area",
+      "physic",
+      "electronic photonic",
+      "material",
+      "chemistry",
+      "fundamental understanding",
+      "soft matter",
+      "learning",
+      "property",
+      "material soft"
     ],
     "recommended_team": [
       {
-        "id": "52",
-        "name": "Gatzke, Edward P.",
+        "id": "150",
+        "name": "Shazly, Tarek ",
         "matching_skills": [
-          "fundamental understanding",
-          "method used"
+          "polymeric material",
+          "material system",
+          "property",
+          "material soft"
         ]
       },
       {
@@ -4869,50 +4527,48 @@
         ]
       },
       {
-        "id": "150",
-        "name": "Shazly, Tarek ",
+        "id": "52",
+        "name": "Gatzke, Edward P.",
         "matching_skills": [
-          "material soft",
-          "polymeric material",
-          "material system",
-          "property"
+          "fundamental understanding",
+          "method used"
         ]
       },
       {
-        "id": "165",
-        "name": "Taheri-Qazvini, Nader ",
+        "id": "172",
+        "name": "Uline, Mark J.",
         "matching_skills": [
           "soft matter",
-          "material"
+          "statistical mechanic"
         ]
       },
       {
-        "id": "167",
-        "name": "Tang, Chuanbing",
+        "id": "180",
+        "name": "Vogt, Thomas",
         "matching_skills": [
-          "biomaterials",
-          "polymer"
+          "chemistry",
+          "physic"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.48041133603205544,
+      "coverage": 0.4866794092209533,
       "seat_cost": 4.423350906544361,
       "goodness_score": 0.305,
       "uncovered": [
         "area",
+        "biomaterials",
         "broad spectrum",
-        "chemistry",
         "development",
         "electronic photonic",
         "learning",
         "machine learning",
+        "material",
         "material state",
         "modeling",
         "molecular dynamic",
-        "physic",
-        "solid state",
-        "statistical mechanic"
+        "polymer",
+        "solid state"
       ]
     }
   },
@@ -4920,25 +4576,25 @@
     "proposal_id": "82",
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17601/nsf17601.htm",
     "required_skills": [
-      "computer information",
-      "directorate engineering",
+      "national science",
       "security",
-      "science foundation",
-      "science engineering",
       "energy",
+      "computer information",
+      "information science",
       "service",
       "engineering",
-      "national science",
-      "information science"
+      "science engineering",
+      "science foundation",
+      "directorate engineering"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "directorate engineering",
+          "national science",
           "science foundation",
-          "national science"
+          "directorate engineering"
         ]
       },
       {
@@ -4971,8 +4627,8 @@
       }
     ],
     "metrics": {
-      "coverage": 0.7050671881784515,
-      "seat_cost": 4.3269394232402,
+      "coverage": 0.7050671881784514,
+      "seat_cost": 4.3269394232402005,
       "goodness_score": 0.38749999999999996,
       "uncovered": [
         "science engineering",
@@ -4989,26 +4645,6 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": []
-      },
-      {
         "id": "133",
         "name": "Regan, Elizabeth A.",
         "matching_skills": [
@@ -5019,7 +4655,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.4,
       "uncovered": []
     }
   },
@@ -5029,37 +4665,11 @@
     "required_skills": [
       "general"
     ],
-    "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": []
-      },
-      {
-        "id": "4",
-        "name": "Ammal, Salai C.",
-        "matching_skills": []
-      }
-    ],
+    "recommended_team": [],
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 0.0,
-      "goodness_score": 0.125,
+      "goodness_score": null,
       "uncovered": [
         "general"
       ]
@@ -5069,36 +4679,30 @@
     "proposal_id": "85",
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17580/nsf17580.htm",
     "required_skills": [
-      "industry",
       "united state",
-      "synthesis",
-      "synthesis characterization",
-      "property",
-      "novel design",
-      "development",
-      "material unique",
-      "material",
       "lead new",
-      "discovery",
+      "development",
+      "novel design",
+      "fundamental understanding",
       "design synthesis",
-      "engineering",
-      "processing",
       "control",
-      "fundamental understanding"
+      "processing",
+      "property",
+      "discovery",
+      "engineering",
+      "industry",
+      "synthesis",
+      "material",
+      "synthesis characterization",
+      "material unique"
     ],
     "recommended_team": [
       {
-        "id": "35",
-        "name": "Devereux, Emily",
+        "id": "150",
+        "name": "Shazly, Tarek ",
         "matching_skills": [
-          "development"
-        ]
-      },
-      {
-        "id": "37",
-        "name": "Dougal, Roger A.",
-        "matching_skills": [
-          "processing"
+          "novel design",
+          "property"
         ]
       },
       {
@@ -5118,11 +4722,17 @@
         ]
       },
       {
-        "id": "150",
-        "name": "Shazly, Tarek ",
+        "id": "35",
+        "name": "Devereux, Emily",
         "matching_skills": [
-          "novel design",
-          "property"
+          "development"
+        ]
+      },
+      {
+        "id": "37",
+        "name": "Dougal, Roger A.",
+        "matching_skills": [
+          "processing"
         ]
       }
     ],
@@ -5147,20 +4757,10 @@
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17578/nsf17578.htm",
     "required_skills": [
       "area",
-      "directorate engineering",
-      "engineering"
+      "engineering",
+      "directorate engineering"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
@@ -5186,7 +4786,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.45,
       "uncovered": []
     }
   },
@@ -5195,16 +4795,11 @@
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17576/nsf17576.htm",
     "required_skills": [
       "security",
-      "problem involving",
       "cyber system",
+      "problem involving",
       "engineering"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
@@ -5237,7 +4832,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -5245,19 +4840,43 @@
     "proposal_id": "88",
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17575/nsf17575.htm",
     "required_skills": [
-      "graduate student",
-      "area",
-      "revolve around",
-      "computer information",
-      "computer science",
-      "directorate engineering",
+      "science technology",
       "experience new",
-      "engineering",
-      "science engineering",
+      "area",
+      "computer information",
+      "revolve around",
       "information science",
-      "science technology"
+      "computer science",
+      "engineering",
+      "graduate student",
+      "science engineering",
+      "directorate engineering"
     ],
     "recommended_team": [
+      {
+        "id": "162",
+        "name": "Summers, Bill ",
+        "matching_skills": [
+          "experience new",
+          "science technology"
+        ]
+      },
+      {
+        "id": "14",
+        "name": "Boltin, Nicholas D.",
+        "matching_skills": [
+          "information science",
+          "computer science"
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Jalilvand, Golareh",
+        "matching_skills": [
+          "science engineering",
+          "computer science"
+        ]
+      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
@@ -5266,39 +4885,15 @@
         ]
       },
       {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science",
-          "information science"
-        ]
-      },
-      {
         "id": "16",
         "name": "Brookshire, Robert G., Ph.D.",
         "matching_skills": [
           "computer information"
         ]
-      },
-      {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "computer science",
-          "science engineering"
-        ]
-      },
-      {
-        "id": "162",
-        "name": "Summers, Bill ",
-        "matching_skills": [
-          "science technology",
-          "experience new"
-        ]
       }
     ],
     "metrics": {
-      "coverage": 0.6199314166813084,
+      "coverage": 0.6199314166813082,
       "seat_cost": 4.420311109633095,
       "goodness_score": 0.375,
       "uncovered": [
@@ -5318,14 +4913,11 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
+        "id": "179",
+        "name": "Vitzilaios, Nikolaos (Nikos)",
+        "matching_skills": [
+          "intelligent system"
+        ]
       },
       {
         "id": "98",
@@ -5333,26 +4925,12 @@
         "matching_skills": [
           "project develop"
         ]
-      },
-      {
-        "id": "162",
-        "name": "Summers, Bill ",
-        "matching_skills": [
-          "project develop"
-        ]
-      },
-      {
-        "id": "179",
-        "name": "Vitzilaios, Nikolaos (Nikos)",
-        "matching_skills": [
-          "intelligent system"
-        ]
       }
     ],
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.41732624442776,
-      "goodness_score": 0.5625,
+      "goodness_score": 0.425,
       "uncovered": []
     }
   },
@@ -5360,32 +4938,25 @@
     "proposal_id": "90",
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17569/nsf17569.htm",
     "required_skills": [
-      "national institute",
-      "nih",
       "support interface",
       "biomedical science",
       "foundation nsf",
-      "biomedical",
+      "national science",
       "science foundation",
       "health",
+      "national institute",
       "statistic",
-      "national science"
+      "nih",
+      "biomedical"
     ],
     "recommended_team": [
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": [
-          "support interface"
-        ]
-      },
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
+          "science foundation"
         ]
       },
       {
@@ -5398,25 +4969,32 @@
         ]
       },
       {
+        "id": "104",
+        "name": "Matta, Fabio",
+        "matching_skills": [
+          "national science",
+          "national institute",
+          "science foundation"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Alexeev, Oleg S.",
+        "matching_skills": [
+          "support interface"
+        ]
+      },
+      {
         "id": "14",
         "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "statistic"
         ]
-      },
-      {
-        "id": "104",
-        "name": "Matta, Fabio",
-        "matching_skills": [
-          "science foundation",
-          "national science",
-          "national institute"
-        ]
       }
     ],
     "metrics": {
-      "coverage": 0.6928179594384651,
-      "seat_cost": 4.286392912429384,
+      "coverage": 0.6928179594384654,
+      "seat_cost": 4.286392912429383,
       "goodness_score": 0.4125,
       "uncovered": [
         "biomedical science",
@@ -5429,16 +5007,25 @@
     "proposal_id": "91",
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17568/nsf17568.htm",
     "required_skills": [
-      "industry",
       "professional development",
       "development",
-      "material",
-      "science foundation",
-      "science engineering",
+      "national science",
       "engineering",
-      "national science"
+      "industry",
+      "material",
+      "science engineering",
+      "science foundation"
     ],
     "recommended_team": [
+      {
+        "id": "104",
+        "name": "Matta, Fabio",
+        "matching_skills": [
+          "national science",
+          "industry",
+          "science foundation"
+        ]
+      },
       {
         "id": "17",
         "name": "Broughton, Earnie",
@@ -5461,28 +5048,19 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
+        "id": "138",
+        "name": "Ritter, James A.",
         "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
-        "id": "104",
-        "name": "Matta, Fabio",
-        "matching_skills": [
-          "science foundation",
-          "national science",
-          "industry"
+          "material"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.8731245186866111,
+      "coverage": 0.8939909149789579,
       "seat_cost": 4.152293302402748,
       "goodness_score": 0.453125,
       "uncovered": [
-        "material"
+        "science engineering"
       ]
     }
   },
@@ -5490,35 +5068,21 @@
     "proposal_id": "92",
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17554/nsf17554.htm",
     "required_skills": [
+      "wave propagation",
       "physic",
-      "property",
-      "material",
-      "composition",
-      "experimental study",
       "theoretical experimental",
-      "wave propagation"
+      "property",
+      "experimental study",
+      "material",
+      "composition"
     ],
     "recommended_team": [
-      {
-        "id": "6",
-        "name": "Banerjee, Sourav ",
-        "matching_skills": [
-          "wave propagation"
-        ]
-      },
       {
         "id": "23",
         "name": "Chao, Yuh J. ",
         "matching_skills": [
           "experimental study",
           "theoretical experimental"
-        ]
-      },
-      {
-        "id": "138",
-        "name": "Ritter, James A.",
-        "matching_skills": [
-          "material"
         ]
       },
       {
@@ -5535,6 +5099,20 @@
         "matching_skills": [
           "physic"
         ]
+      },
+      {
+        "id": "6",
+        "name": "Banerjee, Sourav ",
+        "matching_skills": [
+          "wave propagation"
+        ]
+      },
+      {
+        "id": "138",
+        "name": "Ritter, James A.",
+        "matching_skills": [
+          "material"
+        ]
       }
     ],
     "metrics": {
@@ -5549,26 +5127,18 @@
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17553/nsf17553.htm",
     "required_skills": [
       "united state",
+      "national science",
       "science foundation",
-      "statistic",
       "discovery",
-      "national science"
+      "statistic"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
-        ]
-      },
-      {
-        "id": "8",
-        "name": "Bayoumi, Abdel-Moez E. ",
-        "matching_skills": [
-          "science foundation",
-          "national science"
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -5596,7 +5166,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.25354250573218,
-      "goodness_score": 0.55,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -5605,16 +5175,11 @@
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17548/nsf17548.htm",
     "required_skills": [
       "information processing",
-      "physic",
       "quantum computing",
-      "processing"
+      "processing",
+      "physic"
     ],
     "recommended_team": [
-      {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
       {
         "id": "37",
         "name": "Dougal, Roger A.",
@@ -5647,7 +5212,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.475,
       "uncovered": []
     }
   },
@@ -5655,29 +5220,22 @@
     "proposal_id": "95",
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17541/nsf17541.htm",
     "required_skills": [
+      "science technology",
+      "national science",
       "including engineering",
+      "teaching",
       "computer science",
-      "science foundation",
       "track",
       "engineering",
-      "national science",
-      "science technology",
-      "teaching"
+      "science foundation"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
-          "national science"
-        ]
-      },
-      {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science"
+          "national science",
+          "science foundation"
         ]
       },
       {
@@ -5700,15 +5258,22 @@
         "matching_skills": [
           "track"
         ]
+      },
+      {
+        "id": "162",
+        "name": "Summers, Bill ",
+        "matching_skills": [
+          "science technology"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.7284656475083293,
-      "seat_cost": 4.253659579429789,
+      "coverage": 0.7607499743377748,
+      "seat_cost": 4.25365957942979,
       "goodness_score": 0.40625,
       "uncovered": [
-        "including engineering",
-        "science technology"
+        "computer science",
+        "including engineering"
       ]
     }
   },
@@ -5717,8 +5282,8 @@
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17532/nsf17532.htm",
     "required_skills": [
       "area",
-      "creating new",
       "engineering activity",
+      "creating new",
       "engineering",
       "science engineering"
     ],
@@ -5745,17 +5310,17 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
         "id": "86",
         "name": "Karakalos, Stavros G.",
         "matching_skills": [
           "creating new"
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Jalilvand, Golareh",
+        "matching_skills": [
+          "science engineering"
         ]
       }
     ],
@@ -5774,26 +5339,6 @@
     ],
     "recommended_team": [
       {
-        "id": "0",
-        "name": "Agostinelli, Forest",
-        "matching_skills": []
-      },
-      {
-        "id": "1",
-        "name": "Ahmad, Iftikhar",
-        "matching_skills": []
-      },
-      {
-        "id": "2",
-        "name": "Alexeev, Oleg S.",
-        "matching_skills": []
-      },
-      {
-        "id": "3",
-        "name": "Ali, Mohammod",
-        "matching_skills": []
-      },
-      {
         "id": "46",
         "name": "Farouk, Tanvir   I.",
         "matching_skills": [
@@ -5804,7 +5349,7 @@
     "metrics": {
       "coverage": 1.0,
       "seat_cost": 4.620058798481842,
-      "goodness_score": 0.5,
+      "goodness_score": 0.4,
       "uncovered": []
     }
   },
@@ -5813,29 +5358,22 @@
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17525/nsf17525.htm",
     "required_skills": [
       "professional development",
-      "computer science",
       "development",
-      "foundation nsf",
-      "material",
-      "science foundation",
       "national science",
-      "teaching"
+      "foundation nsf",
+      "teaching",
+      "computer science",
+      "material",
+      "science foundation"
     ],
     "recommended_team": [
       {
         "id": "3",
         "name": "Ali, Mohammod",
         "matching_skills": [
-          "science foundation",
+          "foundation nsf",
           "national science",
-          "foundation nsf"
-        ]
-      },
-      {
-        "id": "14",
-        "name": "Boltin, Nicholas D.",
-        "matching_skills": [
-          "computer science"
+          "science foundation"
         ]
       },
       {
@@ -5858,14 +5396,21 @@
         "matching_skills": [
           "teaching"
         ]
+      },
+      {
+        "id": "138",
+        "name": "Ritter, James A.",
+        "matching_skills": [
+          "material"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.8746544933804435,
+      "coverage": 0.8952692645522525,
       "seat_cost": 4.202976440916269,
       "goodness_score": 0.453125,
       "uncovered": [
-        "material"
+        "computer science"
       ]
     }
   },
@@ -5873,9 +5418,9 @@
     "proposal_id": "99",
     "proposal_name": "https://www.nsf.gov/pubs/2017/nsf17519/nsf17519.htm",
     "required_skills": [
+      "multidisciplinary approach",
       "area",
       "broad spectrum",
-      "multidisciplinary approach",
       "engineering",
       "science engineering"
     ],
@@ -5902,17 +5447,17 @@
         ]
       },
       {
-        "id": "83",
-        "name": "Jalilvand, Golareh",
-        "matching_skills": [
-          "science engineering"
-        ]
-      },
-      {
         "id": "150",
         "name": "Shazly, Tarek ",
         "matching_skills": [
           "multidisciplinary approach"
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Jalilvand, Golareh",
+        "matching_skills": [
+          "science engineering"
         ]
       }
     ],

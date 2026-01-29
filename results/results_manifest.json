@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-01-28T21:53:22.093208",
+  "sets": [
+    {
+      "id": "set-1",
+      "name": "Set-1",
+      "path": "set-1/teams/set-1_teams.json",
+      "stats": {
+        "total_proposals": 100,
+        "avg_goodness": 0.4539311872037491,
+        "avg_coverage": 0.8479842254346656,
+        "avg_seat_cost": 4.315233035089269
+      }
+    },
+    {
+      "id": "set-2",
+      "name": "Set-2",
+      "path": "set-2/teams/set-2_teams.json",
+      "stats": {
+        "total_proposals": 434,
+        "avg_goodness": 0.46119544396720885,
+        "avg_coverage": 0.9085390571253142,
+        "avg_seat_cost": 4.110485650169381
+      }
+    },
+    {
+      "id": "set-3",
+      "name": "Set-3",
+      "path": "set-3/teams/set-3_teams.json",
+      "stats": {
+        "total_proposals": 434,
+        "avg_goodness": 0.46119544396720885,
+        "avg_coverage": 0.9085390571253142,
+        "avg_seat_cost": 4.110485650169381
+      }
+    },
+    {
+      "id": "set-4",
+      "name": "Set-4",
+      "path": "set-4/teams/set-4_teams.json",
+      "stats": {
+        "total_proposals": 500,
+        "avg_goodness": 0.45285863095238216,
+        "avg_coverage": 1.0,
+        "avg_seat_cost": 2.263217402578489
+      }
+    }
+  ]
+}

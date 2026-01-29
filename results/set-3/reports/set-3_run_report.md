@@ -3,21 +3,21 @@
 ## Proposal: https://www.nsf.gov/pubs/2021/nsf21598/nsf21598.htm (ID: 0)
 - **Required Skills**: development, economic development, engineering, higher education, industry, material, professional development, science engineering
 - **Seat Cost**: 4.3307
-- **Final Coverage**: 77.67%
+- **Final Coverage**: 75.67%
 - **Goodness Score**: 0.4062
-- **Uncovered Skills**: material, science engineering
+- **Uncovered Skills**: industry, material
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
-   - Covers: development, economic development
-2. **Broughton, Earnie** (ID: 17)
+1. **Broughton, Earnie** (ID: 17)
    - Covers: professional development
+2. **Devereux, Emily** (ID: 35)
+   - Covers: development, economic development
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 4. **Gholizadeh, Sona** (ID: 54)
    - Covers: higher education
-5. **Koppel, Tarmo** (ID: 92)
-   - Covers: industry
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -25,7 +25,7 @@
 - **Required Skills**: chemical, engineering, environmental engineering, science engineering
 - **Seat Cost**: 4.1721
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
@@ -33,9 +33,11 @@
    - Covers: chemical
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **McAnally, A. Steve** (ID: 108)
+3. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+4. **McAnally, A. Steve** (ID: 108)
    - Covers: environmental engineering
-4. **Jalilvand, Golareh** (ID: 83)
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: science engineering
 
 ---
@@ -44,13 +46,19 @@
 - **Required Skills**: computer science, theoretical foundation
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: theoretical foundation
-2. **Boltin, Nicholas D.** (ID: 14)
+5. **Fiedler, Kirk** (ID: 48)
    - Covers: computer science
 
 ---
@@ -58,30 +66,30 @@
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20604/nsf20604.htm (ID: 3)
 - **Required Skills**: ai, artificial intelligence, continued advancement, development, economic impact, industry, learning, machine learning, security
 - **Seat Cost**: 4.1971
-- **Final Coverage**: 64.38%
+- **Final Coverage**: 63.31%
 - **Goodness Score**: 0.3750
-- **Uncovered Skills**: ai, economic impact, industry
+- **Uncovered Skills**: ai, continued advancement, economic impact
 
 ### Selected Team
-1. **Jamshidi, Pooyan ** (ID: 84)
-   - Covers: artificial intelligence, machine learning
-2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-3. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Matthews, Manton M** (ID: 106)
+3. **Jamshidi, Pooyan ** (ID: 84)
+   - Covers: artificial intelligence, machine learning
+4. **Koppel, Tarmo** (ID: 92)
+   - Covers: industry
+5. **Matthews, Manton M** (ID: 106)
    - Covers: security
-5. **Shazly, Tarek ** (ID: 150)
-   - Covers: continued advancement
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20591/nsf20591.htm (ID: 4)
 - **Required Skills**: communication, computer information, engineering, information science, project develop, science engineering
 - **Seat Cost**: 4.3694
-- **Final Coverage**: 86.57%
+- **Final Coverage**: 83.92%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: project develop
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -92,8 +100,8 @@
    - Covers: computer information
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Liu, Chang** (ID: 98)
-   - Covers: project develop
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -105,14 +113,14 @@
 - **Uncovered Skills**: development, discovery, engineering, lead new, material, material unique, physic, processing, synthesis, united state
 
 ### Selected Team
-1. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: novel design, property
-3. **Gatzke, Edward P.** (ID: 52)
+1. **Gatzke, Edward P.** (ID: 52)
    - Covers: control, fundamental understanding
-4. **Monnier, John R.** (ID: 113)
+2. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national science, science foundation
+3. **Monnier, John R.** (ID: 113)
    - Covers: design synthesis, synthesis characterization
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: novel design, property
 5. **Tang, Chuanbing** (ID: 167)
    - Covers: biomaterials, polymer
 
@@ -121,21 +129,21 @@
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20588/nsf20588.htm (ID: 6)
 - **Required Skills**: chemistry, control, design synthesis, development, discovery, electronic photonic, engineering, fundamental understanding, industry, lead new, material, material unique, novel design, processing, property, solid state, synthesis, synthesis characterization, united state
 - **Seat Cost**: 4.4769
-- **Final Coverage**: 42.16%
+- **Final Coverage**: 41.68%
 - **Goodness Score**: 0.2829
-- **Uncovered Skills**: chemistry, discovery, engineering, industry, lead new, material, material unique, processing, solid state, synthesis, united state
+- **Uncovered Skills**: development, discovery, engineering, industry, lead new, material, material unique, processing, solid state, synthesis, united state
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: novel design, property
-2. **Gatzke, Edward P.** (ID: 52)
-   - Covers: control, fundamental understanding
-3. **Monnier, John R.** (ID: 113)
-   - Covers: design synthesis, synthesis characterization
-4. **Ahmad, Iftikhar** (ID: 1)
+1. **Ahmad, Iftikhar** (ID: 1)
    - Covers: electronic photonic
-5. **Devereux, Emily** (ID: 35)
-   - Covers: development
+2. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+3. **Gatzke, Edward P.** (ID: 52)
+   - Covers: control, fundamental understanding
+4. **Monnier, John R.** (ID: 113)
+   - Covers: design synthesis, synthesis characterization
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: novel design, property
 
 ---
 
@@ -143,13 +151,19 @@
 - **Required Skills**: chemical, chemistry
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Berge, Nicole D.** (ID: 10)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-2. **Chandrashekhar, MVS** (ID: 22)
+4. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+5. **Vogt, Thomas** (ID: 180)
    - Covers: chemistry
 
 ---
@@ -164,56 +178,56 @@
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, national science, science foundation
-2. **Summers, Bill ** (ID: 162)
-   - Covers: experience new, science technology
-3. **Boltin, Nicholas D.** (ID: 14)
+2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science, information science
+3. **Jalilvand, Golareh** (ID: 83)
+   - Covers: computer science, science engineering
 4. **Matta, Fabio** (ID: 104)
    - Covers: industry, national science, science foundation
-5. **Jalilvand, Golareh** (ID: 83)
-   - Covers: computer science, science engineering
+5. **Summers, Bill ** (ID: 162)
+   - Covers: experience new, science technology
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20582/nsf20582.htm (ID: 9)
 - **Required Skills**: area, biomaterials, broad spectrum, chemistry, development, dynamic, electronic photonic, fundamental understanding, learning, machine learning, material, material soft, material state, material system, method used, modeling, molecular dynamic, national science, physic, polymer, polymeric material, property, science foundation, soft material, soft matter, solid state, statistical mechanic
 - **Seat Cost**: 4.3700
-- **Final Coverage**: 45.61%
+- **Final Coverage**: 44.06%
 - **Goodness Score**: 0.2917
-- **Uncovered Skills**: area, biomaterials, broad spectrum, development, electronic photonic, learning, machine learning, material, material state, modeling, molecular dynamic, national science, polymer, science foundation, solid state
+- **Uncovered Skills**: area, biomaterials, broad spectrum, chemistry, development, electronic photonic, learning, machine learning, material state, modeling, molecular dynamic, physic, polymer, solid state, statistical mechanic
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: material soft, material system, polymeric material, property
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: dynamic, soft material
-3. **Gatzke, Edward P.** (ID: 52)
+1. **Ali, Mohammod** (ID: 3)
+   - Covers: national science, science foundation
+2. **Gatzke, Edward P.** (ID: 52)
    - Covers: fundamental understanding, method used
-4. **Uline, Mark J.** (ID: 172)
-   - Covers: soft matter, statistical mechanic
-5. **Vogt, Thomas** (ID: 180)
-   - Covers: chemistry, physic
+3. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+   - Covers: dynamic, soft material
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: material soft, material system, polymeric material, property
+5. **Taheri-Qazvini, Nader ** (ID: 165)
+   - Covers: material, soft matter
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20577/nsf20577.htm (ID: 10)
 - **Required Skills**: catalysis, chemical, chemistry, computational method, dynamic, imaging, synthesis
 - **Seat Cost**: 4.5621
-- **Final Coverage**: 72.34%
+- **Final Coverage**: 71.07%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: chemistry, dynamic
+- **Uncovered Skills**: catalysis, dynamic
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-2. **Mustain, William E** (ID: 117)
+2. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+3. **Mustain, William E** (ID: 117)
    - Covers: synthesis
-3. **Pain, Christopher C.** (ID: 123)
+4. **Pain, Christopher C.** (ID: 123)
    - Covers: imaging
-4. **Rizos, Dimitris** (ID: 139)
+5. **Rizos, Dimitris** (ID: 139)
    - Covers: computational method
-5. **Roberts, Kenneth L** (ID: 141)
-   - Covers: catalysis
 
 ---
 
@@ -225,14 +239,14 @@
 - **Uncovered Skills**: health
 
 ### Selected Team
-1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: biomedical, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-3. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
-4. **Boltin, Nicholas D.** (ID: 14)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: biomedical, national science, science foundation
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
+4. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 5. **Pain, Christopher C.** (ID: 123)
    - Covers: biomedical science
 
@@ -242,13 +256,19 @@
 - **Required Skills**: chemical, communication
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication
-2. **Berge, Nicole D.** (ID: 10)
+5. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 
 ---
@@ -256,21 +276,21 @@
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20566/nsf20566.htm (ID: 13)
 - **Required Skills**: ai, ai system, algorithm, artificial intelligence, decision support, ha long, health, learning, machine learning, security, support system
 - **Seat Cost**: 4.1480
-- **Final Coverage**: 79.75%
-- **Goodness Score**: 0.4318
-- **Uncovered Skills**: algorithm, ha long
+- **Final Coverage**: 69.62%
+- **Goodness Score**: 0.4205
+- **Uncovered Skills**: algorithm, ha long, security
 
 ### Selected Team
 1. **Boltin, Nicholas D.** (ID: 14)
    - Covers: decision support, machine learning, support system
-2. **Wu, Dezhi** (ID: 191)
-   - Covers: ai, health
-3. **Zhang, Qi** (ID: 199)
-   - Covers: ai system, artificial intelligence
-4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-5. **Matthews, Manton M** (ID: 106)
-   - Covers: security
+3. **Srivastava, Biplav** (ID: 158)
+   - Covers: artificial intelligence, health
+4. **Wu, Dezhi** (ID: 191)
+   - Covers: ai, health
+5. **Zhang, Qi** (ID: 199)
+   - Covers: ai system, artificial intelligence
 
 ---
 
@@ -278,11 +298,19 @@
 - **Required Skills**: synthesis
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Mustain, William E** (ID: 117)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Mustain, William E** (ID: 117)
    - Covers: synthesis
 
 ---
@@ -290,21 +318,21 @@
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20563/nsf20563.htm (ID: 15)
 - **Required Skills**: artificial intelligence, automation, civil, energy, learning, machine learning, personalized medicine, range application, security
 - **Seat Cost**: 4.2421
-- **Final Coverage**: 67.91%
-- **Goodness Score**: 0.3750
-- **Uncovered Skills**: artificial intelligence, range application, security
+- **Final Coverage**: 63.70%
+- **Goodness Score**: 0.3889
+- **Uncovered Skills**: personalized medicine, range application, security
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: automation, machine learning
-2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-3. **Farouk, Tanvir   I.** (ID: 46)
+2. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-4. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: civil
-5. **Liu, Chang** (ID: 98)
-   - Covers: personalized medicine
+4. **Jamshidi, Pooyan ** (ID: 84)
+   - Covers: artificial intelligence, machine learning
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: automation, machine learning
 
 ---
 
@@ -332,21 +360,21 @@
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20557/nsf20557.htm (ID: 17)
 - **Required Skills**: application including, communication, high speed, internet thing, system application, thing iot, wireless communication
 - **Seat Cost**: 4.5621
-- **Final Coverage**: 86.80%
+- **Final Coverage**: 85.53%
 - **Goodness Score**: 0.4464
-- **Uncovered Skills**: high speed
+- **Uncovered Skills**: wireless communication
 
 ### Selected Team
-1. **Koppel, Tarmo** (ID: 92)
-   - Covers: internet thing, thing iot
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: communication
+2. **Koppel, Tarmo** (ID: 92)
+   - Covers: internet thing, thing iot
 3. **Morehouse, Jeff ** (ID: 114)
    - Covers: system application
-4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+4. **Qian, Yu** (ID: 130)
+   - Covers: high speed
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: application including
-5. **Sahin, Alphan ** (ID: 146)
-   - Covers: wireless communication
 
 ---
 
@@ -354,15 +382,19 @@
 - **Required Skills**: development, engineering, including engineering
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: including engineering
 
 ---
@@ -370,9 +402,9 @@
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20552/nsf20552.htm (ID: 19)
 - **Required Skills**: business, chemical, logistics, machine design, material, production
 - **Seat Cost**: 4.5525
-- **Final Coverage**: 84.57%
+- **Final Coverage**: 83.09%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: material
+- **Uncovered Skills**: machine design
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
@@ -383,17 +415,17 @@
    - Covers: business
 4. **Huynh, Nathan** (ID: 79)
    - Covers: logistics
-5. **Rocheleau, David ** (ID: 142)
-   - Covers: machine design
+5. **Ritter, James A.** (ID: 138)
+   - Covers: material
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20544/nsf20544.htm (ID: 20)
 - **Required Skills**: computer information, engineering, information science, national science, science engineering, science foundation
 - **Seat Cost**: 4.1315
-- **Final Coverage**: 85.79%
-- **Goodness Score**: 0.4792
-- **Uncovered Skills**: science engineering
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -404,8 +436,8 @@
    - Covers: computer information
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -417,16 +449,16 @@
 - **Uncovered Skills**: cell type, develop strategy, dynamic
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
-   - Covers: foundation nsf, national science, science foundation
-2. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: fundamental understanding, product
-3. **Gatzke, Edward P.** (ID: 52)
-   - Covers: control, fundamental understanding
-4. **Berge, Nicole D.** (ID: 10)
+2. **Ali, Mohammod** (ID: 3)
+   - Covers: foundation nsf, national science, science foundation
+3. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-5. **Blanchette, James  Otto** (ID: 13)
+4. **Blanchette, James  Otto** (ID: 13)
    - Covers: cell cell
+5. **Gatzke, Edward P.** (ID: 52)
+   - Covers: control, fundamental understanding
 
 ---
 
@@ -435,40 +467,40 @@
 - **Seat Cost**: 4.2173
 - **Final Coverage**: 71.25%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: area, graduate student, principal investigator, science engineering
+- **Uncovered Skills**: area, engineering, principal investigator, science engineering
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
-   - Covers: computer information, learning, new york
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: artificial intelligence, deep learning
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: activity focused, national science, science foundation
-3. **Agostinelli, Forest** (ID: 0)
-   - Covers: artificial intelligence, deep learning
-4. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-5. **Boltin, Nicholas D.** (ID: 14)
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science
+4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: computer information, learning, new york
+5. **Dougal, Roger A.** (ID: 37)
+   - Covers: graduate student
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20539/nsf20539.htm (ID: 23)
 - **Required Skills**: computer science, development, foundation nsf, material, national science, professional development, science foundation, teaching
 - **Seat Cost**: 4.2030
-- **Final Coverage**: 89.53%
+- **Final Coverage**: 87.47%
 - **Goodness Score**: 0.4531
-- **Uncovered Skills**: computer science
+- **Uncovered Skills**: material
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Broughton, Earnie** (ID: 17)
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+3. **Broughton, Earnie** (ID: 17)
    - Covers: professional development
-3. **Devereux, Emily** (ID: 35)
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: teaching
-5. **Ritter, James A.** (ID: 138)
-   - Covers: material
 
 ---
 
@@ -476,15 +508,19 @@
 - **Required Skills**: development, robotics, united state
 - **Seat Cost**: 4.4849
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Fan, Daping** (ID: 44)
+3. **Fan, Daping** (ID: 44)
    - Covers: united state
-3. **O'Kane, Jason** (ID: 120)
+4. **O'Kane, Jason** (ID: 120)
+   - Covers: robotics
+5. **Stiffler, Nick** (ID: 160)
    - Covers: robotics
 
 ---
@@ -493,7 +529,7 @@
 - **Required Skills**: chemical, engineering, environmental engineering, science engineering
 - **Seat Cost**: 4.1721
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
@@ -501,9 +537,11 @@
    - Covers: chemical
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **McAnally, A. Steve** (ID: 108)
+3. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+4. **McAnally, A. Steve** (ID: 108)
    - Covers: environmental engineering
-4. **Jalilvand, Golareh** (ID: 83)
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: science engineering
 
 ---
@@ -511,9 +549,9 @@
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20514/nsf20514.htm (ID: 26)
 - **Required Skills**: area, area future, engineering, foundation nsf, national science, program director, science engineering, science foundation
 - **Seat Cost**: 4.2537
-- **Final Coverage**: 89.65%
-- **Goodness Score**: 0.4844
-- **Uncovered Skills**: science engineering
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -522,19 +560,19 @@
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Liu, Chang** (ID: 98)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Liu, Chang** (ID: 98)
    - Covers: area future
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20513/nsf20513.htm (ID: 27)
 - **Required Skills**: area, area future, engineering, foundation nsf, national science, program director, science engineering, science foundation
 - **Seat Cost**: 4.2537
-- **Final Coverage**: 89.65%
-- **Goodness Score**: 0.4844
-- **Uncovered Skills**: science engineering
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -543,19 +581,19 @@
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Liu, Chang** (ID: 98)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Liu, Chang** (ID: 98)
    - Covers: area future
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20511/nsf20511.htm (ID: 28)
 - **Required Skills**: area, artificial intelligence, big data, communication, control, cyber system, energy, engineering, fuel, information science, learning, machine learning, national science, science foundation, security, synthesis, system application
 - **Seat Cost**: 4.3122
-- **Final Coverage**: 51.78%
-- **Goodness Score**: 0.3235
-- **Uncovered Skills**: area, artificial intelligence, big data, energy, engineering, fuel, synthesis, system application
+- **Final Coverage**: 49.58%
+- **Goodness Score**: 0.3309
+- **Uncovered Skills**: area, big data, control, engineering, fuel, security, synthesis, system application
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -564,10 +602,10 @@
    - Covers: information science, machine learning
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-4. **Gatzke, Edward P.** (ID: 52)
-   - Covers: control
-5. **Matthews, Manton M** (ID: 106)
-   - Covers: security
+4. **Farouk, Tanvir   I.** (ID: 46)
+   - Covers: energy
+5. **Jamshidi, Pooyan ** (ID: 84)
+   - Covers: artificial intelligence, machine learning
 
 ---
 
@@ -575,18 +613,20 @@
 - **Required Skills**: chemical, civil, communication, cyber system, directorate engineering, division electrical, engineering, national science, review process, science foundation
 - **Seat Cost**: 4.4368
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5250
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: communication, cyber system, directorate engineering, division electrical, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
-   - Covers: civil, engineering
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
 3. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 4. **Devereux, Emily** (ID: 35)
    - Covers: review process
+5. **Gassman, Sarah** (ID: 51)
+   - Covers: civil, engineering
 
 ---
 
@@ -598,37 +638,37 @@
 - **Uncovered Skills**: track, year
 
 ### Selected Team
-1. **Lyons, Jed ** (ID: 101)
-   - Covers: full professor, retention
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-3. **Broughton, Earnie** (ID: 17)
+2. **Broughton, Earnie** (ID: 17)
    - Covers: professional development
-4. **Devereux, Emily** (ID: 35)
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-5. **Humphries, Wilfred Kenneth** (ID: 77)
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
+5. **Lyons, Jed ** (ID: 101)
+   - Covers: full professor, retention
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20503/nsf20503.htm (ID: 31)
 - **Required Skills**: ai, artificial intelligence, continued advancement, development, economic impact, industry, learning, machine learning, security
 - **Seat Cost**: 4.1971
-- **Final Coverage**: 64.38%
+- **Final Coverage**: 63.31%
 - **Goodness Score**: 0.3750
-- **Uncovered Skills**: ai, economic impact, industry
+- **Uncovered Skills**: ai, continued advancement, economic impact
 
 ### Selected Team
-1. **Jamshidi, Pooyan ** (ID: 84)
-   - Covers: artificial intelligence, machine learning
-2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-3. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Matthews, Manton M** (ID: 106)
+3. **Jamshidi, Pooyan ** (ID: 84)
+   - Covers: artificial intelligence, machine learning
+4. **Koppel, Tarmo** (ID: 92)
+   - Covers: industry
+5. **Matthews, Manton M** (ID: 106)
    - Covers: security
-5. **Shazly, Tarek ** (ID: 150)
-   - Covers: continued advancement
 
 ---
 
@@ -642,35 +682,35 @@
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Hu, Ming** (ID: 72)
-   - Covers: thermal transport, transport process
+2. **Berge, Nicole D.** (ID: 10)
+   - Covers: chemical
 3. **Dryer, Frederick  L. ** (ID: 39)
    - Covers: combustion, fluid dynamic
-4. **Berge, Nicole D.** (ID: 10)
-   - Covers: chemical
-5. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+5. **Hu, Ming** (ID: 72)
+   - Covers: thermal transport, transport process
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2020/nsf20500/nsf20500.htm (ID: 33)
 - **Required Skills**: chemical, civil, engineering, foundation nsf, mechanobiology, national science, science foundation, tissue engineering
 - **Seat Cost**: 4.2764
-- **Final Coverage**: 89.17%
-- **Goodness Score**: 0.4844
-- **Uncovered Skills**: tissue engineering
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
-   - Covers: civil, engineering
-3. **Berge, Nicole D.** (ID: 10)
+2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
+3. **Blanchette, James  Otto** (ID: 13)
+   - Covers: tissue engineering
 4. **Eberth, John F.** (ID: 41)
    - Covers: mechanobiology
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
+5. **Gassman, Sarah** (ID: 51)
+   - Covers: civil, engineering
 
 ---
 
@@ -682,16 +722,16 @@
 - **Uncovered Skills**: material, professional practice, year
 
 ### Selected Team
-1. **Lyons, Jed ** (ID: 101)
-   - Covers: engineering education, engineering material, professional engineer
-2. **Smoak, Wilson** (ID: 155)
-   - Covers: capstone design, engineering department
-3. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-4. **Buell, Duncan A.** (ID: 18)
+2. **Buell, Duncan A.** (ID: 18)
    - Covers: first year
-5. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+4. **Lyons, Jed ** (ID: 101)
+   - Covers: engineering education, engineering material, professional engineer
+5. **Smoak, Wilson** (ID: 155)
+   - Covers: capstone design, engineering department
 
 ---
 
@@ -703,16 +743,16 @@
 - **Uncovered Skills**: area, modeling, synthesis, system application, year
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
-   - Covers: computer information, learning
+1. **Bakos, Jason D. ** (ID: 5)
+   - Covers: embedded system
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science, machine learning
-3. **Jalilvand, Golareh** (ID: 83)
-   - Covers: machine learning, science engineering
-4. **Bakos, Jason D. ** (ID: 5)
-   - Covers: embedded system
-5. **Gassman, Sarah** (ID: 51)
+3. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: computer information, learning
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: machine learning, science engineering
 
 ---
 
@@ -720,15 +760,19 @@
 - **Required Skills**: area, directorate engineering, engineering
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering
-2. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -741,25 +785,25 @@
 - **Uncovered Skills**: material, property
 
 ### Selected Team
-1. **Vogt, Thomas** (ID: 180)
-   - Covers: material science, physic
-2. **Jalilvand, Golareh** (ID: 83)
-   - Covers: material science, science engineering
-3. **Farouk, Tanvir   I.** (ID: 46)
+1. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: plasma
-4. **Gassman, Sarah** (ID: 51)
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Haj-Hariri, Hossein ** (ID: 65)
+3. **Haj-Hariri, Hossein ** (ID: 65)
    - Covers: applied mathematics
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: material science, science engineering
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: material science, physic
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2019/nsf19589/nsf19589.htm (ID: 38)
 - **Required Skills**: communication, computer information, engineering, information science, project develop, science engineering
 - **Seat Cost**: 4.3694
-- **Final Coverage**: 86.57%
+- **Final Coverage**: 83.92%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: project develop
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -770,29 +814,29 @@
    - Covers: computer information
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Liu, Chang** (ID: 98)
-   - Covers: project develop
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2019/nsf19577/nsf19577.htm (ID: 39)
 - **Required Skills**: catalysis, chemical, chemistry, computational method, dynamic, imaging, synthesis
 - **Seat Cost**: 4.5621
-- **Final Coverage**: 72.34%
+- **Final Coverage**: 71.07%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: chemistry, dynamic
+- **Uncovered Skills**: catalysis, dynamic
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-2. **Mustain, William E** (ID: 117)
+2. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+3. **Mustain, William E** (ID: 117)
    - Covers: synthesis
-3. **Pain, Christopher C.** (ID: 123)
+4. **Pain, Christopher C.** (ID: 123)
    - Covers: imaging
-4. **Rizos, Dimitris** (ID: 139)
+5. **Rizos, Dimitris** (ID: 139)
    - Covers: computational method
-5. **Roberts, Kenneth L** (ID: 141)
-   - Covers: catalysis
 
 ---
 
@@ -800,15 +844,19 @@
 - **Required Skills**: development, mm, statistic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
-2. **Devereux, Emily** (ID: 35)
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Potts, Jay** (ID: 129)
+5. **Potts, Jay** (ID: 129)
    - Covers: mm
 
 ---
@@ -817,17 +865,19 @@
 - **Required Skills**: cyber system, engineering, problem involving, security
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: cyber system
-2. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Matthews, Manton M** (ID: 106)
+4. **Matthews, Manton M** (ID: 106)
    - Covers: security
-4. **Mobli, Mostafa** (ID: 112)
+5. **Mobli, Mostafa** (ID: 112)
    - Covers: problem involving
 
 ---
@@ -835,42 +885,42 @@
 ## Proposal: https://www.nsf.gov/pubs/2019/nsf19571/nsf19571.htm (ID: 42)
 - **Required Skills**: ai, ai system, artificial intelligence, ha long, health, learning, machine learning, national science, science foundation, security
 - **Seat Cost**: 4.0274
-- **Final Coverage**: 81.51%
-- **Goodness Score**: 0.4250
-- **Uncovered Skills**: ha long, machine learning
+- **Final Coverage**: 77.06%
+- **Goodness Score**: 0.4375
+- **Uncovered Skills**: ha long, security
 
 ### Selected Team
-1. **Wu, Dezhi** (ID: 191)
-   - Covers: ai, health
-2. **Zhang, Qi** (ID: 199)
-   - Covers: ai system, artificial intelligence
-3. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-5. **Matthews, Manton M** (ID: 106)
-   - Covers: security
+3. **Jamshidi, Pooyan ** (ID: 84)
+   - Covers: artificial intelligence, machine learning
+4. **Wu, Dezhi** (ID: 191)
+   - Covers: ai, health
+5. **Zhang, Qi** (ID: 199)
+   - Covers: ai system, artificial intelligence
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2019/nsf19553/nsf19553.htm (ID: 43)
 - **Required Skills**: artificial intelligence, civil, energy, personalized medicine, range application, security
 - **Seat Cost**: 4.3518
-- **Final Coverage**: 88.47%
+- **Final Coverage**: 82.31%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: artificial intelligence
+- **Uncovered Skills**: range application
 
 ### Selected Team
-1. **Farouk, Tanvir   I.** (ID: 46)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: artificial intelligence
+2. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-2. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: civil
-3. **Liu, Chang** (ID: 98)
+4. **Liu, Chang** (ID: 98)
    - Covers: personalized medicine
-4. **Matthews, Manton M** (ID: 106)
+5. **Matthews, Manton M** (ID: 106)
    - Covers: security
-5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: range application
 
 ---
 
@@ -878,17 +928,19 @@
 - **Required Skills**: development, national science, robotics, science foundation, united state
 - **Seat Cost**: 4.1724
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Devereux, Emily** (ID: 35)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Fan, Daping** (ID: 44)
+4. **Fan, Daping** (ID: 44)
    - Covers: united state
-4. **O'Kane, Jason** (ID: 120)
+5. **O'Kane, Jason** (ID: 120)
    - Covers: robotics
 
 ---
@@ -896,9 +948,9 @@
 ## Proposal: https://www.nsf.gov/pubs/2019/nsf19532/nsf19532.htm (ID: 45)
 - **Required Skills**: area, area future, engineering, foundation nsf, national science, program director, science engineering, science foundation
 - **Seat Cost**: 4.2537
-- **Final Coverage**: 89.65%
-- **Goodness Score**: 0.4844
-- **Uncovered Skills**: science engineering
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -907,10 +959,10 @@
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Liu, Chang** (ID: 98)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Liu, Chang** (ID: 98)
    - Covers: area future
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
 
 ---
 
@@ -939,13 +991,19 @@
 - **Required Skills**: chemical, dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Berge, Nicole D.** (ID: 10)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -960,14 +1018,14 @@
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Hu, Ming** (ID: 72)
-   - Covers: thermal transport, transport process
+2. **Berge, Nicole D.** (ID: 10)
+   - Covers: chemical
 3. **Dryer, Frederick  L. ** (ID: 39)
    - Covers: combustion, fluid dynamic
-4. **Berge, Nicole D.** (ID: 10)
-   - Covers: chemical
-5. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+5. **Hu, Ming** (ID: 72)
+   - Covers: thermal transport, transport process
 
 ---
 
@@ -1000,25 +1058,25 @@
 - **Uncovered Skills**: coordination activity, engineering, material
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering, system design
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: advanced material, property
-3. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-4. **Jalilvand, Golareh** (ID: 83)
-   - Covers: material science, science engineering
-5. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
+3. **Jalilvand, Golareh** (ID: 83)
+   - Covers: material science, science engineering
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: advanced material, property
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering, system design
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2019/nsf19511/nsf19511.htm (ID: 51)
 - **Required Skills**: area, area future, engineering, foundation nsf, national science, program director, science engineering, science foundation
 - **Seat Cost**: 4.2537
-- **Final Coverage**: 89.65%
-- **Goodness Score**: 0.4844
-- **Uncovered Skills**: science engineering
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -1027,31 +1085,31 @@
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Liu, Chang** (ID: 98)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Liu, Chang** (ID: 98)
    - Covers: area future
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2019/nsf19509/nsf19509.htm (ID: 52)
 - **Required Skills**: chemical, civil, engineering, foundation nsf, mechanobiology, national science, science foundation, tissue engineering
 - **Seat Cost**: 4.2764
-- **Final Coverage**: 89.17%
-- **Goodness Score**: 0.4844
-- **Uncovered Skills**: tissue engineering
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
-   - Covers: civil, engineering
-3. **Berge, Nicole D.** (ID: 10)
+2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
+3. **Blanchette, James  Otto** (ID: 13)
+   - Covers: tissue engineering
 4. **Eberth, John F.** (ID: 41)
    - Covers: mechanobiology
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
+5. **Gassman, Sarah** (ID: 51)
+   - Covers: civil, engineering
 
 ---
 
@@ -1059,13 +1117,19 @@
 - **Required Skills**: national science, science foundation, year
 - **Seat Cost**: 4.0092
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5833
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Regan, Elizabeth A.** (ID: 133)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
 
 ---
@@ -1073,9 +1137,9 @@
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18598/nsf18598.htm (ID: 54)
 - **Required Skills**: big data, computer information, engineering, industry, information science, science engineering, united state
 - **Seat Cost**: 4.4052
-- **Final Coverage**: 74.91%
+- **Final Coverage**: 71.35%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: industry, science engineering
+- **Uncovered Skills**: big data, industry
 
 ### Selected Team
 1. **Boltin, Nicholas D.** (ID: 14)
@@ -1086,8 +1150,8 @@
    - Covers: united state
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Wu, Dezhi** (ID: 191)
-   - Covers: big data
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -1099,16 +1163,16 @@
 - **Uncovered Skills**: area, synthesis, system application, year
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
-   - Covers: computer information, learning
-2. **Boltin, Nicholas D.** (ID: 14)
+1. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science, machine learning
-3. **Jalilvand, Golareh** (ID: 83)
-   - Covers: machine learning, science engineering
-4. **Gassman, Sarah** (ID: 51)
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: computer information, learning
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Huang, Kevin ** (ID: 74)
+4. **Huang, Kevin ** (ID: 74)
    - Covers: modeling
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: machine learning, science engineering
 
 ---
 
@@ -1116,11 +1180,19 @@
 - **Required Skills**: multidisciplinary approach
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Shazly, Tarek ** (ID: 150)
    - Covers: multidisciplinary approach
 
 ---
@@ -1129,13 +1201,19 @@
 - **Required Skills**: computer science, theoretical foundation
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: theoretical foundation
-2. **Boltin, Nicholas D.** (ID: 14)
+5. **Fiedler, Kirk** (ID: 48)
    - Covers: computer science
 
 ---
@@ -1144,11 +1222,19 @@
 - **Required Skills**: national science, science foundation
 - **Seat Cost**: 3.7038
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: national science, science foundation
+5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: national science, science foundation
 
 ---
@@ -1157,17 +1243,19 @@
 - **Required Skills**: cyber system, engineering, problem involving, security
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: cyber system
-2. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Matthews, Manton M** (ID: 106)
+4. **Matthews, Manton M** (ID: 106)
    - Covers: security
-4. **Mobli, Mostafa** (ID: 112)
+5. **Mobli, Mostafa** (ID: 112)
    - Covers: problem involving
 
 ---
@@ -1175,9 +1263,9 @@
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18571/nsf18571.htm (ID: 60)
 - **Required Skills**: development, engineering, higher education, industry, material, professional development, science engineering
 - **Seat Cost**: 4.2893
-- **Final Coverage**: 74.24%
+- **Final Coverage**: 71.93%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: material, science engineering
+- **Uncovered Skills**: industry, material
 
 ### Selected Team
 1. **Broughton, Earnie** (ID: 17)
@@ -1188,8 +1276,8 @@
    - Covers: engineering
 4. **Gholizadeh, Sona** (ID: 54)
    - Covers: higher education
-5. **Koppel, Tarmo** (ID: 92)
-   - Covers: industry
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -1197,14 +1285,20 @@
 - **Required Skills**: intelligent system, project develop
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-2. **Liu, Chang** (ID: 98)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Liu, Chang** (ID: 98)
    - Covers: project develop
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: intelligent system
 
 ---
 
@@ -1212,13 +1306,19 @@
 - **Required Skills**: development, development novel
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Matthews, Michael A.** (ID: 107)
+5. **Matthews, Michael A.** (ID: 107)
    - Covers: development novel
 
 ---
@@ -1226,21 +1326,21 @@
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18567/nsf18567.htm (ID: 63)
 - **Required Skills**: area, computational data, development, discovery, engineering, engineering education, science engineering, security, service, translational
 - **Seat Cost**: 4.4409
-- **Final Coverage**: 70.35%
+- **Final Coverage**: 68.79%
 - **Goodness Score**: 0.3875
-- **Uncovered Skills**: engineering education, service, translational
+- **Uncovered Skills**: security, service, translational
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: computational data, discovery, science engineering
-2. **Devereux, Emily** (ID: 35)
+1. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Gassman, Sarah** (ID: 51)
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+3. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
 4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Matthews, Manton M** (ID: 106)
-   - Covers: security
+5. **Wang, Yi** (ID: 185)
+   - Covers: computational data, discovery, science engineering
 
 ---
 
@@ -1252,16 +1352,16 @@
 - **Uncovered Skills**: biomedical science, health, nih
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
-   - Covers: foundation nsf, national science, science foundation
-2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: biomedical, national science, science foundation
-3. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-4. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
-5. **Boltin, Nicholas D.** (ID: 14)
+2. **Ali, Mohammod** (ID: 3)
+   - Covers: foundation nsf, national science, science foundation
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: biomedical, national science, science foundation
+4. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
+5. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 
 ---
 
@@ -1269,35 +1369,41 @@
 - **Required Skills**: broad range, physic
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vogt, Thomas** (ID: 180)
-   - Covers: physic
-2. **Morehouse, Jeff ** (ID: 114)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Morehouse, Jeff ** (ID: 114)
    - Covers: broad range
+4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+   - Covers: broad range
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: physic
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18561/nsf18561.htm (ID: 66)
 - **Required Skills**: catalysis, chemical, chemistry, computational method, dynamic, imaging, synthesis
 - **Seat Cost**: 4.5621
-- **Final Coverage**: 72.34%
+- **Final Coverage**: 71.07%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: chemistry, dynamic
+- **Uncovered Skills**: catalysis, dynamic
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-2. **Mustain, William E** (ID: 117)
+2. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+3. **Mustain, William E** (ID: 117)
    - Covers: synthesis
-3. **Pain, Christopher C.** (ID: 123)
+4. **Pain, Christopher C.** (ID: 123)
    - Covers: imaging
-4. **Rizos, Dimitris** (ID: 139)
+5. **Rizos, Dimitris** (ID: 139)
    - Covers: computational method
-5. **Roberts, Kenneth L** (ID: 141)
-   - Covers: catalysis
 
 ---
 
@@ -1305,17 +1411,19 @@
 - **Required Skills**: actuation, communication, perception, smart grid
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: communication
-2. **Dougal, Roger A.** (ID: 37)
+3. **Dougal, Roger A.** (ID: 37)
    - Covers: smart grid
-3. **Rekleitis, Ioannis** (ID: 135)
+4. **Rekleitis, Ioannis** (ID: 135)
    - Covers: perception
-4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: actuation
 
 ---
@@ -1332,75 +1440,75 @@
    - Covers: directorate engineering, foundation nsf, national science, science foundation, system directorate
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science, information science
-3. **Jalilvand, Golareh** (ID: 83)
-   - Covers: computer science, science engineering
-4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information
-5. **Dougal, Roger A.** (ID: 37)
+4. **Dougal, Roger A.** (ID: 37)
    - Covers: graduate student
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: computer science, science engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18541/nsf18541.htm (ID: 69)
 - **Required Skills**: aging, area, biomedical, computer information, development, engineering, foundation nsf, health, information science, modeling, national institute, national science, nih, process modeling, public health, science engineering, science foundation, security
 - **Seat Cost**: 4.3737
-- **Final Coverage**: 42.20%
+- **Final Coverage**: 42.71%
 - **Goodness Score**: 0.3056
-- **Uncovered Skills**: area, computer information, development, engineering, health, modeling, nih, process modeling, public health, security
+- **Uncovered Skills**: area, development, engineering, health, modeling, national institute, nih, process modeling, public health, security
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Reifsnider, Kenneth ** (ID: 134)
-   - Covers: aging, science engineering
-3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: biomedical, national science, science foundation
-4. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-5. **Boltin, Nicholas D.** (ID: 14)
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science
+4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: computer information
+5. **Reifsnider, Kenneth ** (ID: 134)
+   - Covers: aging, science engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18538/nsf18538.htm (ID: 70)
 - **Required Skills**: artificial intelligence, civil, energy, national science, personalized medicine, range application, science foundation, security
 - **Seat Cost**: 4.1898
-- **Final Coverage**: 77.23%
+- **Final Coverage**: 72.43%
 - **Goodness Score**: 0.4062
-- **Uncovered Skills**: artificial intelligence, range application
+- **Uncovered Skills**: range application, security
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: artificial intelligence
+2. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Farouk, Tanvir   I.** (ID: 46)
+3. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-3. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: civil
-4. **Liu, Chang** (ID: 98)
+5. **Liu, Chang** (ID: 98)
    - Covers: personalized medicine
-5. **Matthews, Manton M** (ID: 106)
-   - Covers: security
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18537/nsf18537.htm (ID: 71)
 - **Required Skills**: computer science, development, foundation nsf, material, national science, professional development, science foundation, teaching
 - **Seat Cost**: 4.2030
-- **Final Coverage**: 89.53%
+- **Final Coverage**: 87.47%
 - **Goodness Score**: 0.4531
-- **Uncovered Skills**: computer science
+- **Uncovered Skills**: material
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Broughton, Earnie** (ID: 17)
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+3. **Broughton, Earnie** (ID: 17)
    - Covers: professional development
-3. **Devereux, Emily** (ID: 35)
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: teaching
-5. **Ritter, James A.** (ID: 138)
-   - Covers: material
 
 ---
 
@@ -1412,16 +1520,16 @@
 - **Uncovered Skills**: area, synthesis, system application, year
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
-   - Covers: computer information, learning
-2. **Boltin, Nicholas D.** (ID: 14)
+1. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science, machine learning
-3. **Jalilvand, Golareh** (ID: 83)
-   - Covers: machine learning, science engineering
-4. **Gassman, Sarah** (ID: 51)
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: computer information, learning
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Huang, Kevin ** (ID: 74)
+4. **Huang, Kevin ** (ID: 74)
    - Covers: modeling
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: machine learning, science engineering
 
 ---
 
@@ -1429,7 +1537,7 @@
 - **Required Skills**: computer information, engineering, information science, science engineering
 - **Seat Cost**: 4.3454
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
@@ -1441,6 +1549,8 @@
    - Covers: engineering
 4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+5. **Pain, Christopher C.** (ID: 123)
+   - Covers: science engineering
 
 ---
 
@@ -1448,11 +1558,19 @@
 - **Required Skills**: chemical
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Berge, Nicole D.** (ID: 10)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
 
 ---
@@ -1460,21 +1578,21 @@
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18521/nsf18521.htm (ID: 75)
 - **Required Skills**: chemical, dynamic, engineering, fluid dynamic, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.2013
-- **Final Coverage**: 88.03%
-- **Goodness Score**: 0.4821
-- **Uncovered Skills**: fluid dynamic
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
 2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-3. **Gassman, Sarah** (ID: 51)
+3. **Dryer, Frederick  L. ** (ID: 39)
+   - Covers: fluid dynamic
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
 
 ---
 
@@ -1482,17 +1600,19 @@
 - **Required Skills**: development, national science, robotics, science foundation, united state
 - **Seat Cost**: 4.1724
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Devereux, Emily** (ID: 35)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Fan, Daping** (ID: 44)
+4. **Fan, Daping** (ID: 44)
    - Covers: united state
-4. **O'Kane, Jason** (ID: 120)
+5. **O'Kane, Jason** (ID: 120)
    - Covers: robotics
 
 ---
@@ -1501,13 +1621,19 @@
 - **Required Skills**: area, product
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Alexeev, Oleg S.** (ID: 2)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
    - Covers: product
-2. **Humphries, Wilfred Kenneth** (ID: 77)
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -1522,14 +1648,14 @@
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Berge, Nicole D.** (ID: 10)
-   - Covers: chemical
-3. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: national science, science foundation
-5. **Blanchette, James  Otto** (ID: 13)
+3. **Berge, Nicole D.** (ID: 10)
+   - Covers: chemical
+4. **Blanchette, James  Otto** (ID: 13)
    - Covers: tissue engineering
+5. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
 
 ---
 
@@ -1543,14 +1669,14 @@
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-3. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
+3. **Gholizadeh, Sona** (ID: 54)
+   - Covers: higher education
 4. **Lyons, Jed ** (ID: 101)
    - Covers: program level
-5. **Gholizadeh, Sona** (ID: 54)
-   - Covers: higher education
+5. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national science, science foundation
 
 ---
 
@@ -1558,13 +1684,19 @@
 - **Required Skills**: computer science, theoretical foundation
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: theoretical foundation
-2. **Boltin, Nicholas D.** (ID: 14)
+5. **Fiedler, Kirk** (ID: 48)
    - Covers: computer science
 
 ---
@@ -1572,21 +1704,21 @@
 ## Proposal: https://www.nsf.gov/pubs/2018/nsf18500/nsf18500.htm (ID: 81)
 - **Required Skills**: area, biomaterials, broad spectrum, chemistry, development, dynamic, electronic photonic, fundamental understanding, learning, machine learning, material, material soft, material state, material system, method used, modeling, molecular dynamic, physic, polymer, polymeric material, property, soft material, soft matter, solid state, statistical mechanic
 - **Seat Cost**: 4.4234
-- **Final Coverage**: 48.67%
+- **Final Coverage**: 48.04%
 - **Goodness Score**: 0.3050
-- **Uncovered Skills**: area, biomaterials, broad spectrum, development, electronic photonic, learning, machine learning, material, material state, modeling, molecular dynamic, polymer, solid state
+- **Uncovered Skills**: area, broad spectrum, chemistry, development, electronic photonic, learning, machine learning, material state, modeling, molecular dynamic, physic, solid state, statistical mechanic
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: material soft, material system, polymeric material, property
+1. **Gatzke, Edward P.** (ID: 52)
+   - Covers: fundamental understanding, method used
 2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic, soft material
-3. **Gatzke, Edward P.** (ID: 52)
-   - Covers: fundamental understanding, method used
-4. **Uline, Mark J.** (ID: 172)
-   - Covers: soft matter, statistical mechanic
-5. **Vogt, Thomas** (ID: 180)
-   - Covers: chemistry, physic
+3. **Shazly, Tarek ** (ID: 150)
+   - Covers: material soft, material system, polymeric material, property
+4. **Taheri-Qazvini, Nader ** (ID: 165)
+   - Covers: material, soft matter
+5. **Tang, Chuanbing** (ID: 167)
+   - Covers: biomaterials, polymer
 
 ---
 
@@ -1615,11 +1747,19 @@
 - **Required Skills**: year
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Regan, Elizabeth A.** (ID: 133)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
 
 ---
@@ -1628,11 +1768,20 @@
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -1644,16 +1793,16 @@ No team selected.
 - **Uncovered Skills**: discovery, engineering, industry, lead new, material, material unique, synthesis, united state
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: novel design, property
-2. **Gatzke, Edward P.** (ID: 52)
-   - Covers: control, fundamental understanding
-3. **Monnier, John R.** (ID: 113)
-   - Covers: design synthesis, synthesis characterization
-4. **Devereux, Emily** (ID: 35)
+1. **Devereux, Emily** (ID: 35)
    - Covers: development
-5. **Dougal, Roger A.** (ID: 37)
+2. **Dougal, Roger A.** (ID: 37)
    - Covers: processing
+3. **Gatzke, Edward P.** (ID: 52)
+   - Covers: control, fundamental understanding
+4. **Monnier, John R.** (ID: 113)
+   - Covers: design synthesis, synthesis characterization
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: novel design, property
 
 ---
 
@@ -1661,15 +1810,19 @@ No team selected.
 - **Required Skills**: area, directorate engineering, engineering
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering
-2. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -1678,17 +1831,19 @@ No team selected.
 - **Required Skills**: cyber system, engineering, problem involving, security
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: cyber system
-2. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Matthews, Manton M** (ID: 106)
+4. **Matthews, Manton M** (ID: 106)
    - Covers: security
-4. **Mobli, Mostafa** (ID: 112)
+5. **Mobli, Mostafa** (ID: 112)
    - Covers: problem involving
 
 ---
@@ -1701,16 +1856,16 @@ No team selected.
 - **Uncovered Skills**: area, engineering, graduate student, revolve around
 
 ### Selected Team
-1. **Summers, Bill ** (ID: 162)
-   - Covers: experience new, science technology
+1. **Ali, Mohammod** (ID: 3)
+   - Covers: directorate engineering
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science, information science
-3. **Jalilvand, Golareh** (ID: 83)
-   - Covers: computer science, science engineering
-4. **Ali, Mohammod** (ID: 3)
-   - Covers: directorate engineering
-5. **Brookshire, Robert G., Ph.D.** (ID: 16)
+3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: computer science, science engineering
+5. **Summers, Bill ** (ID: 162)
+   - Covers: experience new, science technology
 
 ---
 
@@ -1718,14 +1873,20 @@ No team selected.
 - **Required Skills**: intelligent system, project develop
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-2. **Liu, Chang** (ID: 98)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Liu, Chang** (ID: 98)
    - Covers: project develop
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: intelligent system
 
 ---
 
@@ -1737,37 +1898,37 @@ No team selected.
 - **Uncovered Skills**: biomedical science, health, nih
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
-   - Covers: foundation nsf, national science, science foundation
-2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: biomedical, national science, science foundation
-3. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-4. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
-5. **Boltin, Nicholas D.** (ID: 14)
+2. **Ali, Mohammod** (ID: 3)
+   - Covers: foundation nsf, national science, science foundation
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: biomedical, national science, science foundation
+4. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
+5. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2017/nsf17568/nsf17568.htm (ID: 91)
 - **Required Skills**: development, engineering, industry, material, national science, professional development, science engineering, science foundation
 - **Seat Cost**: 4.1523
-- **Final Coverage**: 89.40%
+- **Final Coverage**: 87.31%
 - **Goodness Score**: 0.4531
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: material
 
 ### Selected Team
-1. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-2. **Broughton, Earnie** (ID: 17)
+1. **Broughton, Earnie** (ID: 17)
    - Covers: professional development
-3. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Ritter, James A.** (ID: 138)
-   - Covers: material
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national science, science foundation
 
 ---
 
@@ -1779,16 +1940,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Chao, Yuh J. ** (ID: 23)
-   - Covers: experimental study, theoretical experimental
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-3. **Vogt, Thomas** (ID: 180)
-   - Covers: physic
-4. **Banerjee, Sourav ** (ID: 6)
+1. **Banerjee, Sourav ** (ID: 6)
    - Covers: wave propagation
-5. **Ritter, James A.** (ID: 138)
+2. **Chao, Yuh J. ** (ID: 23)
+   - Covers: experimental study, theoretical experimental
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: physic
 
 ---
 
@@ -1796,17 +1957,19 @@ No team selected.
 - **Required Skills**: discovery, national science, science foundation, statistic, united state
 - **Seat Cost**: 4.2535
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Boltin, Nicholas D.** (ID: 14)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
-3. **Fan, Daping** (ID: 44)
+4. **Fan, Daping** (ID: 44)
    - Covers: united state
-4. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: discovery
 
 ---
@@ -1815,17 +1978,19 @@ No team selected.
 - **Required Skills**: information processing, physic, processing, quantum computing
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Dougal, Roger A.** (ID: 37)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Dougal, Roger A.** (ID: 37)
    - Covers: processing
-2. **Fenner, Stephen A. ** (ID: 47)
+3. **Fenner, Stephen A. ** (ID: 47)
    - Covers: quantum computing
-3. **Valafar, Homayoun** (ID: 173)
+4. **Valafar, Homayoun** (ID: 173)
    - Covers: information processing
-4. **Vogt, Thomas** (ID: 180)
+5. **Vogt, Thomas** (ID: 180)
    - Covers: physic
 
 ---
@@ -1833,21 +1998,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2017/nsf17541/nsf17541.htm (ID: 95)
 - **Required Skills**: computer science, engineering, including engineering, national science, science foundation, science technology, teaching, track
 - **Seat Cost**: 4.2537
-- **Final Coverage**: 76.07%
+- **Final Coverage**: 72.85%
 - **Goodness Score**: 0.4062
-- **Uncovered Skills**: computer science, including engineering
+- **Uncovered Skills**: including engineering, science technology
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: teaching
-4. **Rizos, Dimitris** (ID: 139)
+5. **Rizos, Dimitris** (ID: 139)
    - Covers: track
-5. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
 
 ---
 
@@ -1865,10 +2030,10 @@ No team selected.
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Karakalos, Stavros G.** (ID: 86)
-   - Covers: creating new
-5. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+5. **Karakalos, Stavros G.** (ID: 86)
+   - Covers: creating new
 
 ---
 
@@ -1876,11 +2041,19 @@ No team selected.
 - **Required Skills**: energy
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Farouk, Tanvir   I.** (ID: 46)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
 
 ---
@@ -1888,21 +2061,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2017/nsf17525/nsf17525.htm (ID: 98)
 - **Required Skills**: computer science, development, foundation nsf, material, national science, professional development, science foundation, teaching
 - **Seat Cost**: 4.2030
-- **Final Coverage**: 89.53%
+- **Final Coverage**: 87.47%
 - **Goodness Score**: 0.4531
-- **Uncovered Skills**: computer science
+- **Uncovered Skills**: material
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Broughton, Earnie** (ID: 17)
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+3. **Broughton, Earnie** (ID: 17)
    - Covers: professional development
-3. **Devereux, Emily** (ID: 35)
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: teaching
-5. **Ritter, James A.** (ID: 138)
-   - Covers: material
 
 ---
 
@@ -1920,10 +2093,10 @@ No team selected.
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Shazly, Tarek ** (ID: 150)
-   - Covers: multidisciplinary approach
-5. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: multidisciplinary approach
 
 ---
 
@@ -1931,15 +2104,19 @@ No team selected.
 - **Required Skills**: development, robotics, united state
 - **Seat Cost**: 4.4849
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Fan, Daping** (ID: 44)
+3. **Fan, Daping** (ID: 44)
    - Covers: united state
-3. **O'Kane, Jason** (ID: 120)
+4. **O'Kane, Jason** (ID: 120)
+   - Covers: robotics
+5. **Stiffler, Nick** (ID: 160)
    - Covers: robotics
 
 ---
@@ -1954,14 +2131,14 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Hu, Ming** (ID: 72)
-   - Covers: thermal transport, transport process
-3. **Berge, Nicole D.** (ID: 10)
+2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
+3. **Dryer, Frederick  L. ** (ID: 39)
+   - Covers: combustion
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Dryer, Frederick  L. ** (ID: 39)
-   - Covers: combustion
+5. **Hu, Ming** (ID: 72)
+   - Covers: thermal transport, transport process
 
 ---
 
@@ -1969,13 +2146,19 @@ No team selected.
 - **Required Skills**: area, earth science
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Humphries, Wilfred Kenneth** (ID: 77)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-2. **Pain, Christopher C.** (ID: 123)
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: earth science
 
 ---
@@ -1990,14 +2173,14 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-3. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
+3. **Gholizadeh, Sona** (ID: 54)
+   - Covers: higher education
 4. **Lyons, Jed ** (ID: 101)
    - Covers: program level
-5. **Gholizadeh, Sona** (ID: 54)
-   - Covers: higher education
+5. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national science, science foundation
 
 ---
 
@@ -2030,16 +2213,16 @@ No team selected.
 - **Uncovered Skills**: engineering, material
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering, system design
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: advanced material, property
+1. **Devereux, Emily** (ID: 35)
+   - Covers: development
+2. **Dougal, Roger A.** (ID: 37)
+   - Covers: coordination activity
 3. **Jalilvand, Golareh** (ID: 83)
    - Covers: material science, science engineering
-4. **Devereux, Emily** (ID: 35)
-   - Covers: development
-5. **Dougal, Roger A.** (ID: 37)
-   - Covers: coordination activity
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: advanced material, property
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering, system design
 
 ---
 
@@ -2051,16 +2234,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Williams, Christopher** (ID: 189)
-   - Covers: national science, protocol development, science foundation
-2. **Devereux, Emily** (ID: 35)
+1. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Gatzke, Edward P.** (ID: 52)
+2. **Gatzke, Edward P.** (ID: 52)
    - Covers: efficient operation
-4. **Humphries, Wilfred Kenneth** (ID: 77)
+3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Pain, Christopher C.** (ID: 123)
+4. **Pain, Christopher C.** (ID: 123)
    - Covers: earth science
+5. **Williams, Christopher** (ID: 189)
+   - Covers: national science, protocol development, science foundation
 
 ---
 
@@ -2068,13 +2251,19 @@ No team selected.
 - **Required Skills**: actuation, communication
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: actuation
 
 ---
@@ -2083,13 +2272,19 @@ No team selected.
 - **Required Skills**: computer science, theoretical foundation
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: theoretical foundation
-2. **Boltin, Nicholas D.** (ID: 14)
+5. **Fiedler, Kirk** (ID: 48)
    - Covers: computer science
 
 ---
@@ -2098,11 +2293,19 @@ No team selected.
 - **Required Skills**: year
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Regan, Elizabeth A.** (ID: 133)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
 
 ---
@@ -2117,10 +2320,10 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+2. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
+3. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national science, science foundation
 4. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
 5. **Summers, Bill ** (ID: 162)
@@ -2131,21 +2334,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2016/nsf16603/nsf16603.htm (ID: 111)
 - **Required Skills**: algorithm, area, artificial intelligence, computational model, computer architecture, computer science, computing information, data analytics, design analysis, including limited, learning, machine learning, programming language
 - **Seat Cost**: 4.1673
-- **Final Coverage**: 45.30%
+- **Final Coverage**: 41.58%
 - **Goodness Score**: 0.3077
-- **Uncovered Skills**: algorithm, artificial intelligence, computational model, computer science, design analysis, including limited, programming language
+- **Uncovered Skills**: algorithm, area, computational model, data analytics, design analysis, including limited, programming language
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: data analytics, machine learning
-2. **Zand, Ramtin** (ID: 197)
-   - Covers: computer architecture, machine learning
+1. **Bakos, Jason D. ** (ID: 5)
+   - Covers: computer architecture
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science, machine learning
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
 4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
-5. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
+5. **Jamshidi, Pooyan ** (ID: 84)
+   - Covers: artificial intelligence, machine learning
 
 ---
 
@@ -2161,12 +2364,12 @@ No team selected.
    - Covers: foundation nsf, national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: decision support, machine learning, support system
-3. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-5. **Devereux, Emily** (ID: 35)
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
+5. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 
 ---
 
@@ -2178,16 +2381,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Chao, Yuh J. ** (ID: 23)
-   - Covers: experimental study, theoretical experimental
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-3. **Vogt, Thomas** (ID: 180)
-   - Covers: physic
-4. **Banerjee, Sourav ** (ID: 6)
+1. **Banerjee, Sourav ** (ID: 6)
    - Covers: wave propagation
-5. **Ritter, James A.** (ID: 138)
+2. **Chao, Yuh J. ** (ID: 23)
+   - Covers: experimental study, theoretical experimental
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: physic
 
 ---
 
@@ -2215,21 +2418,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2016/nsf16596/nsf16596.htm (ID: 115)
 - **Required Skills**: area, biomaterials, broad spectrum, chemistry, development, dynamic, electronic photonic, fundamental understanding, material, material soft, material state, modeling, molecular dynamic, physic, polymer, polymeric material, property, soft material, soft matter, solid state, statistical mechanic, well predictive
 - **Seat Cost**: 4.4964
-- **Final Coverage**: 49.85%
+- **Final Coverage**: 49.44%
 - **Goodness Score**: 0.3125
-- **Uncovered Skills**: area, broad spectrum, development, electronic photonic, fundamental understanding, material, material state, modeling, molecular dynamic, solid state, well predictive
+- **Uncovered Skills**: area, broad spectrum, development, electronic photonic, fundamental understanding, material state, modeling, molecular dynamic, solid state, statistical mechanic, well predictive
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: material soft, polymeric material, property
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+1. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic, soft material
-3. **Uline, Mark J.** (ID: 172)
-   - Covers: soft matter, statistical mechanic
-4. **Vogt, Thomas** (ID: 180)
-   - Covers: chemistry, physic
-5. **Tang, Chuanbing** (ID: 167)
+2. **Shazly, Tarek ** (ID: 150)
+   - Covers: material soft, polymeric material, property
+3. **Taheri-Qazvini, Nader ** (ID: 165)
+   - Covers: material, soft matter
+4. **Tang, Chuanbing** (ID: 167)
    - Covers: biomaterials, polymer
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: chemistry, physic
 
 ---
 
@@ -2237,18 +2440,20 @@ No team selected.
 - **Required Skills**: composition, industry, service, test bed
 - **Seat Cost**: 4.2440
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Srivastava, Biplav** (ID: 158)
-   - Covers: service
+1. **Broughton, Earnie** (ID: 17)
+   - Covers: test bed
 2. **Chen, Fanglin (Frank)** (ID: 25)
    - Covers: composition
-3. **Koppel, Tarmo** (ID: 92)
-   - Covers: industry
-4. **Broughton, Earnie** (ID: 17)
+3. **Dougal, Roger A.** (ID: 37)
    - Covers: test bed
+4. **Koppel, Tarmo** (ID: 92)
+   - Covers: industry
+5. **Srivastava, Biplav** (ID: 158)
+   - Covers: service
 
 ---
 
@@ -2256,16 +2461,20 @@ No team selected.
 - **Required Skills**: intelligent system, national science, project develop, science foundation
 - **Seat Cost**: 4.0605
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5938
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
 3. **Liu, Chang** (ID: 98)
    - Covers: project develop
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: intelligent system
 
 ---
 
@@ -2273,17 +2482,19 @@ No team selected.
 - **Required Skills**: cyber system, engineering, problem involving, security
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: cyber system
-2. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Matthews, Manton M** (ID: 106)
+4. **Matthews, Manton M** (ID: 106)
    - Covers: security
-4. **Mobli, Mostafa** (ID: 112)
+5. **Mobli, Mostafa** (ID: 112)
    - Covers: problem involving
 
 ---
@@ -2292,14 +2503,20 @@ No team selected.
 - **Required Skills**: big data, biomedical
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Wu, Dezhi** (ID: 191)
-   - Covers: big data
-2. **Banerjee, Sourav ** (ID: 6)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Banerjee, Sourav ** (ID: 6)
    - Covers: biomedical
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: biomedical
+5. **Wu, Dezhi** (ID: 191)
+   - Covers: big data
 
 ---
 
@@ -2307,7 +2524,7 @@ No team selected.
 - **Required Skills**: development, experimental theoretical, instrumentation technique, theoretical framework
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
@@ -2315,9 +2532,11 @@ No team selected.
    - Covers: theoretical framework
 2. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Ortiz-Hernandez, Ivelisse** (ID: 122)
+3. **Matta, Fabio** (ID: 104)
+   - Covers: experimental theoretical
+4. **Ortiz-Hernandez, Ivelisse** (ID: 122)
    - Covers: instrumentation technique
-4. **Matta, Fabio** (ID: 104)
+5. **Shazly, Tarek ** (ID: 150)
    - Covers: experimental theoretical
 
 ---
@@ -2330,16 +2549,16 @@ No team selected.
 - **Uncovered Skills**: material, property
 
 ### Selected Team
-1. **Vogt, Thomas** (ID: 180)
-   - Covers: material science, physic
-2. **Jalilvand, Golareh** (ID: 83)
-   - Covers: material science, science engineering
-3. **Farouk, Tanvir   I.** (ID: 46)
+1. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: plasma
-4. **Gassman, Sarah** (ID: 51)
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Haj-Hariri, Hossein ** (ID: 65)
+3. **Haj-Hariri, Hossein ** (ID: 65)
    - Covers: applied mathematics
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: material science, science engineering
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: material science, physic
 
 ---
 
@@ -2372,14 +2591,14 @@ No team selected.
 - **Uncovered Skills**: health
 
 ### Selected Team
-1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: biomedical, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-3. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
-4. **Boltin, Nicholas D.** (ID: 14)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: biomedical, national science, science foundation
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
+4. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 5. **Pain, Christopher C.** (ID: 123)
    - Covers: biomedical science
 
@@ -2388,9 +2607,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2016/nsf16537/nsf16537.htm (ID: 124)
 - **Required Skills**: computer information, engineering, information science, national science, science engineering, science foundation, service
 - **Seat Cost**: 4.2013
-- **Final Coverage**: 88.03%
+- **Final Coverage**: 84.29%
 - **Goodness Score**: 0.4464
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: service
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -2401,8 +2620,8 @@ No team selected.
    - Covers: computer information
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Srivastava, Biplav** (ID: 158)
-   - Covers: service
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -2410,11 +2629,19 @@ No team selected.
 - **Required Skills**: computing information
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
 
 ---
@@ -2423,39 +2650,41 @@ No team selected.
 - **Required Skills**: development, discovery, engineering, national science, science engineering, science foundation
 - **Seat Cost**: 4.1315
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
+   - Covers: national science, science foundation
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: national science, science foundation
 3. **Devereux, Emily** (ID: 35)
    - Covers: development
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2016/nsf16518/nsf16518.htm (ID: 127)
 - **Required Skills**: chemical, dynamic, engineering, fluid dynamic, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.2013
-- **Final Coverage**: 88.03%
-- **Goodness Score**: 0.4821
-- **Uncovered Skills**: fluid dynamic
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
 2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-3. **Gassman, Sarah** (ID: 51)
+3. **Dryer, Frederick  L. ** (ID: 39)
+   - Covers: fluid dynamic
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
 
 ---
 
@@ -2464,40 +2693,40 @@ No team selected.
 - **Seat Cost**: 4.3355
 - **Final Coverage**: 55.55%
 - **Goodness Score**: 0.3594
-- **Uncovered Skills**: application area, area, development, doe, energy, health, robotics
+- **Uncovered Skills**: application area, area, doe, energy, health, robotics, united state
 
 ### Selected Team
-1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: department defense, department energy, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: department energy, national institute, national science, science foundation
-3. **Rose, John R. ** (ID: 143)
-   - Covers: nasa, nih
-4. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-5. **Fan, Daping** (ID: 44)
-   - Covers: united state
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: department defense, department energy, national science, science foundation
+3. **Devereux, Emily** (ID: 35)
+   - Covers: development
+4. **Matta, Fabio** (ID: 104)
+   - Covers: department energy, national institute, national science, science foundation
+5. **Rose, John R. ** (ID: 143)
+   - Covers: nasa, nih
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2016/nsf16515/nsf16515.htm (ID: 129)
 - **Required Skills**: algorithm, area, artificial intelligence, computational model, computer architecture, computer science, computing information, data analytics, design analysis, including limited, learning, machine learning, programming language
 - **Seat Cost**: 4.1673
-- **Final Coverage**: 45.30%
+- **Final Coverage**: 41.58%
 - **Goodness Score**: 0.3077
-- **Uncovered Skills**: algorithm, artificial intelligence, computational model, computer science, design analysis, including limited, programming language
+- **Uncovered Skills**: algorithm, area, computational model, data analytics, design analysis, including limited, programming language
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: data analytics, machine learning
-2. **Zand, Ramtin** (ID: 197)
-   - Covers: computer architecture, machine learning
+1. **Bakos, Jason D. ** (ID: 5)
+   - Covers: computer architecture
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science, machine learning
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
 4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
-5. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
+5. **Jamshidi, Pooyan ** (ID: 84)
+   - Covers: artificial intelligence, machine learning
 
 ---
 
@@ -2506,19 +2735,19 @@ No team selected.
 - **Seat Cost**: 4.3830
 - **Final Coverage**: 51.33%
 - **Goodness Score**: 0.3382
-- **Uncovered Skills**: area, engineering, environmental health, health, industry future, low cost, production, year
+- **Uncovered Skills**: area, engineering, environmental health, health, industry future, low cost, nanomaterials, year
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Koppel, Tarmo** (ID: 92)
-   - Covers: health safety, industry
-3. **Monnier, John R.** (ID: 113)
-   - Covers: characterization evaluation, industrially relevant
-4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: manufacturing process, national science, science foundation
-5. **Roberts, Kenneth L** (ID: 141)
-   - Covers: nanomaterials
+3. **Dryer, Frederick  L. ** (ID: 39)
+   - Covers: production
+4. **Koppel, Tarmo** (ID: 92)
+   - Covers: health safety, industry
+5. **Monnier, John R.** (ID: 113)
+   - Covers: characterization evaluation, industrially relevant
 
 ---
 
@@ -2526,18 +2755,20 @@ No team selected.
 - **Required Skills**: composition, industry, service, test bed
 - **Seat Cost**: 4.2440
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Srivastava, Biplav** (ID: 158)
-   - Covers: service
+1. **Broughton, Earnie** (ID: 17)
+   - Covers: test bed
 2. **Chen, Fanglin (Frank)** (ID: 25)
    - Covers: composition
-3. **Koppel, Tarmo** (ID: 92)
-   - Covers: industry
-4. **Broughton, Earnie** (ID: 17)
+3. **Dougal, Roger A.** (ID: 37)
    - Covers: test bed
+4. **Koppel, Tarmo** (ID: 92)
+   - Covers: industry
+5. **Srivastava, Biplav** (ID: 158)
+   - Covers: service
 
 ---
 
@@ -2549,16 +2780,16 @@ No team selected.
 - **Uncovered Skills**: computational method, material, visual analytics
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering, system design
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: advanced material, property
+1. **Devereux, Emily** (ID: 35)
+   - Covers: development
+2. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
 3. **Jalilvand, Golareh** (ID: 83)
    - Covers: material science, science engineering
-4. **Devereux, Emily** (ID: 35)
-   - Covers: development
-5. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: advanced material, property
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering, system design
 
 ---
 
@@ -2570,16 +2801,16 @@ No team selected.
 - **Uncovered Skills**: material, property
 
 ### Selected Team
-1. **Vogt, Thomas** (ID: 180)
-   - Covers: material science, physic
-2. **Jalilvand, Golareh** (ID: 83)
-   - Covers: material science, science engineering
-3. **Farouk, Tanvir   I.** (ID: 46)
+1. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: plasma
-4. **Gassman, Sarah** (ID: 51)
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Haj-Hariri, Hossein ** (ID: 65)
+3. **Haj-Hariri, Hossein ** (ID: 65)
    - Covers: applied mathematics
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: material science, science engineering
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: material science, physic
 
 ---
 
@@ -2587,13 +2818,19 @@ No team selected.
 - **Required Skills**: computer science, theoretical foundation
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: theoretical foundation
-2. **Boltin, Nicholas D.** (ID: 14)
+5. **Fiedler, Kirk** (ID: 48)
    - Covers: computer science
 
 ---
@@ -2602,11 +2839,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -2614,15 +2860,19 @@ No team selected.
 - **Required Skills**: continued advancement, development, national science, science foundation
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Devereux, Emily** (ID: 35)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Shazly, Tarek ** (ID: 150)
+5. **Shazly, Tarek ** (ID: 150)
    - Covers: continued advancement
 
 ---
@@ -2631,14 +2881,20 @@ No team selected.
 - **Required Skills**: intelligent system, project develop
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-2. **Liu, Chang** (ID: 98)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Liu, Chang** (ID: 98)
    - Covers: project develop
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: intelligent system
 
 ---
 
@@ -2656,10 +2912,10 @@ No team selected.
    - Covers: engineering
 3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Karakalos, Stavros G.** (ID: 86)
-   - Covers: creating new
-5. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+5. **Karakalos, Stavros G.** (ID: 86)
+   - Covers: creating new
 
 ---
 
@@ -2673,12 +2929,12 @@ No team selected.
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
    - Covers: biological process, chemical
-2. **Eastman, Caroline M. ** (ID: 40)
-   - Covers: broad spectrum
-3. **Huang, Kevin ** (ID: 74)
-   - Covers: modeling
-4. **Chandrashekhar, MVS** (ID: 22)
+2. **Chandrashekhar, MVS** (ID: 22)
    - Covers: chemistry
+3. **Eastman, Caroline M. ** (ID: 40)
+   - Covers: broad spectrum
+4. **Huang, Kevin ** (ID: 74)
+   - Covers: modeling
 5. **Ritter, James A.** (ID: 138)
    - Covers: material
 
@@ -2687,9 +2943,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2015/nsf15558/nsf15558.htm (ID: 140)
 - **Required Skills**: also interested, biological process, chemical, energy, energy transport, engineering, science engineering, synthesis
 - **Seat Cost**: 4.4827
-- **Final Coverage**: 77.30%
+- **Final Coverage**: 74.23%
 - **Goodness Score**: 0.4062
-- **Uncovered Skills**: also interested, science engineering
+- **Uncovered Skills**: also interested, synthesis
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
@@ -2700,8 +2956,8 @@ No team selected.
    - Covers: engineering
 4. **Hu, Ming** (ID: 72)
    - Covers: energy transport
-5. **Mustain, William E** (ID: 117)
-   - Covers: synthesis
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -2709,15 +2965,19 @@ No team selected.
 - **Required Skills**: engineering, foundation nsf, national science, science foundation, science technology
 - **Seat Cost**: 4.2535
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Summers, Bill ** (ID: 162)
+5. **Summers, Bill ** (ID: 162)
    - Covers: science technology
 
 ---
@@ -2725,9 +2985,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2015/nsf15550/nsf15550.htm (ID: 142)
 - **Required Skills**: computer information, engineering, information science, national science, science engineering, science foundation, service
 - **Seat Cost**: 4.2013
-- **Final Coverage**: 88.03%
+- **Final Coverage**: 84.29%
 - **Goodness Score**: 0.4464
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: service
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -2738,8 +2998,8 @@ No team selected.
    - Covers: computer information
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Srivastava, Biplav** (ID: 158)
-   - Covers: service
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -2747,13 +3007,19 @@ No team selected.
 - **Required Skills**: dynamic, engineering
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -2762,14 +3028,20 @@ No team selected.
 - **Required Skills**: computer science, engineering
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-2. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
+4. **Fiedler, Kirk** (ID: 48)
+   - Covers: computer science
+5. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
 
 ---
 
@@ -2777,16 +3049,20 @@ No team selected.
 - **Required Skills**: computer science, engineering, science technology
 - **Seat Cost**: 4.2539
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-2. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
-3. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
+3. **Fiedler, Kirk** (ID: 48)
+   - Covers: computer science
+4. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
+5. **Summers, Bill ** (ID: 162)
+   - Covers: science technology
 
 ---
 
@@ -2794,13 +3070,19 @@ No team selected.
 - **Required Skills**: engineering, science engineering
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: science engineering
 
 ---
@@ -2808,30 +3090,30 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2015/nsf15522/nsf15522.htm (ID: 147)
 - **Required Skills**: advanced material, developing new, discovery, engineering, material, material engineering
 - **Seat Cost**: 4.4849
-- **Final Coverage**: 84.34%
+- **Final Coverage**: 82.83%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: material
+- **Uncovered Skills**: discovery
 
 ### Selected Team
 1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: material engineering
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Shazly, Tarek ** (ID: 150)
-   - Covers: advanced material
-4. **Wang, Yi** (ID: 185)
-   - Covers: discovery
-5. **Mobli, Mostafa** (ID: 112)
+3. **Mobli, Mostafa** (ID: 112)
    - Covers: developing new
+4. **Ritter, James A.** (ID: 138)
+   - Covers: material
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: advanced material
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2015/nsf15521/nsf15521.htm (ID: 148)
 - **Required Skills**: engineering, foundation nsf, national science, science engineering, science foundation, science technology, statistic, united state
 - **Seat Cost**: 4.2537
-- **Final Coverage**: 89.65%
+- **Final Coverage**: 86.42%
 - **Goodness Score**: 0.4531
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: science technology
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -2842,29 +3124,29 @@ No team selected.
    - Covers: united state
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2015/nsf15515/nsf15515.htm (ID: 149)
 - **Required Skills**: algorithm, area, computational model, computer architecture, computer science, data analytics, design analysis, including limited, learning, machine learning, programming language
 - **Seat Cost**: 4.2313
-- **Final Coverage**: 52.73%
+- **Final Coverage**: 50.37%
 - **Goodness Score**: 0.3409
-- **Uncovered Skills**: algorithm, computational model, computer science, design analysis, including limited
+- **Uncovered Skills**: algorithm, computational model, design analysis, including limited, programming language
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: data analytics, machine learning
-2. **Zand, Ramtin** (ID: 197)
-   - Covers: computer architecture, machine learning
+1. **Bakos, Jason D. ** (ID: 5)
+   - Covers: computer architecture
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science, machine learning
 3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
 4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Luo, Lannan ** (ID: 100)
-   - Covers: programming language
+5. **Wang, Yi** (ID: 185)
+   - Covers: data analytics, machine learning
 
 ---
 
@@ -2872,15 +3154,19 @@ No team selected.
 - **Required Skills**: area, computer information, information science, science computer
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4813
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science, science computer
-2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+4. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information, science computer
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -2889,32 +3175,41 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2015/nsf15507/nsf15507.htm (ID: 152)
 - **Required Skills**: area, characterization evaluation, environmental health, foundation nsf, health, health safety, industrially relevant, industry, industry future, low cost, nanomaterials, nanotechnology, national science, production, science foundation, year
 - **Seat Cost**: 4.4115
-- **Final Coverage**: 48.62%
+- **Final Coverage**: 55.16%
 - **Goodness Score**: 0.3359
-- **Uncovered Skills**: area, environmental health, health, industry future, low cost, nanotechnology, production, year
+- **Uncovered Skills**: environmental health, health, industry future, low cost, nanomaterials, nanotechnology, year
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Koppel, Tarmo** (ID: 92)
+2. **Dryer, Frederick  L. ** (ID: 39)
+   - Covers: production
+3. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area
+4. **Koppel, Tarmo** (ID: 92)
    - Covers: health safety, industry
-3. **Monnier, John R.** (ID: 113)
+5. **Monnier, John R.** (ID: 113)
    - Covers: characterization evaluation, industrially relevant
-4. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-5. **Roberts, Kenneth L** (ID: 141)
-   - Covers: nanomaterials
 
 ---
 
@@ -2930,12 +3225,12 @@ No team selected.
    - Covers: broad spectrum
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
-4. **Xu, Songhua** (ID: 192)
-   - Covers: including medical
-5. **Ritter, James A.** (ID: 138)
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Summers, Bill ** (ID: 162)
+   - Covers: science technology
+5. **Xu, Songhua** (ID: 192)
+   - Covers: including medical
 
 ---
 
@@ -2949,14 +3244,14 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Rose, John R. ** (ID: 143)
-   - Covers: nasa, nih
-3. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-4. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-5. **Fan, Daping** (ID: 44)
+3. **Fan, Daping** (ID: 44)
    - Covers: united state
+4. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
+5. **Rose, John R. ** (ID: 143)
+   - Covers: nasa, nih
 
 ---
 
@@ -2964,13 +3259,19 @@ No team selected.
 - **Required Skills**: dynamic, engineering
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -2979,14 +3280,20 @@ No team selected.
 - **Required Skills**: intelligent system, project develop
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-2. **Liu, Chang** (ID: 98)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Liu, Chang** (ID: 98)
    - Covers: project develop
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: intelligent system
 
 ---
 
@@ -2998,16 +3305,16 @@ No team selected.
 - **Uncovered Skills**: computational method, material, visual analytics
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering, system design
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: advanced material, property
+1. **Devereux, Emily** (ID: 35)
+   - Covers: development
+2. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
 3. **Jalilvand, Golareh** (ID: 83)
    - Covers: material science, science engineering
-4. **Devereux, Emily** (ID: 35)
-   - Covers: development
-5. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: advanced material, property
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering, system design
 
 ---
 
@@ -3015,13 +3322,19 @@ No team selected.
 - **Required Skills**: advance understanding, involving multiple
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Spinale, Frank G.** (ID: 157)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Spinale, Frank G.** (ID: 157)
    - Covers: advance understanding
-2. **Ziehl, Paul** (ID: 201)
+5. **Ziehl, Paul** (ID: 201)
    - Covers: involving multiple
 
 ---
@@ -3040,10 +3353,10 @@ No team selected.
    - Covers: development
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Koppel, Tarmo** (ID: 92)
-   - Covers: industry
-5. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+5. **Koppel, Tarmo** (ID: 92)
+   - Covers: industry
 
 ---
 
@@ -3051,15 +3364,19 @@ No team selected.
 - **Required Skills**: chemistry, dynamic, modeling
 - **Seat Cost**: 4.4849
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Huang, Kevin ** (ID: 74)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+3. **Huang, Kevin ** (ID: 74)
    - Covers: modeling
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
-3. **Chandrashekhar, MVS** (ID: 22)
+5. **Vogt, Thomas** (ID: 180)
    - Covers: chemistry
 
 ---
@@ -3067,21 +3384,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2014/nsf14544/nsf14544.htm (ID: 161)
 - **Required Skills**: area, characterization evaluation, environmental health, foundation nsf, health, health safety, industrially relevant, industry, industry future, low cost, nanomaterials, nanotechnology, national science, production, science foundation, year
 - **Seat Cost**: 4.4115
-- **Final Coverage**: 48.62%
+- **Final Coverage**: 55.16%
 - **Goodness Score**: 0.3359
-- **Uncovered Skills**: area, environmental health, health, industry future, low cost, nanotechnology, production, year
+- **Uncovered Skills**: environmental health, health, industry future, low cost, nanomaterials, nanotechnology, year
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Koppel, Tarmo** (ID: 92)
+2. **Dryer, Frederick  L. ** (ID: 39)
+   - Covers: production
+3. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area
+4. **Koppel, Tarmo** (ID: 92)
    - Covers: health safety, industry
-3. **Monnier, John R.** (ID: 113)
+5. **Monnier, John R.** (ID: 113)
    - Covers: characterization evaluation, industrially relevant
-4. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-5. **Roberts, Kenneth L** (ID: 141)
-   - Covers: nanomaterials
 
 ---
 
@@ -3089,13 +3406,19 @@ No team selected.
 - **Required Skills**: engineering, science engineering
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: science engineering
 
 ---
@@ -3103,9 +3426,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2014/nsf14529/nsf14529.htm (ID: 163)
 - **Required Skills**: computer information, engineering, information science, national science, science engineering, science foundation, service
 - **Seat Cost**: 4.2013
-- **Final Coverage**: 88.03%
+- **Final Coverage**: 84.29%
 - **Goodness Score**: 0.4464
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: service
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -3116,29 +3439,29 @@ No team selected.
    - Covers: computer information
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Srivastava, Biplav** (ID: 158)
-   - Covers: service
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2014/nsf14521/nsf14521.htm (ID: 164)
 - **Required Skills**: area, computational science, data driven, engineering, management, science computer, two year, year
 - **Seat Cost**: 4.5694
-- **Final Coverage**: 88.47%
+- **Final Coverage**: 87.36%
 - **Goodness Score**: 0.4531
-- **Uncovered Skills**: science computer
+- **Uncovered Skills**: computational science
 
 ### Selected Team
-1. **Regan, Elizabeth A.** (ID: 133)
-   - Covers: two year, year
-2. **Wang, Yi** (ID: 185)
-   - Covers: data driven, management
-3. **Gassman, Sarah** (ID: 51)
+1. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: science computer
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Humphries, Wilfred Kenneth** (ID: 77)
+3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Rose, John R. ** (ID: 143)
-   - Covers: computational science
+4. **Regan, Elizabeth A.** (ID: 133)
+   - Covers: two year, year
+5. **Wang, Yi** (ID: 185)
+   - Covers: data driven, management
 
 ---
 
@@ -3146,11 +3469,19 @@ No team selected.
 - **Required Skills**: computing information
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
 
 ---
@@ -3159,12 +3490,20 @@ No team selected.
 - **Required Skills**: xps
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Alexeev, Oleg S.** (ID: 2)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
    - Covers: xps
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -3172,11 +3511,19 @@ No team selected.
 - **Required Skills**: perception
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Rekleitis, Ioannis** (ID: 135)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Rekleitis, Ioannis** (ID: 135)
    - Covers: perception
 
 ---
@@ -3185,13 +3532,19 @@ No team selected.
 - **Required Skills**: computer science, theoretical foundation
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: theoretical foundation
-2. **Boltin, Nicholas D.** (ID: 14)
+5. **Fiedler, Kirk** (ID: 48)
    - Covers: computer science
 
 ---
@@ -3200,15 +3553,19 @@ No team selected.
 - **Required Skills**: business, development, small business
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Fiedler, Kirk** (ID: 48)
+4. **Fiedler, Kirk** (ID: 48)
    - Covers: business
-3. **Spinale, Frank G.** (ID: 157)
+5. **Spinale, Frank G.** (ID: 157)
    - Covers: small business
 
 ---
@@ -3223,12 +3580,12 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-2. **Farouk, Tanvir   I.** (ID: 46)
-   - Covers: energy, plasma
-3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: department energy, national science, science foundation
-4. **Berge, Nicole D.** (ID: 10)
+3. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
+4. **Farouk, Tanvir   I.** (ID: 46)
+   - Covers: energy, plasma
 5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 
@@ -3246,33 +3603,33 @@ No team selected.
    - Covers: development human
 2. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Regan, Elizabeth A.** (ID: 133)
-   - Covers: technology also
-4. **Shazly, Tarek ** (ID: 150)
-   - Covers: new technology
-5. **Koppel, Tarmo** (ID: 92)
+3. **Koppel, Tarmo** (ID: 92)
    - Covers: industry
+4. **Regan, Elizabeth A.** (ID: 133)
+   - Covers: technology also
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: new technology
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2013/nsf13580/nsf13580.htm (ID: 172)
 - **Required Skills**: computer graphic, four year, intelligent system, project develop, review process, year
 - **Seat Cost**: 4.5525
-- **Final Coverage**: 84.57%
+- **Final Coverage**: 83.09%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: project develop
+- **Uncovered Skills**: four year
 
 ### Selected Team
 1. **Devereux, Emily** (ID: 35)
    - Covers: review process
-2. **Regan, Elizabeth A.** (ID: 133)
+2. **Liu, Chang** (ID: 98)
+   - Covers: project develop
+3. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
-3. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+4. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
    - Covers: intelligent system
-4. **Xu, Songhua** (ID: 192)
+5. **Xu, Songhua** (ID: 192)
    - Covers: computer graphic
-5. **Ziehl, Paul** (ID: 201)
-   - Covers: four year
 
 ---
 
@@ -3280,13 +3637,19 @@ No team selected.
 - **Required Skills**: development, property
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Shazly, Tarek ** (ID: 150)
+5. **Shazly, Tarek ** (ID: 150)
    - Covers: property
 
 ---
@@ -3299,14 +3662,14 @@ No team selected.
 - **Uncovered Skills**: health
 
 ### Selected Team
-1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: biomedical, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-3. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
-4. **Boltin, Nicholas D.** (ID: 14)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: biomedical, national science, science foundation
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
+4. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 5. **Pain, Christopher C.** (ID: 123)
    - Covers: biomedical science
 
@@ -3316,15 +3679,19 @@ No team selected.
 - **Required Skills**: directorate engineering, energy, engineering, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.3146
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-2. **Farouk, Tanvir   I.** (ID: 46)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-3. **Gassman, Sarah** (ID: 51)
+5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 
 ---
@@ -3333,11 +3700,19 @@ No team selected.
 - **Required Skills**: computing information
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
 
 ---
@@ -3367,18 +3742,20 @@ No team selected.
 - **Required Skills**: engineering, material, science engineering, support effort
 - **Seat Cost**: 4.2440
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Rose, John R. ** (ID: 143)
-   - Covers: support effort
-3. **Ritter, James A.** (ID: 138)
-   - Covers: material
-4. **Jalilvand, Golareh** (ID: 83)
+2. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+3. **Pain, Christopher C.** (ID: 123)
+   - Covers: science engineering
+4. **Ritter, James A.** (ID: 138)
+   - Covers: material
+5. **Rose, John R. ** (ID: 143)
+   - Covers: support effort
 
 ---
 
@@ -3386,15 +3763,19 @@ No team selected.
 - **Required Skills**: area, foundation nsf, national science, science foundation, year
 - **Seat Cost**: 4.2535
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Humphries, Wilfred Kenneth** (ID: 77)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-3. **Regan, Elizabeth A.** (ID: 133)
+5. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
 
 ---
@@ -3404,28 +3785,28 @@ No team selected.
 - **Seat Cost**: 4.2320
 - **Final Coverage**: 57.42%
 - **Goodness Score**: 0.3667
-- **Uncovered Skills**: area, clinical practice, development, health, modeling, process modeling
+- **Uncovered Skills**: area, clinical practice, health, modeling, nih, process modeling
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: decision support, machine learning, support system
-3. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-5. **Rose, John R. ** (ID: 143)
-   - Covers: nih
+4. **Devereux, Emily** (ID: 35)
+   - Covers: development
+5. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2013/nsf13539/nsf13539.htm (ID: 181)
 - **Required Skills**: computer information, engineering, information science, national science, science engineering, science foundation, service
 - **Seat Cost**: 4.2013
-- **Final Coverage**: 88.03%
+- **Final Coverage**: 84.29%
 - **Goodness Score**: 0.4464
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: service
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -3436,8 +3817,8 @@ No team selected.
    - Covers: computer information
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Srivastava, Biplav** (ID: 158)
-   - Covers: service
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -3445,11 +3826,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -3457,15 +3847,19 @@ No team selected.
 - **Required Skills**: brown jr, earthquake engineering, engineering, engineering simulation, foundation nsf, george brown, jr network, national science, network earthquake, science foundation
 - **Seat Cost**: 4.4368
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
-   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
 2. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-3. **Gassman, Sarah** (ID: 51)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Caicedo, Juan** (ID: 19)
+   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
+5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 
 ---
@@ -3474,13 +3868,19 @@ No team selected.
 - **Required Skills**: energy, energy transport
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Farouk, Tanvir   I.** (ID: 46)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-2. **Hu, Ming** (ID: 72)
+5. **Hu, Ming** (ID: 72)
    - Covers: energy transport
 
 ---
@@ -3489,11 +3889,19 @@ No team selected.
 - **Required Skills**: discovery
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Wang, Yi** (ID: 185)
    - Covers: discovery
 
 ---
@@ -3502,11 +3910,19 @@ No team selected.
 - **Required Skills**: high performance
 - **Seat Cost**: 4.2146
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Bakos, Jason D. ** (ID: 5)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Bakos, Jason D. ** (ID: 5)
+   - Covers: high performance
+5. **Rizos, Dimitris** (ID: 139)
    - Covers: high performance
 
 ---
@@ -3515,11 +3931,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -3527,13 +3952,19 @@ No team selected.
 - **Required Skills**: engineering, science engineering
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: science engineering
 
 ---
@@ -3542,11 +3973,19 @@ No team selected.
 - **Required Skills**: social science
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: social science
 
 ---
@@ -3555,16 +3994,20 @@ No team selected.
 - **Required Skills**: advance understanding, engineering, science engineering
 - **Seat Cost**: 4.2539
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Spinale, Frank G.** (ID: 157)
-   - Covers: advance understanding
 3. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+4. **Pain, Christopher C.** (ID: 123)
+   - Covers: science engineering
+5. **Spinale, Frank G.** (ID: 157)
+   - Covers: advance understanding
 
 ---
 
@@ -3578,14 +4021,14 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Rose, John R. ** (ID: 143)
-   - Covers: nasa, nih
-3. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-4. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-5. **Fan, Daping** (ID: 44)
+3. **Fan, Daping** (ID: 44)
    - Covers: united state
+4. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
+5. **Rose, John R. ** (ID: 143)
+   - Covers: nasa, nih
 
 ---
 
@@ -3597,16 +4040,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Chao, Yuh J. ** (ID: 23)
-   - Covers: experimental study, theoretical experimental
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-3. **Vogt, Thomas** (ID: 180)
-   - Covers: physic
-4. **Banerjee, Sourav ** (ID: 6)
+1. **Banerjee, Sourav ** (ID: 6)
    - Covers: wave propagation
-5. **Ritter, James A.** (ID: 138)
+2. **Chao, Yuh J. ** (ID: 23)
+   - Covers: experimental study, theoretical experimental
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: physic
 
 ---
 
@@ -3614,17 +4057,19 @@ No team selected.
 - **Required Skills**: communication, development, engineering, science technology
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: communication
-2. **Devereux, Emily** (ID: 35)
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Summers, Bill ** (ID: 162)
+5. **Summers, Bill ** (ID: 162)
    - Covers: science technology
 
 ---
@@ -3633,13 +4078,19 @@ No team selected.
 - **Required Skills**: foundation nsf, material, national science, science foundation
 - **Seat Cost**: 4.0605
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5938
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Ritter, James A.** (ID: 138)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Ritter, James A.** (ID: 138)
+   - Covers: material
+5. **Taheri-Qazvini, Nader ** (ID: 165)
    - Covers: material
 
 ---
@@ -3648,15 +4099,19 @@ No team selected.
 - **Required Skills**: area, directorate engineering, engineering, national science, science foundation
 - **Seat Cost**: 4.2535
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -3669,14 +4124,14 @@ No team selected.
 - **Uncovered Skills**: computer graphic, four year
 
 ### Selected Team
-1. **Summers, Bill ** (ID: 162)
-   - Covers: project develop, project funded
-2. **Devereux, Emily** (ID: 35)
+1. **Devereux, Emily** (ID: 35)
    - Covers: review process
-3. **Regan, Elizabeth A.** (ID: 133)
+2. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
-4. **Rocheleau, David ** (ID: 142)
+3. **Rocheleau, David ** (ID: 142)
    - Covers: small medium
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop, project funded
 5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
    - Covers: intelligent system
 
@@ -3690,14 +4145,14 @@ No team selected.
 - **Uncovered Skills**: health
 
 ### Selected Team
-1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: biomedical, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-3. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
-4. **Boltin, Nicholas D.** (ID: 14)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: biomedical, national science, science foundation
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
+4. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 5. **Pain, Christopher C.** (ID: 123)
    - Covers: biomedical science
 
@@ -3711,16 +4166,16 @@ No team selected.
 - **Uncovered Skills**: computational method, computational science, information processing
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: data mining, discovery, science engineering
-2. **Boltin, Nicholas D.** (ID: 14)
+1. **Boltin, Nicholas D.** (ID: 14)
    - Covers: data mining, statistic
-3. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Dougal, Roger A.** (ID: 37)
+3. **Dougal, Roger A.** (ID: 37)
    - Covers: processing
-5. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+5. **Wang, Yi** (ID: 185)
+   - Covers: data mining, discovery, science engineering
 
 ---
 
@@ -3728,13 +4183,19 @@ No team selected.
 - **Required Skills**: dynamic, dynamic system
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Dougal, Roger A.** (ID: 37)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Dougal, Roger A.** (ID: 37)
    - Covers: dynamic system
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -3742,9 +4203,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2012/nsf12546/nsf12546.htm (ID: 200)
 - **Required Skills**: computer information, engineering, information science, national science, science engineering, science foundation, service
 - **Seat Cost**: 4.2013
-- **Final Coverage**: 88.03%
+- **Final Coverage**: 84.29%
 - **Goodness Score**: 0.4464
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: service
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -3755,17 +4216,17 @@ No team selected.
    - Covers: computer information
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Srivastava, Biplav** (ID: 158)
-   - Covers: service
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2012/nsf12545/nsf12545.htm (ID: 201)
 - **Required Skills**: engineering, foundation nsf, national science, science engineering, science foundation, science technology, statistic, united state
 - **Seat Cost**: 4.2537
-- **Final Coverage**: 89.65%
+- **Final Coverage**: 86.42%
 - **Goodness Score**: 0.4531
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: science technology
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -3776,8 +4237,8 @@ No team selected.
    - Covers: united state
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -3791,10 +4252,10 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+2. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
+3. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national science, science foundation
 4. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
 5. **Summers, Bill ** (ID: 162)
@@ -3806,16 +4267,20 @@ No team selected.
 - **Required Skills**: business, business technology, engineering, small business, technology transfer
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Spinale, Frank G.** (ID: 157)
-   - Covers: business technology, small business, technology transfer
-2. **Fiedler, Kirk** (ID: 48)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Fiedler, Kirk** (ID: 48)
    - Covers: business
-3. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+5. **Spinale, Frank G.** (ID: 157)
+   - Covers: business technology, small business, technology transfer
 
 ---
 
@@ -3823,15 +4288,19 @@ No team selected.
 - **Required Skills**: area, computer information, information science, science computer
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4813
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science, science computer
-2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+4. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information, science computer
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -3844,16 +4313,16 @@ No team selected.
 - **Uncovered Skills**: chemical, development, energy, engineering high, information technology, material, range application, science technology, security, support system, system application
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: management, science engineering, system engineering
-2. **Gassman, Sarah** (ID: 51)
-   - Covers: civil, engineering
-3. **Dryer, Frederick  L. ** (ID: 39)
+1. **Dougal, Roger A.** (ID: 37)
+   - Covers: power grid, wide range
+2. **Dryer, Frederick  L. ** (ID: 39)
    - Covers: production, renewable energy
+3. **Gassman, Sarah** (ID: 51)
+   - Covers: civil, engineering
 4. **Srivastava, Biplav** (ID: 158)
    - Covers: health, traffic
-5. **Dougal, Roger A.** (ID: 37)
-   - Covers: power grid, wide range
+5. **Wang, Yi** (ID: 185)
+   - Covers: management, science engineering, system engineering
 
 ---
 
@@ -3865,16 +4334,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
-   - Covers: learning
-2. **Gatzke, Edward P.** (ID: 52)
-   - Covers: process modeling
-3. **Huang, Kevin ** (ID: 74)
-   - Covers: modeling
-4. **Schooley, Benjamin** (ID: 149)
-   - Covers: health
-5. **Bayat, Mahmoud** (ID: 7)
+1. **Bayat, Mahmoud** (ID: 7)
    - Covers: machine learning
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: learning
+3. **Gatzke, Edward P.** (ID: 52)
+   - Covers: process modeling
+4. **Huang, Kevin ** (ID: 74)
+   - Covers: modeling
+5. **Schooley, Benjamin** (ID: 149)
+   - Covers: health
 
 ---
 
@@ -3882,15 +4351,19 @@ No team selected.
 - **Required Skills**: development, mm, statistic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
-2. **Devereux, Emily** (ID: 35)
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Potts, Jay** (ID: 129)
+5. **Potts, Jay** (ID: 129)
    - Covers: mm
 
 ---
@@ -3899,11 +4372,19 @@ No team selected.
 - **Required Skills**: computer science
 - **Seat Cost**: 3.5214
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+5. **Fiedler, Kirk** (ID: 48)
    - Covers: computer science
 
 ---
@@ -3912,15 +4393,19 @@ No team selected.
 - **Required Skills**: algorithm, chemical, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.2535
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Berge, Nicole D.** (ID: 10)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-3. **Tang, Jijun** (ID: 168)
+5. **Tang, Jijun** (ID: 168)
    - Covers: algorithm
 
 ---
@@ -3929,7 +4414,7 @@ No team selected.
 - **Required Skills**: big data, data science, engineering, science engineering
 - **Seat Cost**: 4.3454
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
@@ -3937,10 +4422,12 @@ No team selected.
    - Covers: data science
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Wu, Dezhi** (ID: 191)
-   - Covers: big data
-4. **Jalilvand, Golareh** (ID: 83)
+3. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+4. **Pain, Christopher C.** (ID: 123)
+   - Covers: science engineering
+5. **Wu, Dezhi** (ID: 191)
+   - Covers: big data
 
 ---
 
@@ -3948,16 +4435,20 @@ No team selected.
 - **Required Skills**: computer science, project develop, social science
 - **Seat Cost**: 4.1187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5833
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
-   - Covers: social science
-2. **Liu, Chang** (ID: 98)
-   - Covers: project develop
-3. **Boltin, Nicholas D.** (ID: 14)
+1. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: social science
+3. **Fiedler, Kirk** (ID: 48)
+   - Covers: computer science
+4. **Liu, Chang** (ID: 98)
+   - Covers: project develop
+5. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
 
 ---
 
@@ -3965,13 +4456,19 @@ No team selected.
 - **Required Skills**: engineering, year
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Regan, Elizabeth A.** (ID: 133)
+5. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
 
 ---
@@ -3980,15 +4477,19 @@ No team selected.
 - **Required Skills**: area, directorate engineering, engineering, national science, science foundation
 - **Seat Cost**: 4.2535
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -3997,15 +4498,19 @@ No team selected.
 - **Required Skills**: area, cooperative center, national science, science foundation
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Dougal, Roger A.** (ID: 37)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Dougal, Roger A.** (ID: 37)
    - Covers: cooperative center
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -4014,17 +4519,19 @@ No team selected.
 - **Required Skills**: brown jr, civil, directorate engineering, discovery, earthquake engineering, engineering, engineering simulation, experimentation, foundation nsf, george brown, geotechnical, jr network, national science, network earthquake, science foundation
 - **Seat Cost**: 4.4979
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5167
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
-   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-3. **Gassman, Sarah** (ID: 51)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Caicedo, Juan** (ID: 19)
+   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
+4. **Gassman, Sarah** (ID: 51)
    - Covers: civil, engineering, geotechnical
-4. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: discovery, experimentation
 
 ---
@@ -4033,14 +4540,20 @@ No team selected.
 - **Required Skills**: intelligent system, project develop
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-2. **Liu, Chang** (ID: 98)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Liu, Chang** (ID: 98)
    - Covers: project develop
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: intelligent system
 
 ---
 
@@ -4052,16 +4565,16 @@ No team selected.
 - **Uncovered Skills**: application area, area, health, robotics
 
 ### Selected Team
-1. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national institute, national science, science foundation
-2. **Rose, John R. ** (ID: 143)
-   - Covers: nasa, nih
-3. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-4. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-5. **Fan, Daping** (ID: 44)
+3. **Fan, Daping** (ID: 44)
    - Covers: united state
+4. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national institute, national science, science foundation
+5. **Rose, John R. ** (ID: 143)
+   - Covers: nasa, nih
 
 ---
 
@@ -4077,12 +4590,12 @@ No team selected.
    - Covers: product
 2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-3. **Farouk, Tanvir   I.** (ID: 46)
-   - Covers: energy
-4. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-5. **Chandrashekhar, MVS** (ID: 22)
+3. **Chandrashekhar, MVS** (ID: 22)
    - Covers: chemistry
+4. **Farouk, Tanvir   I.** (ID: 46)
+   - Covers: energy
+5. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area
 
 ---
 
@@ -4090,11 +4603,19 @@ No team selected.
 - **Required Skills**: discovery
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Wang, Yi** (ID: 185)
    - Covers: discovery
 
 ---
@@ -4103,14 +4624,20 @@ No team selected.
 - **Required Skills**: composition, earth science, property
 - **Seat Cost**: 4.4849
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-2. **Pain, Christopher C.** (ID: 123)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Chen, Fanglin (Frank)** (ID: 25)
+   - Covers: composition
+4. **Pain, Christopher C.** (ID: 123)
    - Covers: earth science
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
 
 ---
 
@@ -4118,11 +4645,19 @@ No team selected.
 - **Required Skills**: national science, science foundation
 - **Seat Cost**: 3.7038
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: national science, science foundation
+5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: national science, science foundation
 
 ---
@@ -4131,15 +4666,19 @@ No team selected.
 - **Required Skills**: development, three year, year
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Regan, Elizabeth A.** (ID: 133)
+4. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
-3. **Summers, Bill ** (ID: 162)
+5. **Summers, Bill ** (ID: 162)
    - Covers: three year
 
 ---
@@ -4148,11 +4687,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -4160,13 +4708,19 @@ No team selected.
 - **Required Skills**: brown jr, civil, earthquake engineering, engineering, engineering simulation, george brown, jr network, network earthquake
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Caicedo, Juan** (ID: 19)
    - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Gassman, Sarah** (ID: 51)
+5. **Gassman, Sarah** (ID: 51)
    - Covers: civil, engineering
 
 ---
@@ -4179,16 +4733,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
-   - Covers: computer science, information science
-2. **Jalilvand, Golareh** (ID: 83)
-   - Covers: computer science, science engineering
-3. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering
-4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science, information science
+3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information
-5. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: computer science, science engineering
 
 ---
 
@@ -4196,13 +4750,19 @@ No team selected.
 - **Required Skills**: engineering, engineering education
 - **Seat Cost**: 4.2735
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Gholizadeh, Sona** (ID: 54)
+4. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
+5. **Glenn Jr., Odell** (ID: 58)
    - Covers: engineering education
 
 ---
@@ -4211,13 +4771,19 @@ No team selected.
 - **Required Skills**: computer science, theoretical foundation
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+4. **Fenner, Stephen A. ** (ID: 47)
    - Covers: theoretical foundation
-2. **Boltin, Nicholas D.** (ID: 14)
+5. **Fiedler, Kirk** (ID: 48)
    - Covers: computer science
 
 ---
@@ -4230,16 +4796,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering
+1. **Dougal, Roger A.** (ID: 37)
+   - Covers: wide range
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Tang, Jijun** (ID: 168)
-   - Covers: algorithm
-4. **Dougal, Roger A.** (ID: 37)
-   - Covers: wide range
-5. **Gholizadeh, Sona** (ID: 54)
+3. **Gholizadeh, Sona** (ID: 54)
    - Covers: engineering education
+4. **Tang, Jijun** (ID: 168)
+   - Covers: algorithm
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering
 
 ---
 
@@ -4253,10 +4819,10 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+2. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
+3. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national science, science foundation
 4. **Summers, Bill ** (ID: 162)
    - Covers: industry future
 5. **Yoon, Yeomin** (ID: 194)
@@ -4276,12 +4842,12 @@ No team selected.
    - Covers: directorate engineering, foundation nsf, national science, science foundation
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science, science computer
-3. **Matta, Fabio** (ID: 104)
-   - Covers: industry, national science, science foundation
-4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+3. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information, science computer
-5. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+5. **Matta, Fabio** (ID: 104)
+   - Covers: industry, national science, science foundation
 
 ---
 
@@ -4289,17 +4855,19 @@ No team selected.
 - **Required Skills**: conversion, conversion storage, energy, solar energy
 - **Seat Cost**: 4.3454
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Farouk, Tanvir   I.** (ID: 46)
-   - Covers: energy
-2. **Lauterbach, Jochen** (ID: 93)
-   - Covers: conversion
-3. **Chen, Fanglin (Frank)** (ID: 25)
+1. **Chen, Fanglin (Frank)** (ID: 25)
    - Covers: conversion storage
-4. **Gray, Joshua** (ID: 61)
+2. **Farouk, Tanvir   I.** (ID: 46)
+   - Covers: energy
+3. **Gray, Joshua** (ID: 61)
+   - Covers: solar energy
+4. **Lauterbach, Jochen** (ID: 93)
+   - Covers: conversion
+5. **Meekins, Benjamin H.** (ID: 111)
    - Covers: solar energy
 
 ---
@@ -4308,11 +4876,19 @@ No team selected.
 - **Required Skills**: dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -4321,11 +4897,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -4333,15 +4918,19 @@ No team selected.
 - **Required Skills**: engineering, graduate student, science engineering
 - **Seat Cost**: 4.2539
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Dougal, Roger A.** (ID: 37)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Dougal, Roger A.** (ID: 37)
    - Covers: graduate student
-2. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: science engineering
 
 ---
@@ -4350,15 +4939,19 @@ No team selected.
 - **Required Skills**: computer science, game, science computer, social science
 - **Seat Cost**: 4.2440
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4813
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
-   - Covers: science computer, social science
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science, science computer
-3. **Tang, Jijun** (ID: 168)
+3. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: science computer, social science
+4. **Fiedler, Kirk** (ID: 48)
+   - Covers: computer science
+5. **Tang, Jijun** (ID: 168)
    - Covers: game
 
 ---
@@ -4371,14 +4964,14 @@ No team selected.
 - **Uncovered Skills**: health
 
 ### Selected Team
-1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: biomedical, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: national institute, national science, science foundation
-3. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: support interface
-4. **Boltin, Nicholas D.** (ID: 14)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: biomedical, national science, science foundation
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
+4. **Matta, Fabio** (ID: 104)
+   - Covers: national institute, national science, science foundation
 5. **Pain, Christopher C.** (ID: 123)
    - Covers: biomedical science
 
@@ -4409,18 +5002,20 @@ No team selected.
 - **Required Skills**: communication, four year, project develop, year
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: communication
-2. **Regan, Elizabeth A.** (ID: 133)
-   - Covers: year
-3. **Ziehl, Paul** (ID: 201)
-   - Covers: four year
-4. **Liu, Chang** (ID: 98)
+2. **Liu, Chang** (ID: 98)
    - Covers: project develop
+3. **Regan, Elizabeth A.** (ID: 133)
+   - Covers: year
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Ziehl, Paul** (ID: 201)
+   - Covers: four year
 
 ---
 
@@ -4432,14 +5027,14 @@ No team selected.
 - **Uncovered Skills**: computer graphic, four year
 
 ### Selected Team
-1. **Summers, Bill ** (ID: 162)
-   - Covers: project develop, project funded
-2. **Devereux, Emily** (ID: 35)
+1. **Devereux, Emily** (ID: 35)
    - Covers: review process
-3. **Regan, Elizabeth A.** (ID: 133)
+2. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
-4. **Rocheleau, David ** (ID: 142)
+3. **Rocheleau, David ** (ID: 142)
    - Covers: small medium
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop, project funded
 5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
    - Covers: intelligent system
 
@@ -4449,11 +5044,19 @@ No team selected.
 - **Required Skills**: development
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Devereux, Emily** (ID: 35)
    - Covers: development
 
 ---
@@ -4483,13 +5086,19 @@ No team selected.
 - **Required Skills**: area, development
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Humphries, Wilfred Kenneth** (ID: 77)
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -4519,13 +5128,19 @@ No team selected.
 - **Required Skills**: algorithm, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Tang, Jijun** (ID: 168)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Tang, Jijun** (ID: 168)
    - Covers: algorithm
 
 ---
@@ -4586,10 +5201,10 @@ No team selected.
    - Covers: chemical
 3. **Matthews, Manton M** (ID: 106)
    - Covers: security
-4. **Shazly, Tarek ** (ID: 150)
-   - Covers: new technology
-5. **Ritter, James A.** (ID: 138)
+4. **Ritter, James A.** (ID: 138)
    - Covers: material
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: new technology
 
 ---
 
@@ -4597,15 +5212,19 @@ No team selected.
 - **Required Skills**: development, three year, year
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Regan, Elizabeth A.** (ID: 133)
+4. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
-3. **Summers, Bill ** (ID: 162)
+5. **Summers, Bill ** (ID: 162)
    - Covers: three year
 
 ---
@@ -4614,17 +5233,19 @@ No team selected.
 - **Required Skills**: control, energy, search, traffic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Agostinelli, Forest** (ID: 0)
    - Covers: search
-2. **Farouk, Tanvir   I.** (ID: 46)
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-3. **Gatzke, Edward P.** (ID: 52)
+4. **Gatzke, Edward P.** (ID: 52)
    - Covers: control
-4. **Srivastava, Biplav** (ID: 158)
+5. **Srivastava, Biplav** (ID: 158)
    - Covers: traffic
 
 ---
@@ -4637,16 +5258,16 @@ No team selected.
 - **Uncovered Skills**: algorithm, area, engineering, engineering education, four year, industry, material, student several, thematic area
 
 ### Selected Team
-1. **Regan, Elizabeth A.** (ID: 133)
-   - Covers: five year, year
-2. **Dougal, Roger A.** (ID: 37)
-   - Covers: graduate student, wide range
-3. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering
-4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: social science
-5. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
+3. **Dougal, Roger A.** (ID: 37)
+   - Covers: graduate student, wide range
+4. **Regan, Elizabeth A.** (ID: 133)
+   - Covers: five year, year
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering
 
 ---
 
@@ -4654,15 +5275,19 @@ No team selected.
 - **Required Skills**: engineering, engineering education, learning
 - **Seat Cost**: 4.3890
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-2. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Gholizadeh, Sona** (ID: 54)
+4. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
+5. **Glenn Jr., Odell** (ID: 58)
    - Covers: engineering education
 
 ---
@@ -4671,15 +5296,19 @@ No team selected.
 - **Required Skills**: complex system, directorate engineering, engineering, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.2471
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Peters, Wally ** (ID: 126)
+4. **Peters, Wally ** (ID: 126)
+   - Covers: complex system
+5. **Shimpalee, Sirivatch** (ID: 153)
    - Covers: complex system
 
 ---
@@ -4687,9 +5316,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2009/nsf09607/nsf09607.htm (ID: 253)
 - **Required Skills**: business, engineering, graduate student, industry, science engineering, science technology
 - **Seat Cost**: 4.3694
-- **Final Coverage**: 86.57%
+- **Final Coverage**: 82.38%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: science technology
 
 ### Selected Team
 1. **Dougal, Roger A.** (ID: 37)
@@ -4698,8 +5327,8 @@ No team selected.
    - Covers: business
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 5. **Koppel, Tarmo** (ID: 92)
    - Covers: industry
 
@@ -4709,13 +5338,19 @@ No team selected.
 - **Required Skills**: directorate engineering, engineering, national science, science foundation
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 
 ---
@@ -4723,21 +5358,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2009/nsf09604/nsf09604.htm (ID: 255)
 - **Required Skills**: area, chemical, chemistry, conversion, conversion storage, energy, material, material science, science area, solar energy
 - **Seat Cost**: 4.3598
-- **Final Coverage**: 61.06%
+- **Final Coverage**: 58.54%
 - **Goodness Score**: 0.3500
-- **Uncovered Skills**: conversion storage, material, science area, solar energy
+- **Uncovered Skills**: area, conversion, material, science area
 
 ### Selected Team
-1. **Vogt, Thomas** (ID: 180)
-   - Covers: chemistry, material science
-2. **Berge, Nicole D.** (ID: 10)
+1. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
+2. **Chen, Fanglin (Frank)** (ID: 25)
+   - Covers: conversion storage
 3. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-4. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-5. **Lauterbach, Jochen** (ID: 93)
-   - Covers: conversion
+4. **Gray, Joshua** (ID: 61)
+   - Covers: solar energy
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: chemistry, material science
 
 ---
 
@@ -4745,11 +5380,19 @@ No team selected.
 - **Required Skills**: perception
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Rekleitis, Ioannis** (ID: 135)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Rekleitis, Ioannis** (ID: 135)
    - Covers: perception
 
 ---
@@ -4762,16 +5405,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: new technology, property
+1. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
 2. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: social science
 3. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Tang, Jijun** (ID: 168)
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: new technology, property
+5. **Tang, Jijun** (ID: 168)
    - Covers: algorithm
-5. **Boltin, Nicholas D.** (ID: 14)
-   - Covers: computer science
 
 ---
 
@@ -4779,14 +5422,20 @@ No team selected.
 - **Required Skills**: intelligent system, project develop
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-2. **Liu, Chang** (ID: 98)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Liu, Chang** (ID: 98)
    - Covers: project develop
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: intelligent system
 
 ---
 
@@ -4794,17 +5443,19 @@ No team selected.
 - **Required Skills**: broad spectrum, chemical, chemistry, development
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-2. **Devereux, Emily** (ID: 35)
+2. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Eastman, Caroline M. ** (ID: 40)
+4. **Eastman, Caroline M. ** (ID: 40)
    - Covers: broad spectrum
-4. **Chandrashekhar, MVS** (ID: 22)
+5. **Vogt, Thomas** (ID: 180)
    - Covers: chemistry
 
 ---
@@ -4812,9 +5463,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2009/nsf09549/nsf09549.htm (ID: 260)
 - **Required Skills**: broad range, engineering, graduate program, graduate student, higher education, learning, science technology, teaching
 - **Seat Cost**: 4.5187
-- **Final Coverage**: 63.90%
+- **Final Coverage**: 62.78%
 - **Goodness Score**: 0.3594
-- **Uncovered Skills**: broad range, higher education, science technology
+- **Uncovered Skills**: broad range, science technology, teaching
 
 ### Selected Team
 1. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -4825,8 +5476,8 @@ No team selected.
    - Covers: graduate student
 4. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: teaching
+5. **Gholizadeh, Sona** (ID: 54)
+   - Covers: higher education
 
 ---
 
@@ -4834,11 +5485,19 @@ No team selected.
 - **Required Skills**: broad range
 - **Seat Cost**: 4.2146
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Morehouse, Jeff ** (ID: 114)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Morehouse, Jeff ** (ID: 114)
+   - Covers: broad range
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: broad range
 
 ---
@@ -4847,18 +5506,20 @@ No team selected.
 - **Required Skills**: composition, material, physic, property, wave propagation
 - **Seat Cost**: 4.3768
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-2. **Vogt, Thomas** (ID: 180)
-   - Covers: physic
-3. **Banerjee, Sourav ** (ID: 6)
+1. **Banerjee, Sourav ** (ID: 6)
    - Covers: wave propagation
-4. **Ritter, James A.** (ID: 138)
+2. **Chen, Fanglin (Frank)** (ID: 25)
+   - Covers: composition
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: physic
 
 ---
 
@@ -4866,13 +5527,19 @@ No team selected.
 - **Required Skills**: science focus, transport process
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Boltin, Nicholas D.** (ID: 14)
    - Covers: science focus
-2. **Hu, Ming** (ID: 72)
+5. **Hu, Ming** (ID: 72)
    - Covers: transport process
 
 ---
@@ -4891,10 +5558,10 @@ No team selected.
    - Covers: chemical
 3. **Matthews, Manton M** (ID: 106)
    - Covers: security
-4. **Shazly, Tarek ** (ID: 150)
-   - Covers: new technology
-5. **Ritter, James A.** (ID: 138)
+4. **Ritter, James A.** (ID: 138)
    - Covers: material
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: new technology
 
 ---
 
@@ -4902,17 +5569,19 @@ No team selected.
 - **Required Skills**: brown jr, civil, directorate engineering, discovery, earthquake engineering, engineering, engineering simulation, experimentation, foundation nsf, george brown, geotechnical, jr network, national science, network earthquake, science foundation
 - **Seat Cost**: 4.4979
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5167
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
-   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-3. **Gassman, Sarah** (ID: 51)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Caicedo, Juan** (ID: 19)
+   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
+4. **Gassman, Sarah** (ID: 51)
    - Covers: civil, engineering, geotechnical
-4. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: discovery, experimentation
 
 ---
@@ -4921,17 +5590,19 @@ No team selected.
 - **Required Skills**: control, energy, search, traffic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Agostinelli, Forest** (ID: 0)
    - Covers: search
-2. **Farouk, Tanvir   I.** (ID: 46)
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-3. **Gatzke, Edward P.** (ID: 52)
+4. **Gatzke, Edward P.** (ID: 52)
    - Covers: control
-4. **Srivastava, Biplav** (ID: 158)
+5. **Srivastava, Biplav** (ID: 158)
    - Covers: traffic
 
 ---
@@ -4939,9 +5610,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08610/nsf08610.htm (ID: 267)
 - **Required Skills**: communication, engineering, engineering education, learning, used develop, user interface
 - **Seat Cost**: 4.5045
-- **Final Coverage**: 85.47%
+- **Final Coverage**: 82.91%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: engineering education
+- **Uncovered Skills**: user interface
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -4952,17 +5623,17 @@ No team selected.
    - Covers: engineering
 4. **Gatzke, Edward P.** (ID: 52)
    - Covers: used develop
-5. **Xu, Songhua** (ID: 192)
-   - Covers: user interface
+5. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08599/nsf08599.htm (ID: 268)
 - **Required Skills**: area, directorate engineering, engineering, long term, national science, science foundation, specific area
 - **Seat Cost**: 4.2274
-- **Final Coverage**: 87.48%
-- **Goodness Score**: 0.4821
-- **Uncovered Skills**: long term
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -4973,29 +5644,29 @@ No team selected.
    - Covers: engineering
 4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
-   - Covers: national science, science foundation
+5. **Reifsnider, Kenneth ** (ID: 134)
+   - Covers: long term
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08598/nsf08598.htm (ID: 269)
 - **Required Skills**: area, chemical, chemistry, conversion, conversion storage, energy, material, material science, solar energy
 - **Seat Cost**: 4.3309
-- **Final Coverage**: 68.30%
+- **Final Coverage**: 65.48%
 - **Goodness Score**: 0.3750
-- **Uncovered Skills**: conversion storage, material, solar energy
+- **Uncovered Skills**: area, conversion, material
 
 ### Selected Team
-1. **Vogt, Thomas** (ID: 180)
-   - Covers: chemistry, material science
-2. **Berge, Nicole D.** (ID: 10)
+1. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
+2. **Chen, Fanglin (Frank)** (ID: 25)
+   - Covers: conversion storage
 3. **Farouk, Tanvir   I.** (ID: 46)
    - Covers: energy
-4. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-5. **Lauterbach, Jochen** (ID: 93)
-   - Covers: conversion
+4. **Gray, Joshua** (ID: 61)
+   - Covers: solar energy
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: chemistry, material science
 
 ---
 
@@ -5007,37 +5678,37 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Summers, Bill ** (ID: 162)
-   - Covers: science technology, three year
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-3. **Fan, Daping** (ID: 44)
+2. **Fan, Daping** (ID: 44)
    - Covers: united state
-4. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Regan, Elizabeth A.** (ID: 133)
+4. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
+5. **Summers, Bill ** (ID: 162)
+   - Covers: science technology, three year
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08586/nsf08586.htm (ID: 271)
 - **Required Skills**: decision making, developing new, development, discovery, dynamic, engineering, engineering activity, foundation nsf, national science, particular focus, science engineering, science foundation, science technology
 - **Seat Cost**: 4.3322
-- **Final Coverage**: 59.70%
+- **Final Coverage**: 60.42%
 - **Goodness Score**: 0.3750
-- **Uncovered Skills**: decision making, developing new, dynamic, engineering, science technology
+- **Uncovered Skills**: decision making, developing new, dynamic, particular focus, science technology
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: engineering activity, national science, science foundation
-3. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering
-4. **Williams, Christopher** (ID: 189)
-   - Covers: national science, particular focus, science foundation
-5. **Devereux, Emily** (ID: 35)
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
+4. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering
 
 ---
 
@@ -5045,16 +5716,20 @@ No team selected.
 - **Required Skills**: embedded system, industry, physic
 - **Seat Cost**: 4.4849
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Bakos, Jason D. ** (ID: 5)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Bakos, Jason D. ** (ID: 5)
    - Covers: embedded system
-2. **Vogt, Thomas** (ID: 180)
-   - Covers: physic
 3. **Koppel, Tarmo** (ID: 92)
    - Covers: industry
+4. **Matta, Fabio** (ID: 104)
+   - Covers: industry
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: physic
 
 ---
 
@@ -5062,14 +5737,20 @@ No team selected.
 - **Required Skills**: intelligent system, project develop
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-2. **Liu, Chang** (ID: 98)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Liu, Chang** (ID: 98)
    - Covers: project develop
+4. **Summers, Bill ** (ID: 162)
+   - Covers: project develop
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+   - Covers: intelligent system
 
 ---
 
@@ -5081,16 +5762,16 @@ No team selected.
 - **Uncovered Skills**: service
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
-   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-3. **Gassman, Sarah** (ID: 51)
-   - Covers: civil, engineering, geotechnical
-4. **Wang, Yi** (ID: 185)
-   - Covers: computational data, discovery, management
-5. **Fan, Daping** (ID: 44)
+2. **Caicedo, Juan** (ID: 19)
+   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
+3. **Fan, Daping** (ID: 44)
    - Covers: united state
+4. **Gassman, Sarah** (ID: 51)
+   - Covers: civil, engineering, geotechnical
+5. **Wang, Yi** (ID: 185)
+   - Covers: computational data, discovery, management
 
 ---
 
@@ -5098,11 +5779,19 @@ No team selected.
 - **Required Skills**: computing information
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
 
 ---
@@ -5110,21 +5799,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08566/nsf08566.htm (ID: 276)
 - **Required Skills**: area, biomedical, biomedical application, development, development new, development novel, doe, fundamental aspect, system level
 - **Seat Cost**: 4.5750
-- **Final Coverage**: 67.32%
+- **Final Coverage**: 66.34%
 - **Goodness Score**: 0.3750
-- **Uncovered Skills**: biomedical, doe, system level
+- **Uncovered Skills**: area, doe, system level
 
 ### Selected Team
-1. **Matthews, Michael A.** (ID: 107)
-   - Covers: biomedical application, development novel
+1. **Banerjee, Sourav ** (ID: 6)
+   - Covers: biomedical
 2. **Devereux, Emily** (ID: 35)
    - Covers: development
 3. **Gerdes, Jr., John H.** (ID: 53)
    - Covers: development new
 4. **Glenn Jr., Odell** (ID: 58)
    - Covers: fundamental aspect
-5. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
+5. **Matthews, Michael A.** (ID: 107)
+   - Covers: biomedical application, development novel
 
 ---
 
@@ -5132,13 +5821,19 @@ No team selected.
 - **Required Skills**: development, national science, science foundation
 - **Seat Cost**: 4.0092
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5833
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Devereux, Emily** (ID: 35)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Devereux, Emily** (ID: 35)
    - Covers: development
 
 ---
@@ -5147,15 +5842,19 @@ No team selected.
 - **Required Skills**: development, mm, statistic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: statistic
-2. **Devereux, Emily** (ID: 35)
+4. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Potts, Jay** (ID: 129)
+5. **Potts, Jay** (ID: 129)
    - Covers: mm
 
 ---
@@ -5164,14 +5863,20 @@ No team selected.
 - **Required Skills**: distributed computing, five year, year
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Regan, Elizabeth A.** (ID: 133)
-   - Covers: five year, year
-2. **Huhns, Michael N.** (ID: 76)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Huhns, Michael N.** (ID: 76)
    - Covers: distributed computing
+5. **Regan, Elizabeth A.** (ID: 133)
+   - Covers: five year, year
 
 ---
 
@@ -5179,11 +5884,19 @@ No team selected.
 - **Required Skills**: science technology
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Summers, Bill ** (ID: 162)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Summers, Bill ** (ID: 162)
    - Covers: science technology
 
 ---
@@ -5193,19 +5906,19 @@ No team selected.
 - **Seat Cost**: 4.5210
 - **Final Coverage**: 85.40%
 - **Goodness Score**: 0.4464
-- **Uncovered Skills**: teaching
+- **Uncovered Skills**: assessment
 
 ### Selected Team
-1. **Lyons, Jed ** (ID: 101)
-   - Covers: engineering education, retention
-2. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-3. **Fiedler, Kirk** (ID: 48)
+2. **Fiedler, Kirk** (ID: 48)
    - Covers: business
-4. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Shazly, Tarek ** (ID: 150)
-   - Covers: assessment
+4. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: teaching
+5. **Lyons, Jed ** (ID: 101)
+   - Covers: engineering education, retention
 
 ---
 
@@ -5221,12 +5934,12 @@ No team selected.
    - Covers: engineering
 2. **Gatzke, Edward P.** (ID: 52)
    - Covers: control
-3. **Jamshidi, Pooyan ** (ID: 84)
-   - Covers: computer system
-4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: dynamic
-5. **Jalilvand, Golareh** (ID: 83)
+3. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+4. **Jamshidi, Pooyan ** (ID: 84)
+   - Covers: computer system
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+   - Covers: dynamic
 
 ---
 
@@ -5234,18 +5947,20 @@ No team selected.
 - **Required Skills**: foundation nsf, material, national science, new technology, science foundation, security
 - **Seat Cost**: 4.2471
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Matthews, Manton M** (ID: 106)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Matthews, Manton M** (ID: 106)
    - Covers: security
-3. **Shazly, Tarek ** (ID: 150)
-   - Covers: new technology
 4. **Ritter, James A.** (ID: 138)
    - Covers: material
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: new technology
 
 ---
 
@@ -5253,13 +5968,19 @@ No team selected.
 - **Required Skills**: dynamic, understanding dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gatzke, Edward P.** (ID: 52)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Gatzke, Edward P.** (ID: 52)
    - Covers: understanding dynamic
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -5268,51 +5989,61 @@ No team selected.
 - **Required Skills**: communication
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08520/nsf08520.htm (ID: 286)
 - **Required Skills**: decision making, developing new, development, discovery, dynamic, engineering, engineering activity, foundation nsf, national science, particular focus, science engineering, science foundation, science technology
 - **Seat Cost**: 4.3322
-- **Final Coverage**: 59.70%
+- **Final Coverage**: 60.42%
 - **Goodness Score**: 0.3750
-- **Uncovered Skills**: decision making, developing new, dynamic, engineering, science technology
+- **Uncovered Skills**: decision making, developing new, dynamic, particular focus, science technology
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
 2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: engineering activity, national science, science foundation
-3. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering
-4. **Williams, Christopher** (ID: 189)
-   - Covers: national science, particular focus, science foundation
-5. **Devereux, Emily** (ID: 35)
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
+4. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08519/nsf08519.htm (ID: 287)
 - **Required Skills**: brown jr, civil, development, directorate engineering, discovery, earthquake engineering, engineering, engineering simulation, experimentation, foundation nsf, george brown, geotechnical, jr network, national science, network earthquake, science foundation
 - **Seat Cost**: 4.5055
-- **Final Coverage**: 93.59%
-- **Goodness Score**: 0.4516
-- **Uncovered Skills**: development
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5000
+- **Uncovered Skills**: None
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
-   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-3. **Gassman, Sarah** (ID: 51)
+2. **Caicedo, Juan** (ID: 19)
+   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
+3. **Devereux, Emily** (ID: 35)
+   - Covers: development
+4. **Gassman, Sarah** (ID: 51)
    - Covers: civil, engineering, geotechnical
-4. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: discovery, experimentation
 
 ---
@@ -5320,9 +6051,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08517/nsf08517.htm (ID: 288)
 - **Required Skills**: area, communication, engineering, information science, science engineering, science technology
 - **Seat Cost**: 4.4370
-- **Final Coverage**: 86.77%
+- **Final Coverage**: 82.65%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: science technology
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -5333,8 +6064,8 @@ No team selected.
    - Covers: engineering
 4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -5342,18 +6073,20 @@ No team selected.
 - **Required Skills**: advance understanding, computer science, nih, theoretical foundation
 - **Seat Cost**: 4.3454
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
-   - Covers: theoretical foundation
-2. **Rose, John R. ** (ID: 143)
-   - Covers: nih
-3. **Spinale, Frank G.** (ID: 157)
-   - Covers: advance understanding
-4. **Boltin, Nicholas D.** (ID: 14)
+1. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
+2. **Fenner, Stephen A. ** (ID: 47)
+   - Covers: theoretical foundation
+3. **Fiedler, Kirk** (ID: 48)
+   - Covers: computer science
+4. **Rose, John R. ** (ID: 143)
+   - Covers: nih
+5. **Spinale, Frank G.** (ID: 157)
+   - Covers: advance understanding
 
 ---
 
@@ -5361,11 +6094,19 @@ No team selected.
 - **Required Skills**: development
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Devereux, Emily** (ID: 35)
    - Covers: development
 
 ---
@@ -5373,9 +6114,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2008/nsf08508/nsf08508.htm (ID: 291)
 - **Required Skills**: area, development, dynamic, engineering, engineering education, science engineering, understanding dynamic
 - **Seat Cost**: 4.3641
-- **Final Coverage**: 75.62%
+- **Final Coverage**: 73.35%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: engineering education, science engineering
+- **Uncovered Skills**: dynamic, science engineering
 
 ### Selected Team
 1. **Devereux, Emily** (ID: 35)
@@ -5384,10 +6125,10 @@ No team selected.
    - Covers: engineering
 3. **Gatzke, Edward P.** (ID: 52)
    - Covers: understanding dynamic
-4. **Humphries, Wilfred Kenneth** (ID: 77)
+4. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: dynamic
 
 ---
 
@@ -5401,14 +6142,14 @@ No team selected.
 ### Selected Team
 1. **Chen, Fanglin (Frank)** (ID: 25)
    - Covers: composition, structure property
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-3. **Rizos, Dimitris** (ID: 139)
-   - Covers: performance material
-4. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-5. **Ritter, James A.** (ID: 138)
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Rizos, Dimitris** (ID: 139)
+   - Covers: performance material
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
 
 ---
 
@@ -5416,11 +6157,19 @@ No team selected.
 - **Required Skills**: dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -5429,11 +6178,19 @@ No team selected.
 - **Required Skills**: computing information
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
 
 ---
@@ -5450,12 +6207,12 @@ No team selected.
    - Covers: development
 2. **Jabbarzadeh, Ehsan** (ID: 82)
    - Covers: tissue understanding
-3. **Roberts, Kenneth L** (ID: 141)
-   - Covers: nanomaterials
-4. **Yoon, Yeomin** (ID: 194)
-   - Covers: nanotechnology
-5. **Ritter, James A.** (ID: 138)
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Roberts, Kenneth L** (ID: 141)
+   - Covers: nanomaterials
+5. **Yoon, Yeomin** (ID: 194)
+   - Covers: nanotechnology
 
 ---
 
@@ -5483,21 +6240,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2007/nsf07568/nsf07568.htm (ID: 297)
 - **Required Skills**: area, biomedical, development, development novel, doe, software development, system level
 - **Seat Cost**: 4.5042
-- **Final Coverage**: 73.27%
+- **Final Coverage**: 70.69%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: biomedical, software development
+- **Uncovered Skills**: doe, system level
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Banerjee, Sourav ** (ID: 6)
+   - Covers: biomedical
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: software development
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Humphries, Wilfred Kenneth** (ID: 77)
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-3. **Matthews, Michael A.** (ID: 107)
+5. **Matthews, Michael A.** (ID: 107)
    - Covers: development novel
-4. **Monnier, John R.** (ID: 113)
-   - Covers: doe
-5. **Wang, Yi** (ID: 185)
-   - Covers: system level
 
 ---
 
@@ -5505,17 +6262,19 @@ No team selected.
 - **Required Skills**: development, information science, ontology, product, software development
 - **Seat Cost**: 4.5390
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
-   - Covers: information science, software development
-2. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: product
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: information science, software development
 3. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Huhns, Michael N.** (ID: 76)
+4. **Gerdes, Jr., John H.** (ID: 53)
+   - Covers: software development
+5. **Huhns, Michael N.** (ID: 76)
    - Covers: ontology
 
 ---
@@ -5524,17 +6283,19 @@ No team selected.
 - **Required Skills**: dynamic, property, three year, year
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Regan, Elizabeth A.** (ID: 133)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+3. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
-3. **Shazly, Tarek ** (ID: 150)
+4. **Shazly, Tarek ** (ID: 150)
    - Covers: property
-4. **Summers, Bill ** (ID: 162)
+5. **Summers, Bill ** (ID: 162)
    - Covers: three year
 
 ---
@@ -5542,21 +6303,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2007/nsf07547/nsf07547.htm (ID: 300)
 - **Required Skills**: decision making, developing new, development, discovery, dynamic, engineering, foundation nsf, national science, science engineering, science foundation
 - **Seat Cost**: 4.2864
-- **Final Coverage**: 79.39%
+- **Final Coverage**: 78.44%
 - **Goodness Score**: 0.4250
-- **Uncovered Skills**: decision making, developing new
+- **Uncovered Skills**: decision making, dynamic
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Wang, Yi** (ID: 185)
-   - Covers: discovery, science engineering
-3. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-4. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: dynamic
+4. **Mobli, Mostafa** (ID: 112)
+   - Covers: developing new
+5. **Wang, Yi** (ID: 185)
+   - Covers: discovery, science engineering
 
 ---
 
@@ -5564,27 +6325,29 @@ No team selected.
 - **Required Skills**: foundation nsf, material, national science, new technology, science foundation, security
 - **Seat Cost**: 4.2471
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Matthews, Manton M** (ID: 106)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Matthews, Manton M** (ID: 106)
    - Covers: security
-3. **Shazly, Tarek ** (ID: 150)
-   - Covers: new technology
 4. **Ritter, James A.** (ID: 138)
    - Covers: material
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: new technology
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2007/nsf07543/nsf07543.htm (ID: 302)
 - **Required Skills**: development, engineering, learning, material, science technology, support effort, teaching
 - **Seat Cost**: 4.5621
-- **Final Coverage**: 72.34%
+- **Final Coverage**: 71.07%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: material, science technology
+- **Uncovered Skills**: science technology, support effort
 
 ### Selected Team
 1. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -5595,29 +6358,29 @@ No team selected.
    - Covers: engineering
 4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: teaching
-5. **Rose, John R. ** (ID: 143)
-   - Covers: support effort
+5. **Ritter, James A.** (ID: 138)
+   - Covers: material
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2007/nsf07541/nsf07541.htm (ID: 303)
 - **Required Skills**: engineering, focus improving, graduate student, intellectual property, issue involving, particularly interested, property, science engineering, undergraduate graduate
 - **Seat Cost**: 4.4529
-- **Final Coverage**: 57.64%
+- **Final Coverage**: 56.63%
 - **Goodness Score**: 0.3333
-- **Uncovered Skills**: intellectual property, particularly interested, property, science engineering
+- **Uncovered Skills**: intellectual property, issue involving, property, science engineering
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
    - Covers: focus improving
-2. **Dillon, Anthony L** (ID: 36)
+2. **Carver, Wayne** (ID: 21)
+   - Covers: particularly interested
+3. **Dillon, Anthony L** (ID: 36)
    - Covers: undergraduate graduate
-3. **Dougal, Roger A.** (ID: 37)
+4. **Dougal, Roger A.** (ID: 37)
    - Covers: graduate student
-4. **Gassman, Sarah** (ID: 51)
+5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Rocheleau, David ** (ID: 142)
-   - Covers: issue involving
 
 ---
 
@@ -5629,16 +6392,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Matta, Fabio** (ID: 104)
-   - Covers: national science, science foundation, team conduct
-2. **Devereux, Emily** (ID: 35)
+1. **Devereux, Emily** (ID: 35)
    - Covers: development
+2. **Eastman, Caroline M. ** (ID: 40)
+   - Covers: information retrieval
 3. **Li, Chen ** (ID: 97)
    - Covers: prediction
-4. **Tang, Jijun** (ID: 168)
+4. **Matta, Fabio** (ID: 104)
+   - Covers: national science, science foundation, team conduct
+5. **Tang, Jijun** (ID: 168)
    - Covers: algorithm
-5. **Eastman, Caroline M. ** (ID: 40)
-   - Covers: information retrieval
 
 ---
 
@@ -5646,14 +6409,20 @@ No team selected.
 - **Required Skills**: area, computer science
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-2. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: computer science
+4. **Fiedler, Kirk** (ID: 48)
+   - Covers: computer science
+5. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area
 
 ---
 
@@ -5661,18 +6430,20 @@ No team selected.
 - **Required Skills**: engineering, higher education, science technology, teaching
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: teaching
-3. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
-4. **Gholizadeh, Sona** (ID: 54)
+2. **Gholizadeh, Sona** (ID: 54)
    - Covers: higher education
+3. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: teaching
+4. **Rose, John R. ** (ID: 143)
+   - Covers: higher education
+5. **Summers, Bill ** (ID: 162)
+   - Covers: science technology
 
 ---
 
@@ -5707,14 +6478,14 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: communication, foundation nsf, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-4. **Rose, John R. ** (ID: 143)
-   - Covers: received nsf
-5. **Chandrashekhar, MVS** (ID: 22)
+2. **Chandrashekhar, MVS** (ID: 22)
    - Covers: chemistry
+3. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
+4. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area
+5. **Rose, John R. ** (ID: 143)
+   - Covers: received nsf
 
 ---
 
@@ -5722,13 +6493,19 @@ No team selected.
 - **Required Skills**: brown jr, civil, earthquake engineering, engineering, engineering simulation, george brown, jr network, network earthquake
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Caicedo, Juan** (ID: 19)
    - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Gassman, Sarah** (ID: 51)
+5. **Gassman, Sarah** (ID: 51)
    - Covers: civil, engineering
 
 ---
@@ -5737,11 +6514,19 @@ No team selected.
 - **Required Skills**: design software
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Rocheleau, David ** (ID: 142)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Rocheleau, David ** (ID: 142)
    - Covers: design software
 
 ---
@@ -5771,11 +6556,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -5783,11 +6577,19 @@ No team selected.
 - **Required Skills**: service
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Srivastava, Biplav** (ID: 158)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Srivastava, Biplav** (ID: 158)
    - Covers: service
 
 ---
@@ -5796,7 +6598,7 @@ No team selected.
 - **Required Skills**: area, health, national institute, statistic
 - **Seat Cost**: 4.3454
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
@@ -5806,7 +6608,9 @@ No team selected.
    - Covers: area
 3. **Matta, Fabio** (ID: 104)
    - Covers: national institute
-4. **Schooley, Benjamin** (ID: 149)
+4. **Matthews, Michael A.** (ID: 107)
+   - Covers: national institute
+5. **Schooley, Benjamin** (ID: 149)
    - Covers: health
 
 ---
@@ -5814,9 +6618,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2006/nsf06602/nsf06602.htm (ID: 315)
 - **Required Skills**: engineering, graduate student, health, japan, national institute, nih, science engineering
 - **Seat Cost**: 4.3062
-- **Final Coverage**: 75.29%
+- **Final Coverage**: 71.65%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: health, science engineering
+- **Uncovered Skills**: health, nih
 
 ### Selected Team
 1. **Cui, Taixing** (ID: 32)
@@ -5825,8 +6629,8 @@ No team selected.
    - Covers: graduate student
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Rose, John R. ** (ID: 143)
-   - Covers: nih
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 5. **Matta, Fabio** (ID: 104)
    - Covers: national institute
 
@@ -5835,9 +6639,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2006/nsf06595/nsf06595.htm (ID: 316)
 - **Required Skills**: area, engineering, engineering education, foundation nsf, national science, property, science engineering, science foundation, structure property
 - **Seat Cost**: 4.2174
-- **Final Coverage**: 80.38%
+- **Final Coverage**: 78.55%
 - **Goodness Score**: 0.4167
-- **Uncovered Skills**: engineering education, science engineering
+- **Uncovered Skills**: property, science engineering
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
@@ -5846,10 +6650,10 @@ No team selected.
    - Covers: structure property
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Humphries, Wilfred Kenneth** (ID: 77)
+4. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Shazly, Tarek ** (ID: 150)
-   - Covers: property
 
 ---
 
@@ -5861,16 +6665,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Summers, Bill ** (ID: 162)
-   - Covers: science technology, three year
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-3. **Fan, Daping** (ID: 44)
+2. **Fan, Daping** (ID: 44)
    - Covers: united state
-4. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Regan, Elizabeth A.** (ID: 133)
+4. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
+5. **Summers, Bill ** (ID: 162)
+   - Covers: science technology, three year
 
 ---
 
@@ -5878,11 +6682,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -5890,11 +6703,19 @@ No team selected.
 - **Required Skills**: dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -5903,11 +6724,19 @@ No team selected.
 - **Required Skills**: earth science
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Pain, Christopher C.** (ID: 123)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: earth science
 
 ---
@@ -5915,21 +6744,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2006/nsf06572/nsf06572.htm (ID: 321)
 - **Required Skills**: area, computing information, engineering, engineering education, intelligent system, project develop, science engineering
 - **Seat Cost**: 4.3062
-- **Final Coverage**: 75.29%
+- **Final Coverage**: 70.69%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: engineering education, science engineering
+- **Uncovered Skills**: intelligent system, project develop
 
 ### Selected Team
 1. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+3. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-5. **Liu, Chang** (ID: 98)
-   - Covers: project develop
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -5937,15 +6766,19 @@ No team selected.
 - **Required Skills**: development, development novel, system level
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Matthews, Michael A.** (ID: 107)
+4. **Matthews, Michael A.** (ID: 107)
    - Covers: development novel
-3. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: system level
 
 ---
@@ -5953,15 +6786,15 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2006/nsf06566/nsf06566.htm (ID: 323)
 - **Required Skills**: aging, area, biomedical, biomedical engineering, current area, development, engineering, imaging, tissue engineering
 - **Seat Cost**: 4.3511
-- **Final Coverage**: 66.95%
+- **Final Coverage**: 64.61%
 - **Goodness Score**: 0.3750
-- **Uncovered Skills**: aging, imaging, tissue engineering
+- **Uncovered Skills**: aging, current area, imaging
 
 ### Selected Team
 1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: biomedical, biomedical engineering
-2. **Shimpalee, Sirivatch** (ID: 153)
-   - Covers: current area
+2. **Blanchette, James  Otto** (ID: 13)
+   - Covers: tissue engineering
 3. **Devereux, Emily** (ID: 35)
    - Covers: development
 4. **Gassman, Sarah** (ID: 51)
@@ -5975,17 +6808,19 @@ No team selected.
 - **Required Skills**: broad spectrum, chemical, chemistry, development
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-2. **Devereux, Emily** (ID: 35)
+2. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-3. **Eastman, Caroline M. ** (ID: 40)
+4. **Eastman, Caroline M. ** (ID: 40)
    - Covers: broad spectrum
-4. **Chandrashekhar, MVS** (ID: 22)
+5. **Vogt, Thomas** (ID: 180)
    - Covers: chemistry
 
 ---
@@ -5994,14 +6829,20 @@ No team selected.
 - **Required Skills**: composition, earth science, property
 - **Seat Cost**: 4.4849
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-2. **Pain, Christopher C.** (ID: 123)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Chen, Fanglin (Frank)** (ID: 25)
+   - Covers: composition
+4. **Pain, Christopher C.** (ID: 123)
    - Covers: earth science
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
 
 ---
 
@@ -6009,15 +6850,19 @@ No team selected.
 - **Required Skills**: chemistry, dynamic, modeling
 - **Seat Cost**: 4.4849
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Huang, Kevin ** (ID: 74)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Chandrashekhar, MVS** (ID: 22)
+   - Covers: chemistry
+3. **Huang, Kevin ** (ID: 74)
    - Covers: modeling
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
-3. **Chandrashekhar, MVS** (ID: 22)
+5. **Vogt, Thomas** (ID: 180)
    - Covers: chemistry
 
 ---
@@ -6036,10 +6881,10 @@ No team selected.
    - Covers: statistic
 3. **Lyons, Jed ** (ID: 101)
    - Covers: academic program
-4. **Rose, John R. ** (ID: 143)
-   - Covers: computational science
-5. **Morehouse, Jeff ** (ID: 114)
+4. **Morehouse, Jeff ** (ID: 114)
    - Covers: broad range
+5. **Rose, John R. ** (ID: 143)
+   - Covers: computational science
 
 ---
 
@@ -6047,11 +6892,19 @@ No team selected.
 - **Required Skills**: perception
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Rekleitis, Ioannis** (ID: 135)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Rekleitis, Ioannis** (ID: 135)
    - Covers: perception
 
 ---
@@ -6060,39 +6913,41 @@ No team selected.
 - **Required Skills**: composition, material, physic, property, wave propagation
 - **Seat Cost**: 4.3768
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-2. **Vogt, Thomas** (ID: 180)
-   - Covers: physic
-3. **Banerjee, Sourav ** (ID: 6)
+1. **Banerjee, Sourav ** (ID: 6)
    - Covers: wave propagation
-4. **Ritter, James A.** (ID: 138)
+2. **Chen, Fanglin (Frank)** (ID: 25)
+   - Covers: composition
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
+5. **Vogt, Thomas** (ID: 180)
+   - Covers: physic
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2006/nsf06545/nsf06545.htm (ID: 330)
 - **Required Skills**: area, biological process, chemical, particular attention, process requires, science focus, transport process, wide range
 - **Seat Cost**: 4.5334
-- **Final Coverage**: 76.43%
+- **Final Coverage**: 74.52%
 - **Goodness Score**: 0.4062
-- **Uncovered Skills**: particular attention, wide range
+- **Uncovered Skills**: area, particular attention
 
 ### Selected Team
 1. **Berge, Nicole D.** (ID: 10)
    - Covers: biological process, chemical
 2. **Boltin, Nicholas D.** (ID: 14)
    - Covers: science focus
-3. **Gatzke, Edward P.** (ID: 52)
+3. **Dougal, Roger A.** (ID: 37)
+   - Covers: wide range
+4. **Gatzke, Edward P.** (ID: 52)
    - Covers: process requires
-4. **Hu, Ming** (ID: 72)
+5. **Hu, Ming** (ID: 72)
    - Covers: transport process
-5. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
 
 ---
 
@@ -6100,11 +6955,19 @@ No team selected.
 - **Required Skills**: broad range
 - **Seat Cost**: 4.2146
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Morehouse, Jeff ** (ID: 114)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Morehouse, Jeff ** (ID: 114)
+   - Covers: broad range
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: broad range
 
 ---
@@ -6112,9 +6975,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2006/nsf06536/nsf06536.htm (ID: 332)
 - **Required Skills**: development, engineering, learning, material, science technology, support effort, teaching
 - **Seat Cost**: 4.5621
-- **Final Coverage**: 72.34%
+- **Final Coverage**: 71.07%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: material, science technology
+- **Uncovered Skills**: science technology, support effort
 
 ### Selected Team
 1. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -6125,29 +6988,29 @@ No team selected.
    - Covers: engineering
 4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: teaching
-5. **Rose, John R. ** (ID: 143)
-   - Covers: support effort
+5. **Ritter, James A.** (ID: 138)
+   - Covers: material
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2006/nsf06535/nsf06535.htm (ID: 333)
 - **Required Skills**: area, assessment, computer information, computer science, engineering, information technology, knowledge management, learning, management, modeling, natural language, science technology, technology learning
 - **Seat Cost**: 4.4289
-- **Final Coverage**: 53.76%
+- **Final Coverage**: 51.85%
 - **Goodness Score**: 0.3365
-- **Uncovered Skills**: area, computer science, engineering, modeling, natural language, science technology
+- **Uncovered Skills**: area, assessment, management, natural language, science technology, technology learning
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information, information technology, learning
-2. **Xu, Songhua** (ID: 192)
+3. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
+4. **Huang, Kevin ** (ID: 74)
+   - Covers: modeling
+5. **Xu, Songhua** (ID: 192)
    - Covers: information technology, knowledge management
-3. **Ranson, Bill ** (ID: 131)
-   - Covers: technology learning
-4. **Shazly, Tarek ** (ID: 150)
-   - Covers: assessment
-5. **Wang, Yi** (ID: 185)
-   - Covers: management
 
 ---
 
@@ -6165,10 +7028,10 @@ No team selected.
    - Covers: graduate student
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Regan, Elizabeth A.** (ID: 133)
-   - Covers: year
-5. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+5. **Regan, Elizabeth A.** (ID: 133)
+   - Covers: year
 
 ---
 
@@ -6176,13 +7039,19 @@ No team selected.
 - **Required Skills**: united state, year
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fan, Daping** (ID: 44)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Fan, Daping** (ID: 44)
    - Covers: united state
-2. **Regan, Elizabeth A.** (ID: 133)
+5. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
 
 ---
@@ -6191,11 +7060,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6203,13 +7081,19 @@ No team selected.
 - **Required Skills**: communication, manufacturing education
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication
-2. **Harik, Ramy** (ID: 66)
+5. **Harik, Ramy** (ID: 66)
    - Covers: manufacturing education
 
 ---
@@ -6217,9 +7101,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2006/nsf06509/nsf06509.htm (ID: 338)
 - **Required Skills**: area, development, dynamic, engineering, engineering education, science engineering, understanding dynamic
 - **Seat Cost**: 4.3641
-- **Final Coverage**: 75.62%
+- **Final Coverage**: 73.35%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: engineering education, science engineering
+- **Uncovered Skills**: dynamic, science engineering
 
 ### Selected Team
 1. **Devereux, Emily** (ID: 35)
@@ -6228,10 +7112,10 @@ No team selected.
    - Covers: engineering
 3. **Gatzke, Edward P.** (ID: 52)
    - Covers: understanding dynamic
-4. **Humphries, Wilfred Kenneth** (ID: 77)
+4. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: dynamic
 
 ---
 
@@ -6239,15 +7123,19 @@ No team selected.
 - **Required Skills**: computer system, microprocessor, service
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Jamshidi, Pooyan ** (ID: 84)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Jamshidi, Pooyan ** (ID: 84)
    - Covers: computer system
-2. **McNeill, Stephen ** (ID: 110)
+4. **McNeill, Stephen ** (ID: 110)
    - Covers: microprocessor
-3. **Srivastava, Biplav** (ID: 158)
+5. **Srivastava, Biplav** (ID: 158)
    - Covers: service
 
 ---
@@ -6256,11 +7144,19 @@ No team selected.
 - **Required Skills**: service
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Srivastava, Biplav** (ID: 158)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Srivastava, Biplav** (ID: 158)
    - Covers: service
 
 ---
@@ -6289,30 +7185,30 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2005/nsf05620/nsf05620.htm (ID: 342)
 - **Required Skills**: area, computer science, development, engineering, objective program, system design
 - **Seat Cost**: 4.3214
-- **Final Coverage**: 86.42%
+- **Final Coverage**: 82.18%
 - **Goodness Score**: 0.4375
-- **Uncovered Skills**: computer science
+- **Uncovered Skills**: area
 
 ### Selected Team
 1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: objective program
-2. **Devereux, Emily** (ID: 35)
-   - Covers: development
-3. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-4. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-5. **Broughton, Earnie** (ID: 17)
+2. **Boltin, Nicholas D.** (ID: 14)
+   - Covers: computer science
+3. **Broughton, Earnie** (ID: 17)
    - Covers: system design
+4. **Devereux, Emily** (ID: 35)
+   - Covers: development
+5. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2005/nsf05617/nsf05617.htm (ID: 343)
 - **Required Skills**: engineering, graduate student, health, japan, national institute, nih, science engineering
 - **Seat Cost**: 4.3062
-- **Final Coverage**: 75.29%
+- **Final Coverage**: 71.65%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: health, science engineering
+- **Uncovered Skills**: health, nih
 
 ### Selected Team
 1. **Cui, Taixing** (ID: 32)
@@ -6321,8 +7217,8 @@ No team selected.
    - Covers: graduate student
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Rose, John R. ** (ID: 143)
-   - Covers: nih
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 5. **Matta, Fabio** (ID: 104)
    - Covers: national institute
 
@@ -6332,15 +7228,19 @@ No team selected.
 - **Required Skills**: experimental computational, foundation nsf, national laboratory, national science, science foundation
 - **Seat Cost**: 4.1724
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5750
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Gray, Joshua** (ID: 61)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Gray, Joshua** (ID: 61)
    - Covers: national laboratory
-3. **Lessner , Susan M.** (ID: 95)
+4. **Lessner , Susan M.** (ID: 95)
+   - Covers: experimental computational
+5. **McCants, Dale ** (ID: 109)
    - Covers: experimental computational
 
 ---
@@ -6348,42 +7248,42 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2005/nsf05611/nsf05611.htm (ID: 345)
 - **Required Skills**: bioinformatics, biomedical, biomedical imaging, foundation nsf, health, imaging, imaging bioengineering, institute biomedical, national institute, national science, nih, science foundation
 - **Seat Cost**: 4.2656
-- **Final Coverage**: 85.09%
+- **Final Coverage**: 83.30%
 - **Goodness Score**: 0.4583
-- **Uncovered Skills**: bioinformatics, health
+- **Uncovered Skills**: health, nih
 
 ### Selected Team
-1. **Matthews, Michael A.** (ID: 107)
-   - Covers: biomedical imaging, imaging bioengineering, institute biomedical, national institute
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: bioinformatics
 2. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
 3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: biomedical, national science, science foundation
-4. **Pain, Christopher C.** (ID: 123)
+4. **Matthews, Michael A.** (ID: 107)
+   - Covers: biomedical imaging, imaging bioengineering, institute biomedical, national institute
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: imaging
-5. **Rose, John R. ** (ID: 143)
-   - Covers: nih
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2005/nsf05610/nsf05610.htm (ID: 346)
 - **Required Skills**: area, engineering, engineering education, foundation nsf, national science, science engineering, science foundation, science technology
 - **Seat Cost**: 4.1670
-- **Final Coverage**: 89.44%
+- **Final Coverage**: 86.14%
 - **Goodness Score**: 0.4531
-- **Uncovered Skills**: science engineering
+- **Uncovered Skills**: science technology
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-4. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
-5. **Gholizadeh, Sona** (ID: 54)
+3. **Gholizadeh, Sona** (ID: 54)
    - Covers: engineering education
+4. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -6391,17 +7291,19 @@ No team selected.
 - **Required Skills**: area, foundation award, national science, science foundation, scientific meeting
 - **Seat Cost**: 4.2535
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Humphries, Wilfred Kenneth** (ID: 77)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-3. **Lyons, Jed ** (ID: 101)
+4. **Lyons, Jed ** (ID: 101)
    - Covers: foundation award
-4. **Spinale, Frank G.** (ID: 157)
+5. **Spinale, Frank G.** (ID: 157)
    - Covers: scientific meeting
 
 ---
@@ -6414,16 +7316,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Summers, Bill ** (ID: 162)
-   - Covers: science technology, three year
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-3. **Fan, Daping** (ID: 44)
+2. **Fan, Daping** (ID: 44)
    - Covers: united state
-4. **Gassman, Sarah** (ID: 51)
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-5. **Regan, Elizabeth A.** (ID: 133)
+4. **Regan, Elizabeth A.** (ID: 133)
    - Covers: year
+5. **Summers, Bill ** (ID: 162)
+   - Covers: science technology, three year
 
 ---
 
@@ -6435,16 +7337,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-2. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-3. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
-4. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: engineering technology
-5. **Jalilvand, Golareh** (ID: 83)
+2. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
+3. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area
+4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+5. **Summers, Bill ** (ID: 162)
+   - Covers: science technology
 
 ---
 
@@ -6452,11 +7354,19 @@ No team selected.
 - **Required Skills**: management
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Wang, Yi** (ID: 185)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Wang, Yi** (ID: 185)
    - Covers: management
 
 ---
@@ -6465,15 +7375,19 @@ No team selected.
 - **Required Skills**: cluster support, communication, foundation computing
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Alexeev, Oleg S.** (ID: 2)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
    - Covers: cluster support
-2. **Ali, Mohammod** (ID: 3)
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication
-3. **Fenner, Stephen A. ** (ID: 47)
+5. **Fenner, Stephen A. ** (ID: 47)
    - Covers: foundation computing
 
 ---
@@ -6482,13 +7396,19 @@ No team selected.
 - **Required Skills**: data driven, dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
-2. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: data driven
 
 ---
@@ -6497,11 +7417,19 @@ No team selected.
 - **Required Skills**: learning
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
 
 ---
@@ -6510,11 +7438,19 @@ No team selected.
 - **Required Skills**: dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -6523,11 +7459,19 @@ No team selected.
 - **Required Skills**: intelligent system
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
    - Covers: intelligent system
 
 ---
@@ -6536,13 +7480,19 @@ No team selected.
 - **Required Skills**: directorate engineering, engineering, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.2535
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 
 ---
@@ -6551,11 +7501,19 @@ No team selected.
 - **Required Skills**: development
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Devereux, Emily** (ID: 35)
    - Covers: development
 
 ---
@@ -6564,13 +7522,19 @@ No team selected.
 - **Required Skills**: engineering, science engineering
 - **Seat Cost**: 4.0708
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Jalilvand, Golareh** (ID: 83)
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: science engineering
 
 ---
@@ -6578,17 +7542,21 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2005/nsf05527/nsf05527.htm (ID: 359)
 - **Required Skills**: brown jr, civil, earthquake engineering, engineering, engineering simulation, george brown, jr network, mechanical system, network earthquake, system directorate
 - **Seat Cost**: 4.5795
-- **Final Coverage**: 90.80%
-- **Goodness Score**: 0.4125
-- **Uncovered Skills**: mechanical system
+- **Final Coverage**: 100.00%
+- **Goodness Score**: 0.5125
+- **Uncovered Skills**: None
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
-   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Gassman, Sarah** (ID: 51)
-   - Covers: civil, engineering
-3. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: system directorate
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: mechanical system
+3. **Caicedo, Juan** (ID: 19)
+   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
+4. **Gassman, Sarah** (ID: 51)
+   - Covers: civil, engineering
+5. **Ranson, Bill ** (ID: 131)
+   - Covers: mechanical system
 
 ---
 
@@ -6596,13 +7564,19 @@ No team selected.
 - **Required Skills**: foundation nsf, national science, science foundation, sensor network
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Koppel, Tarmo** (ID: 92)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Koppel, Tarmo** (ID: 92)
    - Covers: sensor network
 
 ---
@@ -6617,14 +7591,14 @@ No team selected.
 ### Selected Team
 1. **Chen, Fanglin (Frank)** (ID: 25)
    - Covers: composition, structure property
-2. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-3. **Rizos, Dimitris** (ID: 139)
-   - Covers: performance material
-4. **Devereux, Emily** (ID: 35)
+2. **Devereux, Emily** (ID: 35)
    - Covers: development
-5. **Ritter, James A.** (ID: 138)
+3. **Ritter, James A.** (ID: 138)
    - Covers: material
+4. **Rizos, Dimitris** (ID: 139)
+   - Covers: performance material
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
 
 ---
 
@@ -6632,13 +7606,19 @@ No team selected.
 - **Required Skills**: area, dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Humphries, Wilfred Kenneth** (ID: 77)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -6647,11 +7627,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6663,16 +7652,16 @@ No team selected.
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
-   - Covers: development
-2. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-3. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: program ha
-4. **Sadati, Monirosadat (Sanaz)** (ID: 145)
-   - Covers: phd
-5. **Jalilvand, Golareh** (ID: 83)
+2. **Devereux, Emily** (ID: 35)
+   - Covers: development
+3. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
+4. **Jalilvand, Golareh** (ID: 83)
    - Covers: science engineering
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+   - Covers: phd
 
 ---
 
@@ -6680,11 +7669,19 @@ No team selected.
 - **Required Skills**: learning
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
 
 ---
@@ -6693,12 +7690,20 @@ No team selected.
 - **Required Skills**: communication
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6706,11 +7711,19 @@ No team selected.
 - **Required Skills**: industry
 - **Seat Cost**: 4.2146
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Koppel, Tarmo** (ID: 92)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Koppel, Tarmo** (ID: 92)
+   - Covers: industry
+5. **Matta, Fabio** (ID: 104)
    - Covers: industry
 
 ---
@@ -6719,11 +7732,19 @@ No team selected.
 - **Required Skills**: theoretical foundation
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fenner, Stephen A. ** (ID: 47)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Fenner, Stephen A. ** (ID: 47)
    - Covers: theoretical foundation
 
 ---
@@ -6732,11 +7753,19 @@ No team selected.
 - **Required Skills**: national science, science foundation
 - **Seat Cost**: 3.7038
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: national science, science foundation
+5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: national science, science foundation
 
 ---
@@ -6745,15 +7774,19 @@ No team selected.
 - **Required Skills**: computer system, microprocessor, service
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Jamshidi, Pooyan ** (ID: 84)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Jamshidi, Pooyan ** (ID: 84)
    - Covers: computer system
-2. **McNeill, Stephen ** (ID: 110)
+4. **McNeill, Stephen ** (ID: 110)
    - Covers: microprocessor
-3. **Srivastava, Biplav** (ID: 158)
+5. **Srivastava, Biplav** (ID: 158)
    - Covers: service
 
 ---
@@ -6762,11 +7795,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6774,17 +7816,19 @@ No team selected.
 - **Required Skills**: engineering, foundation nsf, highest honor, national science, science foundation, science technology, teaching
 - **Seat Cost**: 4.3583
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5357
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: highest honor, teaching
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Summers, Bill ** (ID: 162)
+4. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: highest honor, teaching
+5. **Summers, Bill ** (ID: 162)
    - Covers: science technology
 
 ---
@@ -6793,14 +7837,20 @@ No team selected.
 - **Required Skills**: composition, earth science, property
 - **Seat Cost**: 4.4849
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-2. **Pain, Christopher C.** (ID: 123)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Chen, Fanglin (Frank)** (ID: 25)
+   - Covers: composition
+4. **Pain, Christopher C.** (ID: 123)
    - Covers: earth science
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
 
 ---
 
@@ -6808,13 +7858,19 @@ No team selected.
 - **Required Skills**: management, service
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Srivastava, Biplav** (ID: 158)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Srivastava, Biplav** (ID: 158)
    - Covers: service
-2. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: management
 
 ---
@@ -6823,11 +7879,19 @@ No team selected.
 - **Required Skills**: area
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Humphries, Wilfred Kenneth** (ID: 77)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
 
 ---
@@ -6840,16 +7904,16 @@ No team selected.
 - **Uncovered Skills**: discovery, engineering, industry, service
 
 ### Selected Team
-1. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area, engineering community
-2. **Alexeev, Oleg S.** (ID: 2)
+1. **Alexeev, Oleg S.** (ID: 2)
    - Covers: fundamental understanding, product
-3. **Brookshire, Robert G., Ph.D.** (ID: 16)
+2. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-4. **Devereux, Emily** (ID: 35)
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-5. **Dougal, Roger A.** (ID: 37)
+4. **Dougal, Roger A.** (ID: 37)
    - Covers: processing
+5. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area, engineering community
 
 ---
 
@@ -6857,11 +7921,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6869,11 +7942,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6881,11 +7963,19 @@ No team selected.
 - **Required Skills**: program ha
 - **Seat Cost**: 4.2146
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: program ha
+5. **Dillon, Anthony L** (ID: 36)
    - Covers: program ha
 
 ---
@@ -6894,11 +7984,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6906,12 +8005,20 @@ No team selected.
 - **Required Skills**: communication
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6940,13 +8047,19 @@ No team selected.
 - **Required Skills**: area, dynamic
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Humphries, Wilfred Kenneth** (ID: 77)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -6955,11 +8068,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6967,11 +8089,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -6979,18 +8110,20 @@ No team selected.
 - **Required Skills**: area, chemistry, development, national science, science foundation
 - **Seat Cost**: 4.1724
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5500
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Devereux, Emily** (ID: 35)
-   - Covers: development
-3. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area
-4. **Chandrashekhar, MVS** (ID: 22)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+3. **Chandrashekhar, MVS** (ID: 22)
    - Covers: chemistry
+4. **Devereux, Emily** (ID: 35)
+   - Covers: development
+5. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area
 
 ---
 
@@ -7018,9 +8151,9 @@ No team selected.
 ## Proposal: https://www.nsf.gov/pubs/2004/nsf04531/nsf04531.htm (ID: 388)
 - **Required Skills**: development, engineering, material, nsf funding, science engineering, science technology, social science
 - **Seat Cost**: 4.4052
-- **Final Coverage**: 74.91%
+- **Final Coverage**: 70.03%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: material, science engineering
+- **Uncovered Skills**: nsf funding, science technology
 
 ### Selected Team
 1. **Brookshire, Robert G., Ph.D.** (ID: 16)
@@ -7029,19 +8162,19 @@ No team selected.
    - Covers: development
 3. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Rose, John R. ** (ID: 143)
-   - Covers: nsf funding
-5. **Summers, Bill ** (ID: 162)
-   - Covers: science technology
+4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Ritter, James A.** (ID: 138)
+   - Covers: material
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2004/nsf04530/nsf04530.htm (ID: 389)
 - **Required Skills**: area, computational model, computer information, engineering, information science, nsf funding, science engineering
 - **Seat Cost**: 4.4631
-- **Final Coverage**: 73.94%
+- **Final Coverage**: 70.42%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: computational model, science engineering
+- **Uncovered Skills**: computational model, nsf funding
 
 ### Selected Team
 1. **Boltin, Nicholas D.** (ID: 14)
@@ -7052,8 +8185,8 @@ No team selected.
    - Covers: engineering
 4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-5. **Rose, John R. ** (ID: 143)
-   - Covers: nsf funding
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -7061,11 +8194,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7073,13 +8215,19 @@ No team selected.
 - **Required Skills**: foundation nsf, national science, science foundation, sensor network
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Koppel, Tarmo** (ID: 92)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Koppel, Tarmo** (ID: 92)
    - Covers: sensor network
 
 ---
@@ -7088,11 +8236,19 @@ No team selected.
 - **Required Skills**: seek determine
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Moss, Melissa Ann** (ID: 115)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Moss, Melissa Ann** (ID: 115)
    - Covers: seek determine
 
 ---
@@ -7101,11 +8257,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7134,13 +8299,19 @@ No team selected.
 - **Required Skills**: dynamic, earth science
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Pain, Christopher C.** (ID: 123)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Pain, Christopher C.** (ID: 123)
    - Covers: earth science
-2. **Sadati, Monirosadat (Sanaz)** (ID: 145)
+5. **Sadati, Monirosadat (Sanaz)** (ID: 145)
    - Covers: dynamic
 
 ---
@@ -7149,13 +8320,19 @@ No team selected.
 - **Required Skills**: development, material
 - **Seat Cost**: 4.4173
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Devereux, Emily** (ID: 35)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Devereux, Emily** (ID: 35)
    - Covers: development
-2. **Ritter, James A.** (ID: 138)
+4. **Ritter, James A.** (ID: 138)
+   - Covers: material
+5. **Taheri-Qazvini, Nader ** (ID: 165)
    - Covers: material
 
 ---
@@ -7164,13 +8341,19 @@ No team selected.
 - **Required Skills**: information data, management
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Boltin, Nicholas D.** (ID: 14)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information data
-2. **Wang, Yi** (ID: 185)
+5. **Wang, Yi** (ID: 185)
    - Covers: management
 
 ---
@@ -7179,11 +8362,19 @@ No team selected.
 - **Required Skills**: information technology
 - **Seat Cost**: 3.2338
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Brookshire, Robert G., Ph.D.** (ID: 16)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Brookshire, Robert G., Ph.D.** (ID: 16)
+   - Covers: information technology
+5. **Dillon, Anthony L** (ID: 36)
    - Covers: information technology
 
 ---
@@ -7192,12 +8383,20 @@ No team selected.
 - **Required Skills**: communication
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7205,11 +8404,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7217,11 +8425,19 @@ No team selected.
 - **Required Skills**: graduate student
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Dougal, Roger A.** (ID: 37)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Dougal, Roger A.** (ID: 37)
    - Covers: graduate student
 
 ---
@@ -7230,13 +8446,19 @@ No team selected.
 - **Required Skills**: directorate engineering, engineering
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering
-2. **Gassman, Sarah** (ID: 51)
+5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 
 ---
@@ -7245,14 +8467,20 @@ No team selected.
 - **Required Skills**: computer vision, nsf funding
 - **Seat Cost**: 3.9937
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Rose, John R. ** (ID: 143)
-   - Covers: nsf funding
-2. **Huhns, Michael N.** (ID: 76)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Huhns, Michael N.** (ID: 76)
    - Covers: computer vision
+4. **McNeill, Stephen ** (ID: 110)
+   - Covers: computer vision
+5. **Rose, John R. ** (ID: 143)
+   - Covers: nsf funding
 
 ---
 
@@ -7260,11 +8488,19 @@ No team selected.
 - **Required Skills**: artificial intelligence
 - **Seat Cost**: 3.0106
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Agostinelli, Forest** (ID: 0)
+   - Covers: artificial intelligence
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Jamshidi, Pooyan ** (ID: 84)
    - Covers: artificial intelligence
 
 ---
@@ -7273,11 +8509,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7285,13 +8530,19 @@ No team selected.
 - **Required Skills**: foundation nsf, national science, science foundation, teaching
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Humphries, Wilfred Kenneth** (ID: 77)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: teaching
 
 ---
@@ -7300,15 +8551,19 @@ No team selected.
 - **Required Skills**: brown jr, civil, earthquake engineering, engineering, engineering simulation, george brown, jr network, mechanical system, network earthquake
 - **Seat Cost**: 4.5750
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5139
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: mechanical system
+3. **Caicedo, Juan** (ID: 19)
    - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Gassman, Sarah** (ID: 51)
+4. **Gassman, Sarah** (ID: 51)
    - Covers: civil, engineering
-3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+5. **Ranson, Bill ** (ID: 131)
    - Covers: mechanical system
 
 ---
@@ -7317,13 +8572,19 @@ No team selected.
 - **Required Skills**: national science, nsf funding, science foundation
 - **Seat Cost**: 4.0092
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5833
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Rose, John R. ** (ID: 143)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Rose, John R. ** (ID: 143)
    - Covers: nsf funding
 
 ---
@@ -7332,11 +8593,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7344,18 +8614,20 @@ No team selected.
 - **Required Skills**: industry, learning, nsf funding, year
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4750
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: learning
-2. **Regan, Elizabeth A.** (ID: 133)
-   - Covers: year
-3. **Rose, John R. ** (ID: 143)
-   - Covers: nsf funding
-4. **Koppel, Tarmo** (ID: 92)
+2. **Koppel, Tarmo** (ID: 92)
    - Covers: industry
+3. **Matta, Fabio** (ID: 104)
+   - Covers: industry
+4. **Regan, Elizabeth A.** (ID: 133)
+   - Covers: year
+5. **Rose, John R. ** (ID: 143)
+   - Covers: nsf funding
 
 ---
 
@@ -7363,16 +8635,20 @@ No team selected.
 - **Required Skills**: composition, earth science, nsf funding, property
 - **Seat Cost**: 4.5187
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Shazly, Tarek ** (ID: 150)
-   - Covers: composition, property
-2. **Pain, Christopher C.** (ID: 123)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Chen, Fanglin (Frank)** (ID: 25)
+   - Covers: composition
+3. **Pain, Christopher C.** (ID: 123)
    - Covers: earth science
-3. **Rose, John R. ** (ID: 143)
+4. **Rose, John R. ** (ID: 143)
    - Covers: nsf funding
+5. **Shazly, Tarek ** (ID: 150)
+   - Covers: composition, property
 
 ---
 
@@ -7380,13 +8656,19 @@ No team selected.
 - **Required Skills**: material, national science, science foundation
 - **Seat Cost**: 3.8740
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-2. **Ritter, James A.** (ID: 138)
+3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+4. **Ritter, James A.** (ID: 138)
+   - Covers: material
+5. **Taheri-Qazvini, Nader ** (ID: 165)
    - Covers: material
 
 ---
@@ -7401,12 +8683,12 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, engineering technology
-2. **Lyons, Jed ** (ID: 101)
-   - Covers: engineering education, engineering engineering
-3. **Ortiz-Hernandez, Ivelisse** (ID: 122)
-   - Covers: new curriculum
-4. **Gassman, Sarah** (ID: 51)
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
+3. **Lyons, Jed ** (ID: 101)
+   - Covers: engineering education, engineering engineering
+4. **Ortiz-Hernandez, Ivelisse** (ID: 122)
+   - Covers: new curriculum
 5. **Rose, John R. ** (ID: 143)
    - Covers: nsf funding
 
@@ -7416,31 +8698,35 @@ No team selected.
 - **Required Skills**: bridge engineering, engineering, engineering education
 - **Seat Cost**: 4.3890
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4500
+- **Goodness Score**: 0.5417
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Gassman, Sarah** (ID: 51)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-2. **Rizos, Dimitris** (ID: 139)
-   - Covers: bridge engineering
 3. **Gholizadeh, Sona** (ID: 54)
    - Covers: engineering education
+4. **Glenn Jr., Odell** (ID: 58)
+   - Covers: engineering education
+5. **Rizos, Dimitris** (ID: 139)
+   - Covers: bridge engineering
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2003/nsf03560/nsf03560.htm (ID: 415)
 - **Required Skills**: aging, area, biomedical, biomedical engineering, current area, development, engineering, imaging, nsf funding, tissue engineering
 - **Seat Cost**: 4.3780
-- **Final Coverage**: 59.88%
+- **Final Coverage**: 57.79%
 - **Goodness Score**: 0.3500
-- **Uncovered Skills**: aging, imaging, nsf funding, tissue engineering
+- **Uncovered Skills**: aging, current area, imaging, nsf funding
 
 ### Selected Team
 1. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: biomedical, biomedical engineering
-2. **Shimpalee, Sirivatch** (ID: 153)
-   - Covers: current area
+2. **Blanchette, James  Otto** (ID: 13)
+   - Covers: tissue engineering
 3. **Devereux, Emily** (ID: 35)
    - Covers: development
 4. **Gassman, Sarah** (ID: 51)
@@ -7454,13 +8740,19 @@ No team selected.
 - **Required Skills**: communication, directorate engineering, engineering, national science
 - **Seat Cost**: 4.3910
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5312
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: communication, directorate engineering, national science
-2. **Gassman, Sarah** (ID: 51)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science
+5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 
 ---
@@ -7469,11 +8761,19 @@ No team selected.
 - **Required Skills**: united state
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Fan, Daping** (ID: 44)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Fan, Daping** (ID: 44)
    - Covers: united state
 
 ---
@@ -7482,12 +8782,20 @@ No team selected.
 - **Required Skills**: communication, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
    - Covers: communication, foundation nsf, national science, science foundation
+5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
 
 ---
 
@@ -7495,13 +8803,19 @@ No team selected.
 - **Required Skills**: engineering, foundation nsf, national science, science foundation
 - **Seat Cost**: 4.1619
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5625
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
+4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+   - Covers: national science, science foundation
+5. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
 
 ---
@@ -7510,11 +8824,19 @@ No team selected.
 - **Required Skills**: national science, science foundation
 - **Seat Cost**: 3.7038
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4000
+- **Goodness Score**: 0.6250
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Ali, Mohammod** (ID: 3)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: national science, science foundation
+5. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: national science, science foundation
 
 ---
@@ -7544,32 +8866,41 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
 ## Proposal: https://www.nsf.gov/pubs/2003/nsf03519/nsf03519.html (ID: 423)
 - **Required Skills**: area, engineering, engineering community, fabrication, nanotechnology, national science, nsf funding, science engineering, science foundation
 - **Seat Cost**: 4.2944
-- **Final Coverage**: 78.93%
+- **Final Coverage**: 76.09%
 - **Goodness Score**: 0.4167
-- **Uncovered Skills**: nanotechnology, science engineering
+- **Uncovered Skills**: nanotechnology, nsf funding
 
 ### Selected Team
-1. **Humphries, Wilfred Kenneth** (ID: 77)
-   - Covers: area, engineering community
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: national science, science foundation
-3. **Gassman, Sarah** (ID: 51)
+2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-4. **Gross, Andrew J.** (ID: 62)
+3. **Gross, Andrew J.** (ID: 62)
    - Covers: fabrication
-5. **Rose, John R. ** (ID: 143)
-   - Covers: nsf funding
+4. **Humphries, Wilfred Kenneth** (ID: 77)
+   - Covers: area, engineering community
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -7577,13 +8908,19 @@ No team selected.
 - **Required Skills**: infrastructure related, nsf funding
 - **Seat Cost**: 4.6201
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.4250
+- **Goodness Score**: 0.5000
 - **Uncovered Skills**: None
 
 ### Selected Team
-1. **Qian, Yu** (ID: 130)
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Qian, Yu** (ID: 130)
    - Covers: infrastructure related
-2. **Rose, John R. ** (ID: 143)
+5. **Rose, John R. ** (ID: 143)
    - Covers: nsf funding
 
 ---
@@ -7613,11 +8950,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7631,14 +8977,14 @@ No team selected.
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Matta, Fabio** (ID: 104)
-   - Covers: high quality, national science, science foundation
-3. **Berge, Nicole D.** (ID: 10)
+2. **Berge, Nicole D.** (ID: 10)
    - Covers: chemical
-4. **Boltin, Nicholas D.** (ID: 14)
+3. **Boltin, Nicholas D.** (ID: 14)
    - Covers: information science
-5. **Brookshire, Robert G., Ph.D.** (ID: 16)
+4. **Brookshire, Robert G., Ph.D.** (ID: 16)
    - Covers: computer information
+5. **Matta, Fabio** (ID: 104)
+   - Covers: high quality, national science, science foundation
 
 ---
 
@@ -7646,11 +8992,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7658,17 +9013,19 @@ No team selected.
 - **Required Skills**: engineering, foundation nsf, national science, science engineering, science foundation
 - **Seat Cost**: 4.0338
 - **Final Coverage**: 100.00%
-- **Goodness Score**: 0.5250
+- **Goodness Score**: 0.5750
 - **Uncovered Skills**: None
 
 ### Selected Team
 1. **Ali, Mohammod** (ID: 3)
    - Covers: foundation nsf, national science, science foundation
-2. **Gassman, Sarah** (ID: 51)
-   - Covers: engineering
-3. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: national science, science foundation
+3. **Gassman, Sarah** (ID: 51)
+   - Covers: engineering
 4. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
+5. **Pain, Christopher C.** (ID: 123)
    - Covers: science engineering
 
 ---
@@ -7677,11 +9034,20 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
@@ -7689,32 +9055,41 @@ No team selected.
 - **Required Skills**: general
 - **Seat Cost**: 0.0000
 - **Final Coverage**: 100.00%
-- **Goodness Score**: N/A (Missing dependencies)
+- **Goodness Score**: 0.1250
 - **Uncovered Skills**: general
 
 ### Selected Team
-No team selected.
+1. **Agostinelli, Forest** (ID: 0)
+   - Covers: 
+2. **Ahmad, Iftikhar** (ID: 1)
+   - Covers: 
+3. **Alexeev, Oleg S.** (ID: 2)
+   - Covers: 
+4. **Ali, Mohammod** (ID: 3)
+   - Covers: 
+5. **Ammal, Salai C.** (ID: 4)
+   - Covers: 
 
 ---
 
 ## Proposal: http://www.nsf.gov/pubs/2007/nsf07577/nsf07577.htm (ID: 432)
 - **Required Skills**: area, computing information, engineering, engineering education, intelligent system, project develop, science engineering
 - **Seat Cost**: 4.3062
-- **Final Coverage**: 75.29%
+- **Final Coverage**: 70.69%
 - **Goodness Score**: 0.3929
-- **Uncovered Skills**: engineering education, science engineering
+- **Uncovered Skills**: intelligent system, project develop
 
 ### Selected Team
 1. **Fenner, Stephen A. ** (ID: 47)
    - Covers: computing information
 2. **Gassman, Sarah** (ID: 51)
    - Covers: engineering
-3. **Humphries, Wilfred Kenneth** (ID: 77)
+3. **Gholizadeh, Sona** (ID: 54)
+   - Covers: engineering education
+4. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: area
-4. **Vitzilaios, Nikolaos (Nikos)** (ID: 179)
-   - Covers: intelligent system
-5. **Liu, Chang** (ID: 98)
-   - Covers: project develop
+5. **Jalilvand, Golareh** (ID: 83)
+   - Covers: science engineering
 
 ---
 
@@ -7726,14 +9101,14 @@ No team selected.
 - **Uncovered Skills**: experimentation, nationally internationally, nsf funding, use experimental
 
 ### Selected Team
-1. **Caicedo, Juan** (ID: 19)
-   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
-2. **Ali, Mohammod** (ID: 3)
+1. **Ali, Mohammod** (ID: 3)
    - Covers: directorate engineering, foundation nsf, national science, science foundation
-3. **Gassman, Sarah** (ID: 51)
-   - Covers: civil, engineering, geotechnical
-4. **Bayoumi, Abdel-Moez E. ** (ID: 8)
+2. **Bayoumi, Abdel-Moez E. ** (ID: 8)
    - Covers: mechanical system, national science, science foundation
+3. **Caicedo, Juan** (ID: 19)
+   - Covers: brown jr, earthquake engineering, engineering simulation, george brown, jr network, network earthquake
+4. **Gassman, Sarah** (ID: 51)
+   - Covers: civil, engineering, geotechnical
 5. **Humphries, Wilfred Kenneth** (ID: 77)
    - Covers: inc
 

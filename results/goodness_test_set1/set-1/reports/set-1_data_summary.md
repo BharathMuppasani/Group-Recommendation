@@ -7,15 +7,15 @@
 | Skill | Weight |
 |---|---|
 | search | 4.6201 |
-| universityresearch growth | 4.6201 |
-| electronic photonic | 4.6201 |
-| gallium oxide | 4.6201 |
-| fabrication novel high power electronic photonic device | 4.6201 |
 | inc ph | 4.6201 |
-| previous position senior scientist | 4.6201 |
-| simulation device | 4.6201 |
-| novel high | 4.6201 |
-| sensor electronic | 4.6201 |
+| inc ph texas tech universityresearch growth study ultra wide bandgap semiconductor including high aluminum content algan | 4.6201 |
+| sensor electronic technology | 4.6201 |
+| electronic photonic | 4.6201 |
+| senior scientist | 4.6201 |
+| texas tech | 4.6201 |
+| nitride gallium | 4.6201 |
+| previous position | 4.6201 |
+| fabrication novel | 4.6201 |
 
 ## Seat Costs (Top 10)
 | Proposal | Seat Cost |

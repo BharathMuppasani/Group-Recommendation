@@ -24,7 +24,67 @@ from code.scoring import calculate_seat_cost
 from code.greedy import select_team_greedy
 from code.metrics import calculate_coverage, get_uncovered_skills
 
+from code.metrics import calculate_coverage, get_uncovered_skills
+
 console = Console()
+
+def update_results_manifest(results_root):
+    """
+    Scans the results directory for result sets and generates a unified manifest file.
+    """
+    manifest = {
+        "generated_at": None,
+        "sets": []
+    }
+    
+    import datetime
+    manifest["generated_at"] = datetime.datetime.now().isoformat()
+    
+    # Scan for subdirectories
+    results_path = Path(results_root)
+    if not results_path.exists():
+        return
+
+    subdirs = sorted([d for d in results_path.iterdir() if d.is_dir()])
+    
+    for d in subdirs:
+        set_name = d.name
+        # Look for teams json
+        teams_json_path = d / "teams" / f"{set_name}_teams.json"
+        
+        if teams_json_path.exists():
+            try:
+                with open(teams_json_path, 'r') as f:
+                    data = json.load(f)
+                
+                # Calculate aggregate metrics
+                total = len(data)
+                if total == 0:
+                    continue
+                    
+                avg_goodness = sum(item.get("metrics", {}).get("goodness_score", 0) or 0 for item in data) / total
+                avg_coverage = sum(item.get("metrics", {}).get("coverage", 0) for item in data) / total
+                avg_cost = sum(item.get("metrics", {}).get("seat_cost", 0) for item in data) / total
+                
+                manifest["sets"].append({
+                    "id": set_name,
+                    "name": set_name.replace("_", " ").title(),
+                    "path": f"{set_name}/teams/{set_name}_teams.json",
+                    "stats": {
+                        "total_proposals": total,
+                        "avg_goodness": avg_goodness,
+                        "avg_coverage": avg_coverage,
+                        "avg_seat_cost": avg_cost
+                    }
+                })
+            except Exception as e:
+                console.print(f"[yellow]Warning: Could not process {teams_json_path}: {e}[/yellow]")
+
+    manifest_path = results_path / "results_manifest.json"
+    with open(manifest_path, "w") as f:
+        json.dump(manifest, f, indent=2)
+    
+    console.print(f"[green]Updated manifest at {manifest_path}[/green]")
 
 def generate_data_summary(path, researchers, proposals, weights, seat_costs):
     with open(path, "w") as f:
@@ -211,13 +271,20 @@ def main():
                 cost = calculate_seat_cost(p, weights)
                 seat_costs[p.id] = cost
                 
-                team = select_team_greedy(
+                # team = select_team_greedy(
+                #     proposal=p,
+                #     candidates=researchers,
+                #     weights=weights,
+                #     alpha=alpha,
+                #     max_size=max_team_size,
+                #     coverage_target=coverage_target
+                # )
+                from code.greedy import select_team_goodness
+                team = select_team_goodness(
                     proposal=p,
                     candidates=researchers,
                     weights=weights,
-                    alpha=alpha,
-                    max_size=max_team_size,
-                    coverage_target=coverage_target
+                    max_size=max_team_size
                 )
                 
                 cov = calculate_coverage(team, p, weights)
@@ -252,6 +319,10 @@ def main():
         # Machine Readable
         save_teams_json(teams_dir / f"{set_name}_teams.json", results)
         
+    # Generate Manifest
+    console.print("\n[bold blue]Updating Dashboard Manifest...[/bold blue]")
+    update_results_manifest(results_root)
+
     console.print(f"\n[bold green]All Done! Results in '{results_root}'[/bold green]")
 
 if __name__ == "__main__":
