@@ -1,0 +1,23 @@
+[
+    {
+        "id": "p1",
+        "name": "Health NLP",
+        "required_skills": [
+            "nlp",
+            "healthcare",
+            "python",
+            "ml"
+        ]
+    },
+    {
+        "id": "p2",
+        "name": "Robotics Planning",
+        "required_skills": [
+            "ros2",
+            "planning",
+            "python",
+            "rl",
+            "simulation"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "r1",
+        "name": "Asha",
+        "skills": [
+            "python",
+            "ml",
+            "nlp"
+        ]
+    },
+    {
+        "id": "r2",
+        "name": "Ben",
+        "skills": [
+            "ros2",
+            "simulation",
+            "python"
+        ]
+    },
+    {
+        "id": "r3",
+        "name": "Chen",
+        "skills": [
+            "planning",
+            "rl",
+            "python"
+        ]
+    },
+    {
+        "id": "r4",
+        "name": "Dia",
+        "skills": [
+            "healthcare",
+            "nlp",
+            "ux"
+        ]
+    },
+    {
+        "id": "r5",
+        "name": "Eli",
+        "skills": [
+            "databases",
+            "backend",
+            "python"
+        ]
+    }
+]

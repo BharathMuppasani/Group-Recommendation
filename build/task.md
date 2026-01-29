@@ -1,0 +1,22 @@
+# Tasks
+
+- [x] Analyze `prompt.md` <!-- id: 0 -->
+- [x] Create `implementation_plan.md` <!-- id: 1 -->
+- [ ] Review plan with user <!-- id: 2 -->
+- [x] Setup Environment & Structure <!-- id: 3 -->
+    - [x] Create `reports/00_plan.md` <!-- id: 3.1 -->
+    - [x] Initialize Git & Directories <!-- id: 3.2 -->
+    - [x] Create Sample Data <!-- id: 3.3 -->
+    - [x] Create Source Stubs <!-- id: 3.4 -->
+    - [x] Process Real Data (CSV) <!-- id: 3.5 -->
+- [ ] Implement Core Logic (Execution) <!-- id: 4 -->
+    - [x] Implement `io.py` (JSON + CSV) <!-- id: 4.1 -->
+    - [x] Implement `weighting.py` <!-- id: 4.2 -->
+    - [x] Implement `scoring.py` <!-- id: 4.3 -->
+    - [x] Implement `greedy.py` <!-- id: 4.4 -->
+    - [x] Implement `metrics.py` <!-- id: 4.5 -->
+    - [x] Implement `cli.py` <!-- id: 4.6 -->
+- [x] Verify & Report <!-- id: 5 -->
+    - [x] Run Tests <!-- id: 5.1 -->
+    - [x] Run on Real Data <!-- id: 5.2 -->
+    - [x] Generate Reports <!-- id: 5.3 -->
