@@ -32,6 +32,7 @@ The system processes multiple datasets ("Sets"). Below is the average performanc
 | Set 1   | 84.60%       | 0.4253             | 4.3152        | 100                 |
 | Set 2   | 90.96%       | 0.4320             | 4.1105        | 434                 |
 | Set 3   | 90.96%       | 0.4320             | 4.1105        | 434                 |
+| Set 4   | 100.00%      | 0.4529             | 2.2632        | 500                 |
 
 **Key Metrics:**
 - **Coverage**: Percentage of required proposal skills covered by the selected team.

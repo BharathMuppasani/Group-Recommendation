@@ -167,13 +167,6 @@
         ]
       },
       {
-        "id": "191",
-        "name": "Wu, Dezhi",
-        "matching_skills": [
-          "ai"
-        ]
-      },
-      {
         "id": "35",
         "name": "Devereux, Emily",
         "matching_skills": [
@@ -186,6 +179,13 @@
         "matching_skills": [
           "security"
         ]
+      },
+      {
+        "id": "150",
+        "name": "Shazly, Tarek ",
+        "matching_skills": [
+          "continued advancement"
+        ]
       }
     ],
     "metrics": {
@@ -193,7 +193,7 @@
       "seat_cost": 4.197096299618473,
       "goodness_score": 0.375,
       "uncovered": [
-        "continued advancement",
+        "ai",
         "economic impact",
         "industry"
       ]
@@ -1328,17 +1328,17 @@
         ]
       },
       {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "engineering"
+        ]
+      },
+      {
         "id": "14",
         "name": "Boltin, Nicholas D.",
         "matching_skills": [
           "information science"
-        ]
-      },
-      {
-        "id": "37",
-        "name": "Dougal, Roger A.",
-        "matching_skills": [
-          "graduate student"
         ]
       }
     ],
@@ -1348,7 +1348,7 @@
       "goodness_score": 0.39285714285714285,
       "uncovered": [
         "area",
-        "engineering",
+        "graduate student",
         "principal investigator",
         "science engineering"
       ]
@@ -1674,17 +1674,17 @@
         ]
       },
       {
-        "id": "51",
-        "name": "Gassman, Sarah",
+        "id": "52",
+        "name": "Gatzke, Edward P.",
         "matching_skills": [
-          "engineering"
+          "control"
         ]
       },
       {
-        "id": "46",
-        "name": "Farouk, Tanvir   I.",
+        "id": "106",
+        "name": "Matthews, Manton M",
         "matching_skills": [
-          "energy"
+          "security"
         ]
       }
     ],
@@ -1696,9 +1696,9 @@
         "area",
         "artificial intelligence",
         "big data",
-        "control",
+        "energy",
+        "engineering",
         "fuel",
-        "security",
         "synthesis",
         "system application"
       ]
@@ -1856,13 +1856,6 @@
         ]
       },
       {
-        "id": "191",
-        "name": "Wu, Dezhi",
-        "matching_skills": [
-          "ai"
-        ]
-      },
-      {
         "id": "35",
         "name": "Devereux, Emily",
         "matching_skills": [
@@ -1875,6 +1868,13 @@
         "matching_skills": [
           "security"
         ]
+      },
+      {
+        "id": "150",
+        "name": "Shazly, Tarek ",
+        "matching_skills": [
+          "continued advancement"
+        ]
       }
     ],
     "metrics": {
@@ -1882,7 +1882,7 @@
       "seat_cost": 4.197096299618473,
       "goodness_score": 0.375,
       "uncovered": [
-        "continued advancement",
+        "ai",
         "economic impact",
         "industry"
       ]
@@ -2728,17 +2728,17 @@
         ]
       },
       {
+        "id": "46",
+        "name": "Farouk, Tanvir   I.",
+        "matching_skills": [
+          "energy"
+        ]
+      },
+      {
         "id": "51",
         "name": "Gassman, Sarah",
         "matching_skills": [
           "engineering"
-        ]
-      },
-      {
-        "id": "106",
-        "name": "Matthews, Manton M",
-        "matching_skills": [
-          "security"
         ]
       }
     ],
@@ -2747,8 +2747,8 @@
       "seat_cost": 4.3269394232402,
       "goodness_score": 0.38749999999999996,
       "uncovered": [
-        "energy",
         "science engineering",
+        "security",
         "service"
       ]
     }
@@ -4612,17 +4612,17 @@
         ]
       },
       {
+        "id": "46",
+        "name": "Farouk, Tanvir   I.",
+        "matching_skills": [
+          "energy"
+        ]
+      },
+      {
         "id": "51",
         "name": "Gassman, Sarah",
         "matching_skills": [
           "engineering"
-        ]
-      },
-      {
-        "id": "106",
-        "name": "Matthews, Manton M",
-        "matching_skills": [
-          "security"
         ]
       }
     ],
@@ -4631,8 +4631,8 @@
       "seat_cost": 4.3269394232402,
       "goodness_score": 0.38749999999999996,
       "uncovered": [
-        "energy",
         "science engineering",
+        "security",
         "service"
       ]
     }
@@ -5696,17 +5696,17 @@
         ]
       },
       {
+        "id": "46",
+        "name": "Farouk, Tanvir   I.",
+        "matching_skills": [
+          "energy"
+        ]
+      },
+      {
         "id": "51",
         "name": "Gassman, Sarah",
         "matching_skills": [
           "engineering"
-        ]
-      },
-      {
-        "id": "106",
-        "name": "Matthews, Manton M",
-        "matching_skills": [
-          "security"
         ]
       }
     ],
@@ -5715,8 +5715,8 @@
       "seat_cost": 4.3269394232402,
       "goodness_score": 0.38749999999999996,
       "uncovered": [
-        "energy",
         "science engineering",
+        "security",
         "service"
       ]
     }
@@ -7004,10 +7004,10 @@
         ]
       },
       {
-        "id": "35",
-        "name": "Devereux, Emily",
+        "id": "44",
+        "name": "Fan, Daping",
         "matching_skills": [
-          "development"
+          "united state"
         ]
       }
     ],
@@ -7018,11 +7018,11 @@
       "uncovered": [
         "application area",
         "area",
+        "development",
         "doe",
         "energy",
         "health",
-        "robotics",
-        "united state"
+        "robotics"
       ]
     }
   },
@@ -7156,15 +7156,15 @@
         ]
       },
       {
-        "id": "39",
-        "name": "Dryer, Frederick  L. ",
+        "id": "141",
+        "name": "Roberts, Kenneth L",
         "matching_skills": [
-          "production"
+          "nanomaterials"
         ]
       }
     ],
     "metrics": {
-      "coverage": 0.5132634240896905,
+      "coverage": 0.5132634240896906,
       "seat_cost": 4.383011384300398,
       "goodness_score": 0.3382352941176471,
       "uncovered": [
@@ -7174,7 +7174,7 @@
         "health",
         "industry future",
         "low cost",
-        "nanomaterials",
+        "production",
         "year"
       ]
     }
@@ -7268,17 +7268,17 @@
         ]
       },
       {
-        "id": "139",
-        "name": "Rizos, Dimitris",
-        "matching_skills": [
-          "computational method"
-        ]
-      },
-      {
         "id": "35",
         "name": "Devereux, Emily",
         "matching_skills": [
           "development"
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "engineering"
         ]
       }
     ],
@@ -7287,7 +7287,7 @@
       "seat_cost": 4.357297729582191,
       "goodness_score": 0.40909090909090906,
       "uncovered": [
-        "engineering",
+        "computational method",
         "material",
         "visual analytics"
       ]
@@ -8030,17 +8030,17 @@
         ]
       },
       {
-        "id": "150",
-        "name": "Shazly, Tarek ",
-        "matching_skills": [
-          "computational model"
-        ]
-      },
-      {
         "id": "77",
         "name": "Humphries, Wilfred Kenneth",
         "matching_skills": [
           "area"
+        ]
+      },
+      {
+        "id": "100",
+        "name": "Luo, Lannan ",
+        "matching_skills": [
+          "programming language"
         ]
       }
     ],
@@ -8050,10 +8050,10 @@
       "goodness_score": 0.3409090909090909,
       "uncovered": [
         "algorithm",
+        "computational model",
         "computer science",
         "design analysis",
-        "including limited",
-        "programming language"
+        "including limited"
       ]
     }
   },
@@ -8171,10 +8171,10 @@
         ]
       },
       {
-        "id": "39",
-        "name": "Dryer, Frederick  L. ",
+        "id": "141",
+        "name": "Roberts, Kenneth L",
         "matching_skills": [
-          "production"
+          "nanomaterials"
         ]
       }
     ],
@@ -8188,8 +8188,8 @@
         "health",
         "industry future",
         "low cost",
-        "nanomaterials",
         "nanotechnology",
+        "production",
         "year"
       ]
     }
@@ -8418,17 +8418,17 @@
         ]
       },
       {
-        "id": "139",
-        "name": "Rizos, Dimitris",
-        "matching_skills": [
-          "computational method"
-        ]
-      },
-      {
         "id": "35",
         "name": "Devereux, Emily",
         "matching_skills": [
           "development"
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "engineering"
         ]
       }
     ],
@@ -8437,7 +8437,7 @@
       "seat_cost": 4.357297729582191,
       "goodness_score": 0.40909090909090906,
       "uncovered": [
-        "engineering",
+        "computational method",
         "material",
         "visual analytics"
       ]
@@ -8622,10 +8622,10 @@
         ]
       },
       {
-        "id": "39",
-        "name": "Dryer, Frederick  L. ",
+        "id": "141",
+        "name": "Roberts, Kenneth L",
         "matching_skills": [
-          "production"
+          "nanomaterials"
         ]
       }
     ],
@@ -8639,8 +8639,8 @@
         "health",
         "industry future",
         "low cost",
-        "nanomaterials",
         "nanotechnology",
+        "production",
         "year"
       ]
     }
@@ -9229,17 +9229,17 @@
         ]
       },
       {
-        "id": "51",
-        "name": "Gassman, Sarah",
-        "matching_skills": [
-          "engineering"
-        ]
-      },
-      {
         "id": "46",
         "name": "Farouk, Tanvir   I.",
         "matching_skills": [
           "energy"
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "engineering"
         ]
       }
     ],
@@ -9470,10 +9470,10 @@
         ]
       },
       {
-        "id": "35",
-        "name": "Devereux, Emily",
+        "id": "143",
+        "name": "Rose, John R. ",
         "matching_skills": [
-          "development"
+          "nih"
         ]
       }
     ],
@@ -9484,9 +9484,9 @@
       "uncovered": [
         "area",
         "clinical practice",
+        "development",
         "health",
         "modeling",
-        "nih",
         "process modeling"
       ]
     }
@@ -12212,17 +12212,17 @@
         ]
       },
       {
-        "id": "51",
-        "name": "Gassman, Sarah",
-        "matching_skills": [
-          "engineering"
-        ]
-      },
-      {
         "id": "46",
         "name": "Farouk, Tanvir   I.",
         "matching_skills": [
           "energy"
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "engineering"
         ]
       }
     ],
@@ -12298,6 +12298,13 @@
         ]
       },
       {
+        "id": "10",
+        "name": "Berge, Nicole D.",
+        "matching_skills": [
+          "chemical"
+        ]
+      },
+      {
         "id": "37",
         "name": "Dougal, Roger A.",
         "matching_skills": [
@@ -12317,13 +12324,6 @@
         "matching_skills": [
           "united state"
         ]
-      },
-      {
-        "id": "51",
-        "name": "Gassman, Sarah",
-        "matching_skills": [
-          "engineering"
-        ]
       }
     ],
     "metrics": {
@@ -12331,7 +12331,7 @@
       "seat_cost": 4.318030387400478,
       "goodness_score": 0.375,
       "uncovered": [
-        "chemical",
+        "engineering",
         "engineering division",
         "health",
         "science engineering"
@@ -13427,17 +13427,17 @@
         ]
       },
       {
-        "id": "77",
-        "name": "Humphries, Wilfred Kenneth",
-        "matching_skills": [
-          "area"
-        ]
-      },
-      {
         "id": "51",
         "name": "Gassman, Sarah",
         "matching_skills": [
           "engineering"
+        ]
+      },
+      {
+        "id": "77",
+        "name": "Humphries, Wilfred Kenneth",
+        "matching_skills": [
+          "area"
         ]
       },
       {
@@ -14041,13 +14041,6 @@
         ]
       },
       {
-        "id": "77",
-        "name": "Humphries, Wilfred Kenneth",
-        "matching_skills": [
-          "teaching"
-        ]
-      },
-      {
         "id": "48",
         "name": "Fiedler, Kirk",
         "matching_skills": [
@@ -14060,14 +14053,21 @@
         "matching_skills": [
           "engineering"
         ]
+      },
+      {
+        "id": "150",
+        "name": "Shazly, Tarek ",
+        "matching_skills": [
+          "assessment"
+        ]
       }
     ],
     "metrics": {
-      "coverage": 0.8540139602968252,
+      "coverage": 0.8540139602968251,
       "seat_cost": 4.521037772687564,
       "goodness_score": 0.4464285714285714,
       "uncovered": [
-        "assessment"
+        "teaching"
       ]
     }
   },
@@ -14586,17 +14586,17 @@
         ]
       },
       {
-        "id": "35",
-        "name": "Devereux, Emily",
-        "matching_skills": [
-          "development"
-        ]
-      },
-      {
         "id": "139",
         "name": "Rizos, Dimitris",
         "matching_skills": [
           "performance material"
+        ]
+      },
+      {
+        "id": "35",
+        "name": "Devereux, Emily",
+        "matching_skills": [
+          "development"
         ]
       },
       {
@@ -14743,17 +14743,17 @@
         ]
       },
       {
-        "id": "77",
-        "name": "Humphries, Wilfred Kenneth",
-        "matching_skills": [
-          "area"
-        ]
-      },
-      {
         "id": "51",
         "name": "Gassman, Sarah",
         "matching_skills": [
           "engineering"
+        ]
+      },
+      {
+        "id": "77",
+        "name": "Humphries, Wilfred Kenneth",
+        "matching_skills": [
+          "area"
         ]
       },
       {
@@ -14974,10 +14974,10 @@
         ]
       },
       {
-        "id": "199",
-        "name": "Zhang, Qi",
+        "id": "145",
+        "name": "Sadati, Monirosadat (Sanaz)",
         "matching_skills": [
-          "decision making"
+          "dynamic"
         ]
       }
     ],
@@ -14986,8 +14986,8 @@
       "seat_cost": 4.286392912429384,
       "goodness_score": 0.42500000000000004,
       "uncovered": [
-        "developing new",
-        "dynamic"
+        "decision making",
+        "developing new"
       ]
     }
   },
@@ -15977,6 +15977,13 @@
         ]
       },
       {
+        "id": "153",
+        "name": "Shimpalee, Sirivatch",
+        "matching_skills": [
+          "current area"
+        ]
+      },
+      {
         "id": "35",
         "name": "Devereux, Emily",
         "matching_skills": [
@@ -15996,13 +16003,6 @@
         "matching_skills": [
           "area"
         ]
-      },
-      {
-        "id": "123",
-        "name": "Pain, Christopher C.",
-        "matching_skills": [
-          "imaging"
-        ]
       }
     ],
     "metrics": {
@@ -16011,7 +16011,7 @@
       "goodness_score": 0.375,
       "uncovered": [
         "aging",
-        "current area",
+        "imaging",
         "tissue engineering"
       ]
     }
@@ -16439,24 +16439,24 @@
         ]
       },
       {
-        "id": "51",
-        "name": "Gassman, Sarah",
+        "id": "131",
+        "name": "Ranson, Bill ",
         "matching_skills": [
-          "engineering"
+          "technology learning"
         ]
       },
       {
-        "id": "74",
-        "name": "Huang, Kevin ",
+        "id": "150",
+        "name": "Shazly, Tarek ",
         "matching_skills": [
-          "modeling"
+          "assessment"
         ]
       },
       {
-        "id": "77",
-        "name": "Humphries, Wilfred Kenneth",
+        "id": "185",
+        "name": "Wang, Yi",
         "matching_skills": [
-          "area"
+          "management"
         ]
       }
     ],
@@ -16465,12 +16465,12 @@
       "seat_cost": 4.428912133113534,
       "goodness_score": 0.33653846153846156,
       "uncovered": [
-        "assessment",
+        "area",
         "computer science",
-        "management",
+        "engineering",
+        "modeling",
         "natural language",
-        "science technology",
-        "technology learning"
+        "science technology"
       ]
     }
   },
@@ -17587,17 +17587,17 @@
         ]
       },
       {
-        "id": "35",
-        "name": "Devereux, Emily",
-        "matching_skills": [
-          "development"
-        ]
-      },
-      {
         "id": "139",
         "name": "Rizos, Dimitris",
         "matching_skills": [
           "performance material"
+        ]
+      },
+      {
+        "id": "35",
+        "name": "Devereux, Emily",
+        "matching_skills": [
+          "development"
         ]
       },
       {
@@ -19216,17 +19216,17 @@
         ]
       },
       {
-        "id": "51",
-        "name": "Gassman, Sarah",
-        "matching_skills": [
-          "engineering"
-        ]
-      },
-      {
         "id": "122",
         "name": "Ortiz-Hernandez, Ivelisse",
         "matching_skills": [
           "new curriculum"
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Gassman, Sarah",
+        "matching_skills": [
+          "engineering"
         ]
       },
       {
@@ -19307,6 +19307,13 @@
         ]
       },
       {
+        "id": "153",
+        "name": "Shimpalee, Sirivatch",
+        "matching_skills": [
+          "current area"
+        ]
+      },
+      {
         "id": "35",
         "name": "Devereux, Emily",
         "matching_skills": [
@@ -19326,13 +19333,6 @@
         "matching_skills": [
           "area"
         ]
-      },
-      {
-        "id": "123",
-        "name": "Pain, Christopher C.",
-        "matching_skills": [
-          "imaging"
-        ]
       }
     ],
     "metrics": {
@@ -19341,7 +19341,7 @@
       "goodness_score": 0.35,
       "uncovered": [
         "aging",
-        "current area",
+        "imaging",
         "nsf funding",
         "tissue engineering"
       ]

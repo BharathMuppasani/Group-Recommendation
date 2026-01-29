@@ -8,14 +8,14 @@
 |---|---|
 | search | 4.6201 |
 | high aluminum | 4.6201 |
-| previous position senior scientist | 4.6201 |
+| novel high | 4.6201 |
 | previous position | 4.6201 |
-| computer simulation device | 4.6201 |
-| position senior | 4.6201 |
-| fabrication novel high power electronic photonic device | 4.6201 |
-| inc ph texas tech universityresearch growth study ultra wide bandgap semiconductor including high aluminum content algan | 4.6201 |
+| electronic photonic | 4.6201 |
+| including high | 4.6201 |
+| sensor electronic | 4.6201 |
+| tech universityresearch | 4.6201 |
 | senior scientist | 4.6201 |
-| aluminum content | 4.6201 |
+| sensor electronic technology | 4.6201 |
 
 ## Seat Costs (Top 10)
 | Proposal | Seat Cost |
