@@ -1,0 +1,2001 @@
+,meal_name,categories
+0,Yogurt Classic (m1),{'Breakfast Item'}
+1,Coleslaw Special (m2),{'Salad'}
+2,Breakfast Tacos Premium (m3),"{'Salad', 'Breakfast Item'}"
+3,Peach Tea Deluxe (m4),"{'Soup', 'Beverage'}"
+4,Banana Split Mild (m5),"{'Beverage', 'Dessert'}"
+5,Hummus with Pita Classic (m6),"{'Salad', 'Main Course', 'Appetizer'}"
+6,Gazpacho Deluxe (m7),{'Soup'}
+7,Chocolate Cake Special (m8),{'Dessert'}
+8,Ramen Special (m9),"{'Salad', 'Soup', 'Appetizer'}"
+9,Raspberry Lemonade Mild (m10),{'Beverage'}
+10,English Muffin Light (m11),{'Breakfast Item'}
+11,Corn on the Cob (m12),{'Side'}
+12,French Fries Mild (m13),"{'Appetizer', 'Side'}"
+13,Vegetable Soup Special (m14),{'Soup'}
+14,Chicken Alfredo (m15),"{'Main Course', 'Salad'}"
+15,Milk Spicy (m16),"{'Breakfast Item', 'Beverage'}"
+16,Gelato (m17),{'Dessert'}
+17,Pineapple Juice Mild (m18),{'Beverage'}
+18,Apple Pie (m19),"{'Salad', 'Dessert'}"
+19,Chai Latte Mild (m20),{'Beverage'}
+20,Beef Burrito Deluxe (m21),"{'Appetizer', 'Main Course', 'Dessert'}"
+21,Gelato (m22),"{'Beverage', 'Dessert'}"
+22,Potato Salad Mild (m23),"{'Salad', 'Side'}"
+23,Potato Leek Soup Light (m24),"{'Main Course', 'Soup'}"
+24,Stuffed Mushrooms Deluxe (m25),"{'Side', 'Appetizer'}"
+25,Crepes Premium (m26),{'Breakfast Item'}
+26,Chicken Souvlaki (m27),"{'Main Course', 'Side'}"
+27,Stuffed Mushrooms Spicy (m28),"{'Main Course', 'Breakfast Item', 'Appetizer'}"
+28,Green Beans (m29),"{'Main Course', 'Dessert', 'Side'}"
+29,Yogurt Premium (m30),{'Breakfast Item'}
+30,Donut Special (m31),"{'Main Course', 'Beverage', 'Dessert'}"
+31,Pork Schnitzel Mild (m32),"{'Appetizer', 'Main Course', 'Side'}"
+32,Milk Premium (m33),{'Beverage'}
+33,Grilled Salmon Premium (m34),{'Main Course'}
+34,Garlic Bread Light (m35),"{'Salad', 'Soup', 'Side'}"
+35,Nachos Classic (m36),{'Appetizer'}
+36,Hot Chocolate Deluxe (m37),{'Beverage'}
+37,Potato Skins Classic (m38),"{'Main Course', 'Salad', 'Appetizer'}"
+38,Tea Premium (m39),{'Beverage'}
+39,Pasta Salad Classic (m40),"{'Salad', 'Beverage'}"
+40,Chicken Alfredo Deluxe (m41),{'Main Course'}
+41,Mediterranean Salad Premium (m42),{'Salad'}
+42,Yams Spicy (m43),"{'Soup', 'Side'}"
+43,Pancakes Deluxe (m44),{'Breakfast Item'}
+44,Beef Stew (m45),"{'Soup', 'Breakfast Item', 'Dessert'}"
+45,Beef Carpaccio Special (m46),{'Appetizer'}
+46,Pho (m47),{'Soup'}
+47,Corn Chowder Deluxe (m48),"{'Salad', 'Soup'}"
+48,Stuffing Mild (m49),"{'Soup', 'Dessert', 'Side'}"
+49,Polenta (m50),"{'Soup', 'Side'}"
+50,Tomato Juice (m51),"{'Salad', 'Beverage', 'Appetizer'}"
+51,Chicken Wings Deluxe (m52),"{'Main Course', 'Soup', 'Side'}"
+52,Fish Curry Classic (m53),{'Main Course'}
+53,Garden Salad Premium (m54),{'Salad'}
+54,Pancakes Special (m55),"{'Main Course', 'Breakfast Item'}"
+55,Pizza Margherita Special (m56),{'Main Course'}
+56,Tea Classic (m57),"{'Salad', 'Beverage'}"
+57,Corn on the Cob (m58),"{'Soup', 'Side'}"
+58,Nicoise Salad Mild (m59),"{'Salad', 'Main Course'}"
+59,Salmon Teriyaki Special (m60),{'Main Course'}
+60,Muffin Mild (m61),"{'Soup', 'Breakfast Item', 'Side'}"
+61,Mousse Premium (m62),"{'Salad', 'Soup', 'Dessert'}"
+62,Raspberry Lemonade Spicy (m63),{'Beverage'}
+63,Chicken Souvlaki Spicy (m64),{'Main Course'}
+64,Bacon Wrapped Dates Spicy (m65),{'Appetizer'}
+65,Beef Carpaccio Special (m66),"{'Main Course', 'Breakfast Item', 'Appetizer'}"
+66,Beef Steak Premium (m67),{'Main Course'}
+67,English Muffin Classic (m68),"{'Breakfast Item', 'Side'}"
+68,Caesar Salad Special (m69),"{'Salad', 'Beverage'}"
+69,Stuffing Premium (m70),{'Side'}
+70,Soy Milk Spicy (m71),{'Beverage'}
+71,Pumpkin Soup Premium (m72),{'Soup'}
+72,French Fries Spicy (m73),"{'Appetizer', 'Side'}"
+73,Mushroom Soup Classic (m74),"{'Salad', 'Soup'}"
+74,Carrot Cake Light (m75),{'Dessert'}
+75,Rice Pudding Mild (m76),{'Dessert'}
+76,Lentil Soup Light (m77),"{'Salad', 'Soup', 'Side'}"
+77,Cereal Special (m78),"{'Breakfast Item', 'Beverage', 'Side'}"
+78,Edamame Mild (m79),"{'Soup', 'Appetizer'}"
+79,Pho Light (m80),{'Soup'}
+80,Chicken Noodle Soup Spicy (m81),{'Soup'}
+81,Pork Tenderloin Premium (m82),{'Main Course'}
+82,Chicken Noodle Soup Light (m83),"{'Soup', 'Breakfast Item'}"
+83,Pumpkin Soup Light (m84),{'Soup'}
+84,Kale Salad (m85),"{'Salad', 'Side'}"
+85,Flan Mild (m86),{'Dessert'}
+86,Asparagus Special (m87),"{'Dessert', 'Side'}"
+87,Strawberry Smoothie Classic (m88),"{'Main Course', 'Beverage'}"
+88,Creamed Spinach Spicy (m89),"{'Soup', 'Side'}"
+89,Panna Cotta Premium (m90),"{'Beverage', 'Dessert'}"
+90,Carrot Ginger Soup Special (m91),{'Soup'}
+91,Oysters Deluxe (m92),{'Appetizer'}
+92,Mashed Potatoes Deluxe (m93),{'Side'}
+93,Crème Brûlée Deluxe (m94),"{'Soup', 'Dessert'}"
+94,Edamame Premium (m95),{'Side'}
+95,Chai Latte Deluxe (m96),{'Beverage'}
+96,Ice Cream (m97),{'Dessert'}
+97,Gazpacho Special (m98),{'Soup'}
+98,Yogurt Premium (m99),{'Breakfast Item'}
+99,Chicken Skewers Spicy (m100),"{'Breakfast Item', 'Beverage', 'Appetizer'}"
+100,Cauliflower Mash Deluxe (m101),{'Side'}
+101,Chicken Skewers (m102),{'Appetizer'}
+102,Mango Juice (m103),"{'Salad', 'Breakfast Item', 'Beverage'}"
+103,Lamb Chops Mild (m104),{'Main Course'}
+104,Fruit Salad Light (m105),{'Salad'}
+105,Bagel Light (m106),"{'Soup', 'Breakfast Item'}"
+106,Cobbler Classic (m107),"{'Appetizer', 'Dessert'}"
+107,Meatball Sub Spicy (m108),{'Main Course'}
+108,Oat Milk Light (m109),"{'Breakfast Item', 'Beverage', 'Appetizer'}"
+109,Miso Soup Spicy (m110),{'Soup'}
+110,Taco Salad (m111),"{'Salad', 'Appetizer'}"
+111,Beef Carpaccio Classic (m112),{'Appetizer'}
+112,Bruschetta Light (m113),{'Appetizer'}
+113,Espresso Premium (m114),"{'Salad', 'Beverage'}"
+114,Lemonade Premium (m115),"{'Beverage', 'Appetizer'}"
+115,Tiramisu Premium (m116),{'Dessert'}
+116,Goat Cheese Crostini Premium (m117),"{'Breakfast Item', 'Appetizer'}"
+117,Spinach Salad Spicy (m118),"{'Salad', 'Soup', 'Beverage'}"
+118,Chicken Noodle Soup (m119),"{'Main Course', 'Soup'}"
+119,Sausage Mild (m120),{'Breakfast Item'}
+120,Chocolate Milk Spicy (m121),{'Beverage'}
+121,Garlic Bread Classic (m122),{'Side'}
+122,Cobbler Spicy (m123),{'Dessert'}
+123,Mac and Cheese Premium (m124),{'Side'}
+124,Fruit Bowl (m125),"{'Breakfast Item', 'Side'}"
+125,Pork Chops Classic (m126),"{'Main Course', 'Beverage'}"
+126,Iced Tea Deluxe (m127),"{'Soup', 'Beverage'}"
+127,Grilled Zucchini Light (m128),"{'Soup', 'Side'}"
+128,Ginger Ale Premium (m129),{'Beverage'}
+129,Carrot Ginger Soup Classic (m130),{'Soup'}
+130,Cheese Platter Special (m131),{'Appetizer'}
+131,Macarons Premium (m132),"{'Breakfast Item', 'Dessert'}"
+132,Strawberry Smoothie (m133),"{'Salad', 'Soup', 'Beverage'}"
+133,Cheesecake Deluxe (m134),{'Dessert'}
+134,Shrimp Cocktail Spicy (m135),{'Appetizer'}
+135,Beef Stew Light (m136),{'Soup'}
+136,Macarons Special (m137),{'Dessert'}
+137,Nicoise Salad Light (m138),"{'Salad', 'Breakfast Item'}"
+138,Spinach Salad Mild (m139),{'Salad'}
+139,Onion Rings Deluxe (m140),{'Side'}
+140,Breakfast Sandwich Special (m141),"{'Breakfast Item', 'Appetizer'}"
+141,Corn Chowder Spicy (m142),"{'Soup', 'Side'}"
+142,Fish Tacos Light (m143),"{'Main Course', 'Salad', 'Breakfast Item'}"
+143,Muffin (m144),"{'Salad', 'Breakfast Item'}"
+144,Jalapeño Poppers Premium (m145),{'Appetizer'}
+145,Fried Pickles Deluxe (m146),{'Appetizer'}
+146,Bagel Spicy (m147),{'Breakfast Item'}
+147,Spinach Salad Special (m148),{'Salad'}
+148,Roast Turkey Deluxe (m149),"{'Main Course', 'Appetizer'}"
+149,Goat Cheese Crostini Premium (m150),{'Appetizer'}
+150,Arugula Salad Deluxe (m151),"{'Salad', 'Dessert', 'Appetizer'}"
+151,Arugula Salad (m152),{'Salad'}
+152,Gelato Special (m153),"{'Salad', 'Dessert'}"
+153,Stuffed Mushrooms Classic (m154),"{'Side', 'Beverage', 'Appetizer'}"
+154,Gazpacho Mild (m155),{'Soup'}
+155,Sausage Deluxe (m156),{'Breakfast Item'}
+156,Strawberry Smoothie Premium (m157),"{'Main Course', 'Beverage', 'Appetizer'}"
+157,Apple Juice Mild (m158),{'Beverage'}
+158,Vegetable Soup (m159),{'Soup'}
+159,Nachos (m160),"{'Main Course', 'Dessert', 'Appetizer'}"
+160,Bread Pudding Deluxe (m161),{'Dessert'}
+161,Split Pea Soup Deluxe (m162),"{'Soup', 'Breakfast Item'}"
+162,Tuna Salad Special (m163),"{'Salad', 'Appetizer'}"
+163,Hot Tea Mild (m164),{'Beverage'}
+164,Espresso Deluxe (m165),"{'Beverage', 'Dessert'}"
+165,Hummus with Pita Mild (m166),"{'Main Course', 'Appetizer'}"
+166,Mediterranean Salad Light (m167),{'Salad'}
+167,Sprite Spicy (m168),"{'Beverage', 'Dessert'}"
+168,Vanilla Latte Premium (m169),"{'Beverage', 'Dessert'}"
+169,Potato Salad Premium (m170),{'Side'}
+170,Pasta Carbonara Light (m171),{'Main Course'}
+171,Deviled Eggs Premium (m172),"{'Side', 'Appetizer'}"
+172,Tuna Tartare Light (m173),{'Appetizer'}
+173,Potato Leek Soup Mild (m174),"{'Soup', 'Beverage'}"
+174,Milk Classic (m175),{'Beverage'}
+175,Prosciutto Melon Deluxe (m176),{'Appetizer'}
+176,Beet Salad Premium (m177),{'Salad'}
+177,Green Tea Special (m178),"{'Salad', 'Beverage'}"
+178,Smoothie Spicy (m179),{'Beverage'}
+179,Corned Beef Hash Mild (m180),{'Breakfast Item'}
+180,Mediterranean Salad Mild (m181),{'Salad'}
+181,Carrot Ginger Soup Spicy (m182),"{'Soup', 'Appetizer'}"
+182,Salmon Teriyaki Light (m183),{'Main Course'}
+183,Yogurt Classic (m184),"{'Soup', 'Breakfast Item'}"
+184,Tres Leches Cake Classic (m185),{'Dessert'}
+185,Potato Skins Mild (m186),{'Appetizer'}
+186,Tres Leches Cake (m187),{'Dessert'}
+187,Fruit Bowl Light (m188),"{'Breakfast Item', 'Appetizer'}"
+188,Almond Milk Light (m189),{'Beverage'}
+189,Spring Rolls Classic (m190),"{'Salad', 'Appetizer'}"
+190,Mac and Cheese (m191),"{'Appetizer', 'Beverage', 'Side'}"
+191,Baklava (m192),{'Dessert'}
+192,Sweet Potato Fries Mild (m193),{'Side'}
+193,Sliders Classic (m194),"{'Breakfast Item', 'Appetizer'}"
+194,Lemon Tart Classic (m195),{'Dessert'}
+195,Espresso Deluxe (m196),{'Beverage'}
+196,Matcha Latte Premium (m197),"{'Soup', 'Beverage'}"
+197,Tomato Soup Mild (m198),{'Soup'}
+198,Iced Tea (m199),{'Beverage'}
+199,Beef Tacos Classic (m200),"{'Main Course', 'Breakfast Item', 'Beverage'}"
+200,Arugula Salad Classic (m201),"{'Salad', 'Dessert'}"
+201,Scrambled Eggs Special (m202),{'Breakfast Item'}
+202,Broccoli Cheddar Soup Mild (m203),"{'Main Course', 'Soup'}"
+203,Cola Deluxe (m204),"{'Beverage', 'Appetizer'}"
+204,Cola Mild (m205),{'Beverage'}
+205,Key Lime Pie Spicy (m206),"{'Appetizer', 'Dessert'}"
+206,Pepsi Classic (m207),{'Beverage'}
+207,Stuffed Mushrooms Premium (m208),"{'Side', 'Appetizer'}"
+208,Chocolate Cake Spicy (m209),"{'Breakfast Item', 'Dessert'}"
+209,Oatmeal Special (m210),{'Breakfast Item'}
+210,Fruit Smoothie Bowl Deluxe (m211),{'Breakfast Item'}
+211,Cobb Salad Deluxe (m212),{'Salad'}
+212,Vegetable Stir Fry Spicy (m213),{'Main Course'}
+213,Spinach Artichoke Dip Premium (m214),{'Appetizer'}
+214,Chicken Shawarma Spicy (m215),"{'Side', 'Main Course', 'Dessert'}"
+215,Coleslaw Deluxe (m216),"{'Beverage', 'Side'}"
+216,Biscuits and Gravy Classic (m217),{'Breakfast Item'}
+217,Bagel Classic (m218),{'Breakfast Item'}
+218,Falafel Wrap Spicy (m219),{'Main Course'}
+219,Fish Tacos (m220),{'Main Course'}
+220,Coffee Deluxe (m221),{'Beverage'}
+221,English Muffin Special (m222),{'Breakfast Item'}
+222,French Fries (m223),{'Side'}
+223,Roasted Vegetables Special (m224),"{'Beverage', 'Side'}"
+224,Grilled Zucchini Deluxe (m225),{'Side'}
+225,Kale Salad Light (m226),"{'Salad', 'Dessert'}"
+226,Sushi Roll Deluxe (m227),{'Main Course'}
+227,Creamed Spinach Classic (m228),{'Side'}
+228,Roasted Vegetables Light (m229),{'Side'}
+229,Cobb Salad (m230),"{'Salad', 'Side'}"
+230,Mashed Potatoes Premium (m231),{'Side'}
+231,Spring Rolls Special (m232),"{'Salad', 'Appetizer'}"
+232,Mango Juice Spicy (m233),"{'Breakfast Item', 'Beverage', 'Side'}"
+233,Potato Salad Deluxe (m234),"{'Salad', 'Breakfast Item'}"
+234,Pork Fried Rice Light (m235),"{'Main Course', 'Appetizer'}"
+235,Chef Salad Premium (m236),{'Salad'}
+236,Breakfast Tacos Premium (m237),"{'Soup', 'Salad', 'Breakfast Item'}"
+237,Buffalo Wings Special (m238),{'Appetizer'}
+238,Quiche Premium (m239),"{'Main Course', 'Breakfast Item'}"
+239,Bacon Premium (m240),"{'Breakfast Item', 'Beverage'}"
+240,Grilled Zucchini Classic (m241),"{'Appetizer', 'Side'}"
+241,Coffee Spicy (m242),"{'Beverage', 'Appetizer'}"
+242,Scone Spicy (m243),{'Breakfast Item'}
+243,Ice Cream Spicy (m244),{'Dessert'}
+244,Quiche (m245),"{'Soup', 'Breakfast Item', 'Appetizer'}"
+245,Banana Split Deluxe (m246),{'Dessert'}
+246,Roasted Vegetables Special (m247),"{'Appetizer', 'Side'}"
+247,Chicken Fried Rice Premium (m248),"{'Main Course', 'Beverage'}"
+248,Grape Juice Deluxe (m249),"{'Soup', 'Beverage', 'Appetizer'}"
+249,Pad Thai Light (m250),{'Main Course'}
+250,Croissant Spicy (m251),{'Breakfast Item'}
+251,Ice Cream Deluxe (m252),"{'Soup', 'Dessert'}"
+252,Pad Thai Spicy (m253),{'Main Course'}
+253,Pepsi (m254),"{'Beverage', 'Appetizer'}"
+254,Pork Tenderloin Premium (m255),"{'Main Course', 'Breakfast Item'}"
+255,Oysters Classic (m256),"{'Side', 'Appetizer'}"
+256,Grape Juice Premium (m257),{'Beverage'}
+257,Water Mild (m258),{'Beverage'}
+258,Deviled Eggs Mild (m259),"{'Soup', 'Breakfast Item', 'Appetizer'}"
+259,Taco Salad Premium (m260),{'Salad'}
+260,Goat Cheese Crostini Mild (m261),{'Appetizer'}
+261,Calamari Deluxe (m262),"{'Salad', 'Beverage', 'Appetizer'}"
+262,Clams Casino Mild (m263),"{'Soup', 'Beverage', 'Appetizer'}"
+263,Chicken Parmesan Classic (m264),"{'Main Course', 'Dessert'}"
+264,Hash Browns Premium (m265),"{'Soup', 'Side'}"
+265,Waldorf Salad Classic (m266),{'Salad'}
+266,Chicken Wings Spicy (m267),{'Main Course'}
+267,Grilled Zucchini Special (m268),"{'Dessert', 'Side'}"
+268,Lobster Bisque Deluxe (m269),"{'Soup', 'Dessert'}"
+269,Parfait Deluxe (m270),"{'Breakfast Item', 'Dessert'}"
+270,Cheesecake Light (m271),{'Dessert'}
+271,Shrimp Scampi Mild (m272),{'Main Course'}
+272,Waffles Mild (m273),{'Breakfast Item'}
+273,Minestrone Premium (m274),"{'Side', 'Soup', 'Appetizer'}"
+274,Sprite Spicy (m275),"{'Soup', 'Beverage'}"
+275,Banana Smoothie Mild (m276),{'Beverage'}
+276,Hot Tea Spicy (m277),"{'Beverage', 'Dessert', 'Side'}"
+277,Strawberry Shortcake Deluxe (m278),{'Dessert'}
+278,Banana Split Premium (m279),{'Dessert'}
+279,Cucumber Salad Mild (m280),"{'Salad', 'Breakfast Item'}"
+280,Beef Burrito Classic (m281),"{'Main Course', 'Dessert'}"
+281,Shrimp Cocktail Deluxe (m282),"{'Salad', 'Appetizer'}"
+282,Grilled Eggplant Classic (m283),"{'Salad', 'Beverage', 'Side'}"
+283,Cinnamon Roll Mild (m284),{'Breakfast Item'}
+284,Mocha Classic (m285),"{'Main Course', 'Soup', 'Beverage'}"
+285,Fish Tacos Classic (m286),{'Main Course'}
+286,French Onion Soup Deluxe (m287),{'Soup'}
+287,Mushroom Soup Classic (m288),{'Soup'}
+288,Split Pea Soup Light (m289),{'Soup'}
+289,Churros Deluxe (m290),"{'Side', 'Salad', 'Dessert'}"
+290,French Fries Special (m291),"{'Salad', 'Side'}"
+291,Macarons Special (m292),{'Dessert'}
+292,Strawberry Smoothie (m293),{'Beverage'}
+293,Americano Special (m294),"{'Salad', 'Beverage'}"
+294,Strawberry Shortcake (m295),{'Dessert'}
+295,Stuffed Peppers Premium (m296),"{'Side', 'Appetizer'}"
+296,Egg Salad (m297),{'Salad'}
+297,Oatmeal (m298),"{'Breakfast Item', 'Beverage'}"
+298,Tomato Juice (m299),{'Beverage'}
+299,Mozzarella Sticks Deluxe (m300),"{'Side', 'Appetizer'}"
+300,Pineapple Juice Spicy (m301),"{'Beverage', 'Dessert'}"
+301,Key Lime Pie Light (m302),{'Dessert'}
+302,Couscous Deluxe (m303),{'Side'}
+303,Cucumber Salad Premium (m304),{'Salad'}
+304,Lamb Chops Premium (m305),"{'Main Course', 'Salad'}"
+305,Hash Browns Special (m306),{'Breakfast Item'}
+306,Edamame Premium (m307),"{'Breakfast Item', 'Beverage', 'Appetizer'}"
+307,Oysters Premium (m308),"{'Salad', 'Appetizer'}"
+308,Breakfast Potatoes Special (m309),{'Breakfast Item'}
+309,Baked Potato Classic (m310),{'Side'}
+310,Onion Rings (m311),{'Side'}
+311,Mango Juice (m312),"{'Breakfast Item', 'Beverage', 'Dessert'}"
+312,Mediterranean Salad (m313),{'Salad'}
+313,Tomato Soup Light (m314),"{'Salad', 'Soup', 'Appetizer'}"
+314,Broccoli Cheddar Soup Spicy (m315),"{'Soup', 'Breakfast Item'}"
+315,Cheesecake (m316),"{'Breakfast Item', 'Dessert'}"
+316,Baked Potato Light (m317),"{'Breakfast Item', 'Side'}"
+317,Americano Mild (m318),{'Beverage'}
+318,Donut Mild (m319),"{'Salad', 'Dessert'}"
+319,Cranberry Juice Spicy (m320),"{'Main Course', 'Salad', 'Beverage'}"
+320,Nicoise Salad Spicy (m321),{'Salad'}
+321,Fried Pickles Special (m322),{'Appetizer'}
+322,Corn Chowder Deluxe (m323),{'Soup'}
+323,Spinach Salad Classic (m324),"{'Salad', 'Beverage'}"
+324,Green Beans (m325),"{'Salad', 'Soup', 'Side'}"
+325,Burger Spicy (m326),{'Main Course'}
+326,Goat Cheese Crostini Light (m327),{'Appetizer'}
+327,Chicken Fried Rice Classic (m328),{'Main Course'}
+328,Arugula Salad Mild (m329),{'Salad'}
+329,Tres Leches Cake Special (m330),"{'Soup', 'Dessert'}"
+330,Cheese Platter Light (m331),"{'Dessert', 'Appetizer'}"
+331,Chicken Noodle Soup Light (m332),{'Soup'}
+332,Caprese Salad Spicy (m333),"{'Side', 'Breakfast Item', 'Appetizer'}"
+333,Mushroom Soup Light (m334),"{'Salad', 'Soup'}"
+334,Toast Special (m335),{'Breakfast Item'}
+335,Coleslaw Spicy (m336),"{'Salad', 'Beverage', 'Side'}"
+336,Cappuccino Light (m337),"{'Beverage', 'Appetizer'}"
+337,Butternut Squash Soup Light (m338),{'Soup'}
+338,Fruit Punch Premium (m339),"{'Soup', 'Beverage'}"
+339,Ice Cream (m340),{'Dessert'}
+340,Breakfast Tacos Mild (m341),{'Breakfast Item'}
+341,Prosciutto Melon Spicy (m342),"{'Beverage', 'Appetizer'}"
+342,Greek Salad Deluxe (m343),"{'Salad', 'Appetizer'}"
+343,Oysters Deluxe (m344),"{'Main Course', 'Appetizer'}"
+344,Baklava Special (m345),{'Dessert'}
+345,Chicken Tortilla Soup Mild (m346),{'Soup'}
+346,Spinach Artichoke Dip Special (m347),"{'Side', 'Appetizer'}"
+347,Pork Fried Rice (m348),"{'Appetizer', 'Main Course', 'Dessert'}"
+348,Lemon Tart (m349),"{'Salad', 'Dessert'}"
+349,Almond Milk Mild (m350),"{'Beverage', 'Appetizer'}"
+350,Meatball Sub Mild (m351),{'Main Course'}
+351,Asian Salad Classic (m352),"{'Salad', 'Breakfast Item'}"
+352,English Muffin (m353),"{'Salad', 'Breakfast Item'}"
+353,Mediterranean Salad Classic (m354),"{'Salad', 'Soup'}"
+354,Ice Cream Premium (m355),"{'Appetizer', 'Main Course', 'Dessert'}"
+355,Cola Mild (m356),{'Beverage'}
+356,Vegetable Curry Deluxe (m357),"{'Main Course', 'Beverage'}"
+357,Kale Salad (m358),"{'Salad', 'Beverage', 'Main Course'}"
+358,Clam Chowder Premium (m359),"{'Soup', 'Side'}"
+359,Bacon Special (m360),"{'Breakfast Item', 'Appetizer'}"
+360,Fried Rice Mild (m361),{'Side'}
+361,Sweet Potato Fries Deluxe (m362),{'Side'}
+362,Chicken Souvlaki Light (m363),"{'Main Course', 'Soup'}"
+363,Mocha Special (m364),"{'Salad', 'Beverage', 'Side'}"
+364,Chef Salad Mild (m365),"{'Salad', 'Main Course'}"
+365,Mousse Spicy (m366),{'Dessert'}
+366,Iced Tea Spicy (m367),"{'Main Course', 'Soup', 'Beverage'}"
+367,Sorbet Premium (m368),"{'Soup', 'Dessert'}"
+368,Chicken Salad Light (m369),{'Salad'}
+369,Yams Deluxe (m370),{'Side'}
+370,Herbal Tea Light (m371),{'Beverage'}
+371,Cobb Salad (m372),{'Salad'}
+372,Potato Skins Mild (m373),{'Appetizer'}
+373,Pho (m374),"{'Soup', 'Dessert', 'Side'}"
+374,Bagel Mild (m375),{'Breakfast Item'}
+375,Soy Milk Deluxe (m376),"{'Beverage', 'Dessert'}"
+376,Pancakes Light (m377),"{'Salad', 'Breakfast Item', 'Beverage'}"
+377,Potato Skins Premium (m378),"{'Beverage', 'Appetizer'}"
+378,Chef Salad Special (m379),"{'Salad', 'Breakfast Item', 'Beverage'}"
+379,Bean Soup Light (m380),{'Soup'}
+380,Sushi Roll (m381),"{'Main Course', 'Soup', 'Beverage'}"
+381,Toast (m382),"{'Salad', 'Breakfast Item'}"
+382,Ice Cream Classic (m383),"{'Beverage', 'Dessert'}"
+383,Cobbler Light (m384),{'Dessert'}
+384,Taco Salad Special (m385),"{'Salad', 'Side'}"
+385,Split Pea Soup Premium (m386),"{'Soup', 'Breakfast Item', 'Appetizer'}"
+386,Steamed Vegetables Premium (m387),"{'Appetizer', 'Soup', 'Side'}"
+387,Soy Milk Mild (m388),{'Beverage'}
+388,Gelato Special (m389),"{'Salad', 'Main Course', 'Dessert'}"
+389,Mozzarella Sticks (m390),"{'Breakfast Item', 'Dessert', 'Appetizer'}"
+390,Hash Browns Light (m391),{'Breakfast Item'}
+391,Rice Pilaf (m392),"{'Beverage', 'Side'}"
+392,Cappuccino Mild (m393),"{'Beverage', 'Appetizer'}"
+393,Split Pea Soup Deluxe (m394),"{'Main Course', 'Soup'}"
+394,BBQ Chicken (m395),"{'Main Course', 'Salad', 'Dessert'}"
+395,Grilled Chicken Classic (m396),"{'Main Course', 'Salad'}"
+396,Cinnamon Roll (m397),{'Breakfast Item'}
+397,Waldorf Salad Classic (m398),{'Salad'}
+398,Wild Rice Mild (m399),"{'Beverage', 'Side'}"
+399,French Fries Light (m400),"{'Appetizer', 'Dessert', 'Side'}"
+400,Soy Milk Spicy (m401),"{'Soup', 'Beverage', 'Dessert'}"
+401,Meatball Sub Spicy (m402),"{'Main Course', 'Breakfast Item'}"
+402,Tuna Salad Deluxe (m403),"{'Salad', 'Appetizer'}"
+403,Potato Salad Spicy (m404),"{'Salad', 'Beverage'}"
+404,Beef Tacos Special (m405),{'Main Course'}
+405,Scone Light (m406),"{'Breakfast Item', 'Beverage'}"
+406,Iced Coffee Deluxe (m407),{'Beverage'}
+407,Shrimp Cocktail Classic (m408),{'Appetizer'}
+408,Breakfast Tacos Premium (m409),"{'Appetizer', 'Breakfast Item', 'Side'}"
+409,Corn Chowder Light (m410),"{'Soup', 'Appetizer'}"
+410,Split Pea Soup Spicy (m411),"{'Soup', 'Beverage'}"
+411,Crab Cakes Spicy (m412),"{'Salad', 'Appetizer'}"
+412,Baked Potato Special (m413),"{'Dessert', 'Side'}"
+413,Corn Chowder Special (m414),{'Soup'}
+414,Ginger Ale Deluxe (m415),{'Beverage'}
+415,Beef Kebab Deluxe (m416),"{'Main Course', 'Breakfast Item'}"
+416,Roasted Carrots Light (m417),{'Side'}
+417,Lasagna Spicy (m418),"{'Main Course', 'Soup'}"
+418,Green Beans Light (m419),"{'Main Course', 'Side'}"
+419,Chicken Tortilla Soup Special (m420),{'Soup'}
+420,Chicken Skewers Deluxe (m421),"{'Beverage', 'Appetizer'}"
+421,Fried Rice Special (m422),{'Side'}
+422,Broccoli Cheddar Soup Light (m423),{'Soup'}
+423,Waffles (m424),{'Breakfast Item'}
+424,Brownies Mild (m425),{'Dessert'}
+425,Mushroom Soup Premium (m426),{'Soup'}
+426,Orange Juice (m427),{'Beverage'}
+427,Edamame Classic (m428),"{'Salad', 'Soup', 'Side'}"
+428,Baked Beans (m429),{'Side'}
+429,Oat Milk Classic (m430),"{'Beverage', 'Appetizer'}"
+430,Dumplings Spicy (m431),{'Appetizer'}
+431,Chef Salad Classic (m432),"{'Salad', 'Breakfast Item', 'Main Course'}"
+432,Gazpacho Light (m433),"{'Soup', 'Breakfast Item'}"
+433,Chicken Souvlaki Premium (m434),"{'Main Course', 'Side'}"
+434,Soy Milk Spicy (m435),"{'Salad', 'Beverage'}"
+435,Brussels Sprouts Spicy (m436),{'Side'}
+436,French Toast (m437),"{'Soup', 'Breakfast Item', 'Appetizer'}"
+437,Polenta Light (m438),{'Side'}
+438,Nicoise Salad Light (m439),"{'Salad', 'Soup', 'Side'}"
+439,Coleslaw Light (m440),"{'Salad', 'Appetizer'}"
+440,Brownies Mild (m441),"{'Breakfast Item', 'Dessert'}"
+441,Pineapple Juice Mild (m442),"{'Breakfast Item', 'Beverage', 'Dessert'}"
+442,Chicken Teriyaki Deluxe (m443),{'Main Course'}
+443,Mozzarella Sticks Deluxe (m444),"{'Soup', 'Appetizer'}"
+444,Raspberry Lemonade (m445),"{'Breakfast Item', 'Beverage'}"
+445,Roasted Carrots Spicy (m446),"{'Beverage', 'Dessert', 'Side'}"
+446,Cappuccino Deluxe (m447),{'Beverage'}
+447,Tres Leches Cake Light (m448),"{'Side', 'Dessert'}"
+448,Beef Kebab Classic (m449),{'Main Course'}
+449,Green Beans Deluxe (m450),"{'Breakfast Item', 'Dessert', 'Side'}"
+450,Breakfast Sandwich Classic (m451),"{'Breakfast Item', 'Appetizer'}"
+451,Salmon Fillet Spicy (m452),{'Main Course'}
+452,Cereal Spicy (m453),{'Breakfast Item'}
+453,Bruschetta Spicy (m454),{'Appetizer'}
+454,Edamame Mild (m455),{'Appetizer'}
+455,Pho Deluxe (m456),"{'Soup', 'Breakfast Item', 'Beverage'}"
+456,Fruit Smoothie Bowl Mild (m457),{'Breakfast Item'}
+457,Carrot Ginger Soup Light (m458),"{'Soup', 'Beverage', 'Appetizer'}"
+458,Samosas Light (m459),"{'Main Course', 'Appetizer'}"
+459,Mousse Light (m460),"{'Breakfast Item', 'Dessert'}"
+460,Chocolate Mousse Special (m461),{'Dessert'}
+461,Chicken Teriyaki Deluxe (m462),{'Main Course'}
+462,Burger Light (m463),{'Main Course'}
+463,Beef Stroganoff Mild (m464),"{'Main Course', 'Dessert'}"
+464,Cookies Mild (m465),{'Dessert'}
+465,Mediterranean Salad Special (m466),"{'Salad', 'Breakfast Item'}"
+466,Cobbler (m467),"{'Main Course', 'Dessert'}"
+467,Tiramisu (m468),"{'Main Course', 'Dessert'}"
+468,Danish Spicy (m469),"{'Breakfast Item', 'Side'}"
+469,Cobb Salad Light (m470),"{'Salad', 'Appetizer'}"
+470,Minestrone Premium (m471),{'Soup'}
+471,Broccoli Cheddar Soup Spicy (m472),"{'Salad', 'Soup'}"
+472,Gazpacho Deluxe (m473),"{'Soup', 'Dessert'}"
+473,Arugula Salad Special (m474),{'Salad'}
+474,Taco Salad Classic (m475),"{'Side', 'Salad', 'Appetizer'}"
+475,Sprite Mild (m476),"{'Soup', 'Beverage'}"
+476,Iced Coffee (m477),"{'Soup', 'Beverage', 'Side'}"
+477,Hot and Sour Soup Mild (m478),"{'Soup', 'Beverage', 'Side'}"
+478,French Onion Soup Special (m479),"{'Soup', 'Dessert'}"
+479,Pancakes Premium (m480),"{'Main Course', 'Breakfast Item'}"
+480,Chocolate Mousse (m481),{'Dessert'}
+481,Bruschetta (m482),"{'Salad', 'Appetizer'}"
+482,Croissant Classic (m483),{'Breakfast Item'}
+483,Steak Fajitas Deluxe (m484),"{'Main Course', 'Side'}"
+484,Beef Kebab Classic (m485),{'Main Course'}
+485,Roasted Vegetables Light (m486),"{'Soup', 'Side'}"
+486,Green Beans Spicy (m487),"{'Salad', 'Side'}"
+487,Crème Brûlée Classic (m488),"{'Salad', 'Dessert'}"
+488,Lamb Chops Light (m489),"{'Main Course', 'Side'}"
+489,Greek Salad Light (m490),"{'Salad', 'Appetizer'}"
+490,French Toast Classic (m491),"{'Soup', 'Breakfast Item'}"
+491,Panna Cotta Premium (m492),"{'Main Course', 'Dessert'}"
+492,Cookies Spicy (m493),"{'Appetizer', 'Dessert'}"
+493,Chicken Tortilla Soup Classic (m494),{'Soup'}
+494,Lobster Bisque Mild (m495),"{'Main Course', 'Soup'}"
+495,Tomato Soup Special (m496),"{'Main Course', 'Soup'}"
+496,Pho Mild (m497),"{'Soup', 'Dessert'}"
+497,Muffin (m498),"{'Breakfast Item', 'Beverage'}"
+498,Miso Soup Premium (m499),{'Soup'}
+499,Garden Salad Mild (m500),"{'Salad', 'Soup'}"
+500,Corn on the Cob Special (m501),"{'Soup', 'Side'}"
+501,Buffalo Wings (m502),"{'Side', 'Appetizer'}"
+502,Waffles Deluxe (m503),{'Breakfast Item'}
+503,Falafel Wrap Spicy (m504),"{'Main Course', 'Appetizer'}"
+504,Greek Salad Special (m505),{'Salad'}
+505,Baklava Light (m506),{'Dessert'}
+506,Clams Casino Light (m507),{'Appetizer'}
+507,Sprite Premium (m508),{'Beverage'}
+508,Sprite Spicy (m509),"{'Main Course', 'Beverage'}"
+509,Cauliflower Mash Spicy (m510),{'Side'}
+510,Vegetable Curry Special (m511),{'Main Course'}
+511,Asian Salad Premium (m512),"{'Salad', 'Side'}"
+512,Crepes Mild (m513),{'Breakfast Item'}
+513,Dumplings Light (m514),{'Appetizer'}
+514,Chicken Shawarma Mild (m515),{'Main Course'}
+515,Fruit Tart Classic (m516),"{'Side', 'Dessert'}"
+516,Grilled Salmon Deluxe (m517),{'Main Course'}
+517,Cupcakes Premium (m518),"{'Appetizer', 'Side', 'Dessert'}"
+518,Avocado Toast Deluxe (m519),{'Breakfast Item'}
+519,Pizza Margherita Spicy (m520),{'Main Course'}
+520,Waffles Spicy (m521),"{'Soup', 'Salad', 'Breakfast Item'}"
+521,Grilled Eggplant Spicy (m522),{'Side'}
+522,Crab Cakes (m523),{'Appetizer'}
+523,Panna Cotta Light (m524),"{'Appetizer', 'Dessert'}"
+524,Scrambled Eggs Premium (m525),{'Breakfast Item'}
+525,Pasta Salad Light (m526),{'Salad'}
+526,Smoothie Premium (m527),"{'Soup', 'Beverage', 'Side'}"
+527,Steak Fajitas Light (m528),"{'Main Course', 'Salad'}"
+528,Muffin Spicy (m529),{'Breakfast Item'}
+529,Butternut Squash Soup (m530),"{'Soup', 'Side'}"
+530,Banana Split Classic (m531),"{'Salad', 'Dessert'}"
+531,Lentil Soup Special (m532),{'Soup'}
+532,Ice Cream Classic (m533),"{'Appetizer', 'Soup', 'Dessert'}"
+533,Strawberry Smoothie (m534),"{'Salad', 'Beverage', 'Appetizer'}"
+534,Banana Split Premium (m535),"{'Salad', 'Beverage', 'Dessert'}"
+535,Danish Mild (m536),{'Breakfast Item'}
+536,Clam Chowder Classic (m537),"{'Main Course', 'Soup', 'Salad'}"
+537,Yams Mild (m538),"{'Appetizer', 'Side'}"
+538,Broccoli Cheddar Soup Spicy (m539),"{'Main Course', 'Soup', 'Breakfast Item'}"
+539,Oat Milk Classic (m540),"{'Beverage', 'Dessert'}"
+540,Pasta Salad Spicy (m541),"{'Salad', 'Breakfast Item', 'Appetizer'}"
+541,Clams Casino (m542),"{'Main Course', 'Beverage', 'Appetizer'}"
+542,Lasagna Spicy (m543),"{'Main Course', 'Salad'}"
+543,Stuffed Mushrooms Special (m544),"{'Dessert', 'Appetizer'}"
+544,Butternut Squash Soup Classic (m545),{'Soup'}
+545,Gelato Light (m546),"{'Breakfast Item', 'Dessert'}"
+546,Crab Cakes Special (m547),"{'Breakfast Item', 'Appetizer'}"
+547,Coffee Spicy (m548),{'Beverage'}
+548,Vanilla Latte Classic (m549),"{'Salad', 'Beverage', 'Dessert'}"
+549,Caprese Salad Spicy (m550),"{'Salad', 'Main Course'}"
+550,Butternut Squash Soup Light (m551),"{'Soup', 'Dessert'}"
+551,Beef Kebab Mild (m552),{'Main Course'}
+552,Sweet Potato Fries Deluxe (m553),"{'Salad', 'Side'}"
+553,Rice Pilaf Deluxe (m554),{'Side'}
+554,Bean Soup (m555),{'Soup'}
+555,Beet Salad Light (m556),"{'Salad', 'Breakfast Item'}"
+556,Matcha Latte Classic (m557),{'Beverage'}
+557,Carrot Cake Spicy (m558),{'Dessert'}
+558,Cupcakes Light (m559),"{'Salad', 'Breakfast Item', 'Dessert'}"
+559,Kale Salad Premium (m560),"{'Salad', 'Dessert'}"
+560,Buffalo Wings (m561),{'Appetizer'}
+561,Crème Brûlée Classic (m562),"{'Main Course', 'Soup', 'Dessert'}"
+562,Bacon Wrapped Dates Classic (m563),"{'Salad', 'Appetizer'}"
+563,Breakfast Potatoes Deluxe (m564),"{'Breakfast Item', 'Beverage'}"
+564,Cheesecake Deluxe (m565),{'Dessert'}
+565,Espresso Special (m566),"{'Beverage', 'Side'}"
+566,Lasagna Special (m567),"{'Main Course', 'Dessert'}"
+567,Pumpkin Soup Special (m568),"{'Main Course', 'Soup', 'Appetizer'}"
+568,Crab Cakes Light (m569),{'Appetizer'}
+569,Salmon Fillet (m570),{'Main Course'}
+570,Caprese Salad Light (m571),{'Salad'}
+571,Omelet Premium (m572),"{'Main Course', 'Breakfast Item', 'Salad'}"
+572,Tiramisu Light (m573),{'Dessert'}
+573,Crepes Premium (m574),{'Breakfast Item'}
+574,Cranberry Juice Classic (m575),"{'Salad', 'Beverage'}"
+575,Butternut Squash Soup Spicy (m576),{'Soup'}
+576,Fish Tacos Mild (m577),"{'Main Course', 'Beverage'}"
+577,Vegetable Curry Mild (m578),{'Main Course'}
+578,Crème Brûlée (m579),{'Dessert'}
+579,Lentil Soup Special (m580),"{'Soup', 'Beverage', 'Dessert'}"
+580,Hot and Sour Soup Spicy (m581),"{'Soup', 'Breakfast Item'}"
+581,Buffalo Wings Special (m582),{'Appetizer'}
+582,Salmon Teriyaki (m583),{'Main Course'}
+583,Coffee Deluxe (m584),"{'Main Course', 'Beverage'}"
+584,Soy Milk Deluxe (m585),{'Beverage'}
+585,Cobb Salad Deluxe (m586),"{'Salad', 'Soup', 'Appetizer'}"
+586,Apple Juice Deluxe (m587),{'Beverage'}
+587,Mashed Potatoes Classic (m588),"{'Appetizer', 'Side'}"
+588,French Onion Soup Special (m589),{'Soup'}
+589,Lobster Bisque Deluxe (m590),{'Soup'}
+590,Chicken Alfredo Premium (m591),"{'Main Course', 'Salad', 'Beverage'}"
+591,Banana Smoothie Premium (m592),{'Beverage'}
+592,Almond Milk Light (m593),"{'Salad', 'Beverage', 'Dessert'}"
+593,Ramen Special (m594),"{'Soup', 'Breakfast Item', 'Appetizer'}"
+594,Polenta Premium (m595),{'Side'}
+595,Corn Chowder Classic (m596),{'Soup'}
+596,Beef Stroganoff Deluxe (m597),"{'Main Course', 'Salad'}"
+597,Yogurt Spicy (m598),{'Breakfast Item'}
+598,Green Beans Premium (m599),{'Side'}
+599,Potato Salad Spicy (m600),{'Salad'}
+600,Stuffing Deluxe (m601),{'Side'}
+601,Sautéed Mushrooms Special (m602),"{'Soup', 'Side'}"
+602,Mushroom Soup Light (m603),"{'Main Course', 'Soup', 'Salad'}"
+603,Fruit Bowl Light (m604),"{'Soup', 'Salad', 'Breakfast Item'}"
+604,Donut (m605),"{'Soup', 'Breakfast Item', 'Dessert'}"
+605,Chicken Teriyaki (m606),"{'Main Course', 'Beverage'}"
+606,Pasta Salad Light (m607),{'Salad'}
+607,Buffalo Wings Classic (m608),"{'Dessert', 'Appetizer'}"
+608,Grape Juice Spicy (m609),"{'Breakfast Item', 'Beverage'}"
+609,Edamame Premium (m610),"{'Salad', 'Soup', 'Appetizer'}"
+610,Americano (m611),"{'Main Course', 'Beverage'}"
+611,Bagel Mild (m612),{'Breakfast Item'}
+612,Chocolate Mousse Premium (m613),"{'Main Course', 'Dessert'}"
+613,Chicken Tortilla Soup Mild (m614),{'Soup'}
+614,Garlic Bread Classic (m615),{'Side'}
+615,Cereal Special (m616),"{'Soup', 'Breakfast Item'}"
+616,Pork Fried Rice Premium (m617),"{'Main Course', 'Beverage'}"
+617,Chicken Souvlaki Spicy (m618),{'Main Course'}
+618,Crème Brûlée Special (m619),{'Dessert'}
+619,Lasagna Mild (m620),"{'Main Course', 'Beverage'}"
+620,Potato Leek Soup Mild (m621),"{'Main Course', 'Soup', 'Salad'}"
+621,Scone (m622),{'Breakfast Item'}
+622,Lamb Chops (m623),{'Main Course'}
+623,Red Velvet Cake Spicy (m624),"{'Soup', 'Dessert'}"
+624,French Onion Soup Mild (m625),"{'Soup', 'Beverage'}"
+625,Potato Salad Special (m626),{'Side'}
+626,Brussels Sprouts Light (m627),{'Side'}
+627,Breakfast Burrito Spicy (m628),"{'Breakfast Item', 'Appetizer'}"
+628,Strawberry Shortcake Mild (m629),{'Dessert'}
+629,Fish Curry Light (m630),"{'Main Course', 'Salad'}"
+630,Fish Tacos Classic (m631),{'Main Course'}
+631,Donut Spicy (m632),{'Dessert'}
+632,Vanilla Latte Spicy (m633),{'Beverage'}
+633,Crème Brûlée Premium (m634),"{'Soup', 'Dessert'}"
+634,Prosciutto Melon Classic (m635),"{'Salad', 'Soup', 'Appetizer'}"
+635,Iced Coffee Light (m636),"{'Salad', 'Beverage', 'Main Course'}"
+636,Bacon Deluxe (m637),{'Breakfast Item'}
+637,Falafel Wrap Mild (m638),{'Main Course'}
+638,Potato Leek Soup Special (m639),{'Soup'}
+639,Rice Pudding Mild (m640),"{'Beverage', 'Dessert'}"
+640,Biscuits and Gravy (m641),"{'Salad', 'Breakfast Item'}"
+641,French Fries (m642),"{'Breakfast Item', 'Side'}"
+642,Shrimp Cocktail Special (m643),"{'Side', 'Appetizer'}"
+643,Egg Salad Classic (m644),"{'Salad', 'Appetizer'}"
+644,Grilled Salmon Deluxe (m645),{'Main Course'}
+645,Sautéed Mushrooms Mild (m646),{'Side'}
+646,Fruit Salad Deluxe (m647),"{'Salad', 'Soup', 'Dessert'}"
+647,Sausage Mild (m648),"{'Breakfast Item', 'Beverage'}"
+648,Beef Stew Special (m649),{'Main Course'}
+649,Scrambled Eggs Light (m650),"{'Breakfast Item', 'Appetizer'}"
+650,Herbal Tea Premium (m651),{'Beverage'}
+651,French Toast Deluxe (m652),"{'Breakfast Item', 'Appetizer'}"
+652,Taco Salad Classic (m653),{'Salad'}
+653,Sautéed Mushrooms Mild (m654),{'Side'}
+654,French Fries (m655),"{'Appetizer', 'Side'}"
+655,Quiche Deluxe (m656),"{'Breakfast Item', 'Dessert'}"
+656,Americano (m657),"{'Salad', 'Beverage'}"
+657,Quiche Mild (m658),"{'Breakfast Item', 'Side'}"
+658,Lamb Kebab Premium (m659),{'Main Course'}
+659,Nicoise Salad Premium (m660),{'Salad'}
+660,Chef Salad Spicy (m661),"{'Salad', 'Appetizer'}"
+661,Mediterranean Salad Premium (m662),{'Salad'}
+662,Chicken Rice Soup Spicy (m663),"{'Salad', 'Soup'}"
+663,Baklava Spicy (m664),{'Dessert'}
+664,Cucumber Salad Spicy (m665),"{'Salad', 'Dessert'}"
+665,Polenta Deluxe (m666),{'Side'}
+666,Ramen Classic (m667),{'Soup'}
+667,Espresso Mild (m668),{'Beverage'}
+668,Samosas Special (m669),{'Appetizer'}
+669,Beet Salad Premium (m670),{'Salad'}
+670,Prosciutto Melon Special (m671),{'Appetizer'}
+671,Waldorf Salad Special (m672),{'Salad'}
+672,Baked Potato Mild (m673),{'Side'}
+673,Grilled Chicken Deluxe (m674),"{'Main Course', 'Appetizer'}"
+674,Vegetable Stir Fry Classic (m675),"{'Main Course', 'Salad'}"
+675,Couscous (m676),{'Side'}
+676,Salmon Teriyaki Spicy (m677),"{'Main Course', 'Appetizer'}"
+677,Calamari (m678),{'Appetizer'}
+678,Croissant Deluxe (m679),"{'Salad', 'Breakfast Item'}"
+679,Breakfast Burrito Special (m680),{'Breakfast Item'}
+680,Lentil Soup Deluxe (m681),"{'Soup', 'Dessert'}"
+681,Pudding Light (m682),"{'Soup', 'Dessert'}"
+682,Tomato Juice Mild (m683),{'Beverage'}
+683,Toast Mild (m684),"{'Breakfast Item', 'Dessert'}"
+684,Spring Rolls Premium (m685),"{'Main Course', 'Dessert', 'Appetizer'}"
+685,Beef Stew (m686),{'Main Course'}
+686,Chicken Curry Deluxe (m687),"{'Main Course', 'Beverage', 'Dessert'}"
+687,Caprese Salad Deluxe (m688),{'Appetizer'}
+688,Waldorf Salad (m689),{'Salad'}
+689,Yogurt Spicy (m690),{'Breakfast Item'}
+690,Donut Mild (m691),"{'Appetizer', 'Dessert'}"
+691,French Fries Light (m692),{'Side'}
+692,Bread Pudding Premium (m693),"{'Side', 'Dessert'}"
+693,Waldorf Salad Light (m694),"{'Salad', 'Beverage', 'Side'}"
+694,Mashed Potatoes Deluxe (m695),"{'Appetizer', 'Side'}"
+695,Burger Premium (m696),"{'Main Course', 'Salad'}"
+696,Waldorf Salad Spicy (m697),{'Salad'}
+697,Éclair Classic (m698),"{'Side', 'Dessert'}"
+698,Mousse Mild (m699),{'Dessert'}
+699,Vegetable Soup Spicy (m700),{'Soup'}
+700,Hot and Sour Soup Special (m701),"{'Soup', 'Appetizer'}"
+701,Crepes Mild (m702),{'Breakfast Item'}
+702,Cookies Special (m703),"{'Soup', 'Dessert'}"
+703,Macarons Special (m704),"{'Appetizer', 'Beverage', 'Dessert'}"
+704,Burger Deluxe (m705),{'Main Course'}
+705,Corn Chowder Premium (m706),"{'Soup', 'Appetizer'}"
+706,Pork Fried Rice Classic (m707),{'Main Course'}
+707,Potato Salad Mild (m708),"{'Salad', 'Beverage'}"
+708,Beef Stew (m709),"{'Soup', 'Beverage'}"
+709,English Muffin (m710),{'Breakfast Item'}
+710,Prosciutto Melon Special (m711),{'Appetizer'}
+711,Fruit Salad Classic (m712),"{'Salad', 'Beverage', 'Side'}"
+712,Pineapple Juice Premium (m713),{'Beverage'}
+713,Couscous Mild (m714),{'Side'}
+714,Hot and Sour Soup Classic (m715),"{'Main Course', 'Soup', 'Appetizer'}"
+715,Cobb Salad Light (m716),"{'Salad', 'Breakfast Item', 'Beverage'}"
+716,Grilled Chicken Spicy (m717),{'Main Course'}
+717,Peach Tea Deluxe (m718),{'Beverage'}
+718,Fruit Salad Light (m719),"{'Salad', 'Appetizer'}"
+719,Chicken Quesadilla Mild (m720),{'Main Course'}
+720,Bruschetta (m721),{'Appetizer'}
+721,Coleslaw Deluxe (m722),{'Side'}
+722,Potato Leek Soup Premium (m723),"{'Soup', 'Breakfast Item'}"
+723,Panna Cotta Light (m724),"{'Salad', 'Beverage', 'Dessert'}"
+724,French Toast Deluxe (m725),{'Breakfast Item'}
+725,Mediterranean Salad Special (m726),{'Salad'}
+726,Miso Soup Deluxe (m727),{'Soup'}
+727,Fruit Bowl Mild (m728),"{'Breakfast Item', 'Side'}"
+728,Apple Pie Deluxe (m729),{'Dessert'}
+729,Sausage Premium (m730),"{'Salad', 'Breakfast Item', 'Dessert'}"
+730,Split Pea Soup Premium (m731),{'Soup'}
+731,Fruit Punch (m732),"{'Soup', 'Beverage'}"
+732,Oysters Deluxe (m733),"{'Side', 'Salad', 'Appetizer'}"
+733,Waffles Premium (m734),{'Breakfast Item'}
+734,Kale Salad Light (m735),"{'Salad', 'Beverage'}"
+735,Hash Browns Light (m736),"{'Salad', 'Breakfast Item'}"
+736,Potato Salad Spicy (m737),"{'Beverage', 'Side'}"
+737,Crab Cakes (m738),"{'Breakfast Item', 'Beverage', 'Appetizer'}"
+738,Apple Juice Mild (m739),{'Beverage'}
+739,Scrambled Eggs Light (m740),{'Breakfast Item'}
+740,Lobster Bisque Special (m741),{'Soup'}
+741,Potato Skins Premium (m742),{'Appetizer'}
+742,Tomato Soup Premium (m743),{'Soup'}
+743,Butternut Squash Soup Special (m744),{'Soup'}
+744,Roast Turkey Premium (m745),{'Main Course'}
+745,Mediterranean Salad Special (m746),"{'Salad', 'Soup', 'Side'}"
+746,Sausage (m747),{'Breakfast Item'}
+747,Grilled Eggplant Classic (m748),{'Side'}
+748,Greek Salad Classic (m749),{'Salad'}
+749,Chicken Noodle Soup Premium (m750),{'Soup'}
+750,Cinnamon Roll Spicy (m751),"{'Breakfast Item', 'Side'}"
+751,Carrot Ginger Soup Spicy (m752),"{'Salad', 'Soup'}"
+752,Caprese Salad Spicy (m753),"{'Salad', 'Breakfast Item'}"
+753,Spring Rolls Light (m754),"{'Beverage', 'Appetizer'}"
+754,Lamb Chops Special (m755),{'Main Course'}
+755,Herbal Tea Classic (m756),"{'Beverage', 'Appetizer'}"
+756,Pork Schnitzel Premium (m757),{'Main Course'}
+757,French Fries Deluxe (m758),"{'Breakfast Item', 'Side'}"
+758,Potato Skins Deluxe (m759),{'Appetizer'}
+759,Pepsi Mild (m760),{'Beverage'}
+760,French Fries Mild (m761),{'Side'}
+761,Cinnamon Roll Premium (m762),"{'Soup', 'Breakfast Item'}"
+762,Tiramisu Special (m763),"{'Appetizer', 'Dessert'}"
+763,Miso Soup (m764),{'Soup'}
+764,French Onion Soup Spicy (m765),{'Soup'}
+765,Hot Tea Deluxe (m766),{'Beverage'}
+766,Fruit Punch Premium (m767),{'Beverage'}
+767,Polenta (m768),"{'Appetizer', 'Side'}"
+768,French Fries Mild (m769),{'Side'}
+769,Deviled Eggs Mild (m770),{'Appetizer'}
+770,Waldorf Salad Classic (m771),"{'Salad', 'Dessert'}"
+771,Potato Skins Deluxe (m772),"{'Breakfast Item', 'Appetizer'}"
+772,Mango Juice Special (m773),"{'Beverage', 'Appetizer'}"
+773,Baklava Deluxe (m774),"{'Salad', 'Main Course', 'Dessert'}"
+774,Fried Rice Premium (m775),"{'Salad', 'Side'}"
+775,Pepsi Special (m776),{'Beverage'}
+776,Quinoa Salad Spicy (m777),{'Salad'}
+777,Corn on the Cob Classic (m778),"{'Dessert', 'Side'}"
+778,Tomato Soup Classic (m779),"{'Soup', 'Beverage', 'Appetizer'}"
+779,Miso Soup Premium (m780),{'Soup'}
+780,Tuna Salad Classic (m781),{'Salad'}
+781,Orange Juice Special (m782),"{'Salad', 'Beverage', 'Appetizer'}"
+782,Corn Chowder Mild (m783),"{'Soup', 'Dessert'}"
+783,Cinnamon Roll Spicy (m784),{'Breakfast Item'}
+784,Potato Leek Soup Light (m785),"{'Soup', 'Side'}"
+785,Fruit Salad Special (m786),{'Salad'}
+786,Greek Salad Deluxe (m787),{'Salad'}
+787,Goat Cheese Crostini Light (m788),{'Appetizer'}
+788,Couscous Special (m789),"{'Dessert', 'Side'}"
+789,Gazpacho Mild (m790),{'Soup'}
+790,Macarons Mild (m791),{'Dessert'}
+791,Bread Pudding (m792),"{'Salad', 'Dessert'}"
+792,Greek Salad (m793),{'Salad'}
+793,Vegetable Soup Mild (m794),{'Soup'}
+794,Fruit Tart Classic (m795),{'Dessert'}
+795,Stuffed Peppers Light (m796),"{'Side', 'Appetizer'}"
+796,Biscuits and Gravy Spicy (m797),"{'Main Course', 'Breakfast Item'}"
+797,Wild Rice (m798),{'Side'}
+798,Cinnamon Roll Light (m799),"{'Breakfast Item', 'Side'}"
+799,Brussels Sprouts Classic (m800),{'Side'}
+800,Chicken Shawarma Mild (m801),{'Main Course'}
+801,Croissant Deluxe (m802),"{'Breakfast Item', 'Beverage'}"
+802,Potato Leek Soup (m803),{'Soup'}
+803,Vegetable Soup Spicy (m804),"{'Salad', 'Soup', 'Beverage'}"
+804,Coffee Deluxe (m805),"{'Soup', 'Beverage', 'Dessert'}"
+805,Pho Spicy (m806),"{'Soup', 'Beverage'}"
+806,Fish and Chips Deluxe (m807),"{'Main Course', 'Beverage'}"
+807,Stuffing Mild (m808),{'Side'}
+808,Potato Leek Soup Mild (m809),{'Soup'}
+809,Lamb Kebab Spicy (m810),{'Main Course'}
+810,Stuffed Peppers Classic (m811),{'Appetizer'}
+811,Beef Stew Deluxe (m812),{'Main Course'}
+812,Chef Salad Light (m813),{'Salad'}
+813,Clam Chowder (m814),{'Soup'}
+814,Potato Skins (m815),"{'Salad', 'Appetizer'}"
+815,Calamari (m816),"{'Main Course', 'Appetizer'}"
+816,Toast (m817),{'Breakfast Item'}
+817,Shrimp Scampi Spicy (m818),{'Main Course'}
+818,Creamed Spinach Special (m819),{'Side'}
+819,Asparagus Premium (m820),"{'Beverage', 'Dessert', 'Side'}"
+820,Mediterranean Salad Special (m821),{'Salad'}
+821,Grilled Chicken Special (m822),"{'Main Course', 'Beverage'}"
+822,Soy Milk Spicy (m823),{'Beverage'}
+823,Bean Soup Mild (m824),{'Soup'}
+824,Beef Stew Special (m825),{'Soup'}
+825,Breakfast Burrito Deluxe (m826),{'Breakfast Item'}
+826,Cucumber Salad Deluxe (m827),{'Salad'}
+827,Chicken Tortilla Soup Special (m828),{'Soup'}
+828,Éclair Classic (m829),"{'Appetizer', 'Salad', 'Dessert'}"
+829,Strawberry Shortcake Spicy (m830),{'Dessert'}
+830,Meatloaf Spicy (m831),{'Main Course'}
+831,Fruit Smoothie Bowl Deluxe (m832),{'Breakfast Item'}
+832,Buffalo Wings Spicy (m833),"{'Soup', 'Appetizer'}"
+833,Rice Noodles Mild (m834),{'Side'}
+834,Sausage Classic (m835),"{'Soup', 'Salad', 'Breakfast Item'}"
+835,Edamame (m836),{'Side'}
+836,Smoothie Light (m837),"{'Beverage', 'Dessert'}"
+837,Fruit Smoothie Bowl Light (m838),{'Breakfast Item'}
+838,Beef Stew Deluxe (m839),"{'Soup', 'Dessert'}"
+839,Waffles Premium (m840),{'Breakfast Item'}
+840,Couscous Mild (m841),{'Side'}
+841,Arugula Salad (m842),{'Salad'}
+842,Panna Cotta Special (m843),{'Dessert'}
+843,Fish and Chips Special (m844),{'Main Course'}
+844,Spinach Artichoke Dip Mild (m845),{'Appetizer'}
+845,Calamari Classic (m846),"{'Side', 'Appetizer'}"
+846,Pasta Carbonara (m847),"{'Main Course', 'Soup', 'Appetizer'}"
+847,Avocado Toast Spicy (m848),{'Breakfast Item'}
+848,Polenta Light (m849),"{'Main Course', 'Side'}"
+849,Granola Special (m850),"{'Salad', 'Breakfast Item'}"
+850,Onion Rings Deluxe (m851),{'Side'}
+851,Granola Spicy (m852),{'Breakfast Item'}
+852,Beef Burrito Special (m853),"{'Main Course', 'Beverage'}"
+853,Roasted Carrots Special (m854),"{'Beverage', 'Side'}"
+854,Sorbet Classic (m855),"{'Breakfast Item', 'Dessert'}"
+855,Pork Ribs Premium (m856),{'Main Course'}
+856,Wild Rice Special (m857),"{'Breakfast Item', 'Side'}"
+857,Mozzarella Sticks Special (m858),{'Appetizer'}
+858,Rice Pilaf Premium (m859),{'Side'}
+859,Baklava Light (m860),"{'Soup', 'Dessert'}"
+860,Vegetable Stir Fry Premium (m861),"{'Main Course', 'Appetizer'}"
+861,Americano Deluxe (m862),"{'Beverage', 'Appetizer'}"
+862,BBQ Chicken Classic (m863),{'Main Course'}
+863,Spinach Artichoke Dip Classic (m864),"{'Dessert', 'Appetizer'}"
+864,Broccoli Cheddar Soup Mild (m865),"{'Main Course', 'Soup'}"
+865,Oysters Spicy (m866),"{'Breakfast Item', 'Appetizer'}"
+866,Gelato Spicy (m867),"{'Soup', 'Dessert'}"
+867,Almond Milk Spicy (m868),"{'Soup', 'Beverage'}"
+868,Arugula Salad Classic (m869),{'Salad'}
+869,Mac and Cheese Deluxe (m870),"{'Dessert', 'Side'}"
+870,Quiche Classic (m871),"{'Breakfast Item', 'Side'}"
+871,Spinach Artichoke Dip Spicy (m872),"{'Dessert', 'Appetizer'}"
+872,Pudding Premium (m873),{'Dessert'}
+873,Jalapeño Poppers Premium (m874),{'Appetizer'}
+874,Sliders Premium (m875),"{'Salad', 'Appetizer'}"
+875,Churros Premium (m876),{'Dessert'}
+876,Gazpacho Spicy (m877),"{'Soup', 'Side'}"
+877,Quinoa Salad Light (m878),"{'Salad', 'Main Course'}"
+878,Chicken Skewers Mild (m879),"{'Side', 'Appetizer'}"
+879,Sliders Spicy (m880),"{'Side', 'Dessert', 'Appetizer'}"
+880,Brussels Sprouts Deluxe (m881),{'Side'}
+881,Crème Brûlée Classic (m882),{'Dessert'}
+882,Asian Salad Deluxe (m883),"{'Salad', 'Appetizer'}"
+883,Muffin Spicy (m884),{'Breakfast Item'}
+884,Mozzarella Sticks Deluxe (m885),{'Appetizer'}
+885,Grilled Salmon Mild (m886),{'Main Course'}
+886,Hot Chocolate Classic (m887),"{'Beverage', 'Side'}"
+887,Garden Salad Light (m888),"{'Salad', 'Soup', 'Beverage'}"
+888,Pork Ribs Spicy (m889),{'Main Course'}
+889,Breakfast Potatoes Deluxe (m890),{'Breakfast Item'}
+890,Croissant Spicy (m891),"{'Salad', 'Breakfast Item', 'Dessert'}"
+891,Roasted Carrots Premium (m892),{'Side'}
+892,Panna Cotta Classic (m893),"{'Appetizer', 'Main Course', 'Dessert'}"
+893,Caprese Salad (m894),{'Salad'}
+894,Cheese Platter Spicy (m895),{'Appetizer'}
+895,Mashed Potatoes Classic (m896),{'Side'}
+896,Corn on the Cob Spicy (m897),{'Side'}
+897,Breakfast Sandwich Special (m898),"{'Breakfast Item', 'Beverage', 'Side'}"
+898,Beef Stew Spicy (m899),{'Soup'}
+899,Grilled Eggplant Spicy (m900),{'Side'}
+900,Scone Deluxe (m901),{'Breakfast Item'}
+901,Pumpkin Soup (m902),"{'Appetizer', 'Soup', 'Side'}"
+902,Grilled Eggplant Premium (m903),{'Side'}
+903,Broccoli Cheddar Soup Premium (m904),{'Soup'}
+904,Sorbet Light (m905),"{'Salad', 'Soup', 'Dessert'}"
+905,Wild Rice Spicy (m906),"{'Main Course', 'Breakfast Item', 'Side'}"
+906,Pork Schnitzel (m907),{'Main Course'}
+907,Tomato Juice Classic (m908),"{'Breakfast Item', 'Beverage', 'Appetizer'}"
+908,Carrot Cake (m909),{'Dessert'}
+909,Potato Skins Spicy (m910),{'Appetizer'}
+910,Crème Brûlée Special (m911),{'Dessert'}
+911,Shrimp Cocktail (m912),"{'Breakfast Item', 'Appetizer'}"
+912,Lemonade (m913),{'Beverage'}
+913,Chicken Parmesan Mild (m914),{'Main Course'}
+914,Beef Steak Premium (m915),{'Main Course'}
+915,Sliders Spicy (m916),{'Appetizer'}
+916,Beef Carpaccio (m917),"{'Salad', 'Beverage', 'Appetizer'}"
+917,Buffalo Wings Premium (m918),{'Appetizer'}
+918,Fruit Smoothie Bowl Classic (m919),{'Breakfast Item'}
+919,Beef Stroganoff Spicy (m920),{'Main Course'}
+920,Cheese Platter Deluxe (m921),{'Appetizer'}
+921,Dumplings Mild (m922),"{'Dessert', 'Appetizer'}"
+922,Cheese Platter Spicy (m923),"{'Soup', 'Appetizer'}"
+923,Meatball Sub Classic (m924),{'Main Course'}
+924,Dumplings Spicy (m925),{'Appetizer'}
+925,Steamed Vegetables (m926),"{'Soup', 'Side'}"
+926,Split Pea Soup Mild (m927),{'Soup'}
+927,Chicken Shawarma Classic (m928),"{'Main Course', 'Appetizer'}"
+928,Milk Light (m929),{'Beverage'}
+929,Deviled Eggs Classic (m930),"{'Dessert', 'Appetizer'}"
+930,Pasta Carbonara (m931),{'Main Course'}
+931,Pudding Deluxe (m932),{'Dessert'}
+932,Chicken Skewers Special (m933),{'Appetizer'}
+933,Corn on the Cob Deluxe (m934),"{'Appetizer', 'Side'}"
+934,Samosas Premium (m935),"{'Main Course', 'Appetizer'}"
+935,Cobbler Classic (m936),{'Dessert'}
+936,Tomato Soup (m937),{'Soup'}
+937,Chicken Fried Rice Spicy (m938),"{'Main Course', 'Breakfast Item'}"
+938,Sausage Special (m939),"{'Salad', 'Breakfast Item', 'Appetizer'}"
+939,Potato Skins Light (m940),"{'Salad', 'Appetizer'}"
+940,Strawberry Smoothie Premium (m941),{'Beverage'}
+941,Creamed Spinach Spicy (m942),"{'Dessert', 'Side'}"
+942,Quinoa Salad Spicy (m943),"{'Salad', 'Breakfast Item', 'Side'}"
+943,Deviled Eggs Spicy (m944),"{'Breakfast Item', 'Appetizer'}"
+944,Coleslaw Deluxe (m945),"{'Salad', 'Dessert'}"
+945,Grilled Salmon Mild (m946),"{'Main Course', 'Beverage'}"
+946,Caprese Salad Premium (m947),"{'Main Course', 'Appetizer'}"
+947,Quinoa Salad Classic (m948),{'Salad'}
+948,Green Beans Classic (m949),"{'Beverage', 'Side'}"
+949,Cauliflower Mash Spicy (m950),"{'Salad', 'Side'}"
+950,Chicken Quesadilla Premium (m951),"{'Main Course', 'Soup', 'Beverage'}"
+951,Fruit Salad Mild (m952),{'Salad'}
+952,Stuffed Peppers Spicy (m953),"{'Salad', 'Appetizer'}"
+953,Breakfast Burrito Mild (m954),"{'Breakfast Item', 'Dessert'}"
+954,Bean Soup Special (m955),{'Soup'}
+955,Hot and Sour Soup Spicy (m956),"{'Soup', 'Side'}"
+956,Mocha Mild (m957),"{'Salad', 'Breakfast Item', 'Beverage'}"
+957,Burger Premium (m958),{'Main Course'}
+958,Vegetable Soup Premium (m959),{'Soup'}
+959,Meatball Sub Light (m960),"{'Main Course', 'Breakfast Item'}"
+960,Chicken Souvlaki Premium (m961),"{'Main Course', 'Breakfast Item'}"
+961,Avocado Toast Special (m962),"{'Breakfast Item', 'Side'}"
+962,Soy Milk Mild (m963),"{'Beverage', 'Side'}"
+963,Tea Premium (m964),{'Beverage'}
+964,Red Velvet Cake Mild (m965),{'Dessert'}
+965,Brownies Deluxe (m966),"{'Salad', 'Dessert'}"
+966,Coleslaw Spicy (m967),"{'Salad', 'Breakfast Item'}"
+967,Biscuits and Gravy Special (m968),"{'Breakfast Item', 'Beverage', 'Side'}"
+968,Biscuits and Gravy Special (m969),"{'Breakfast Item', 'Beverage'}"
+969,Brussels Sprouts Premium (m970),{'Side'}
+970,Potato Salad Spicy (m971),"{'Beverage', 'Side'}"
+971,Burger Classic (m972),"{'Main Course', 'Salad', 'Side'}"
+972,Split Pea Soup Deluxe (m973),"{'Soup', 'Dessert'}"
+973,Stuffed Peppers Classic (m974),{'Appetizer'}
+974,Broccoli Cheddar Soup Special (m975),{'Soup'}
+975,Salmon Teriyaki Spicy (m976),"{'Main Course', 'Breakfast Item'}"
+976,Vegetable Soup Classic (m977),"{'Main Course', 'Soup'}"
+977,Dumplings Spicy (m978),"{'Salad', 'Dessert', 'Appetizer'}"
+978,Coleslaw Premium (m979),{'Salad'}
+979,Shrimp Cocktail Special (m980),{'Appetizer'}
+980,Smoothie Deluxe (m981),{'Beverage'}
+981,Milk Spicy (m982),"{'Beverage', 'Dessert'}"
+982,Pad Thai (m983),"{'Main Course', 'Dessert'}"
+983,Breakfast Sandwich Mild (m984),"{'Salad', 'Breakfast Item'}"
+984,Spinach Salad Spicy (m985),"{'Salad', 'Dessert'}"
+985,Beet Salad Deluxe (m986),{'Salad'}
+986,Chai Latte Spicy (m987),"{'Beverage', 'Side'}"
+987,Apple Juice Light (m988),"{'Salad', 'Beverage'}"
+988,Mozzarella Sticks Premium (m989),"{'Salad', 'Dessert', 'Appetizer'}"
+989,Baklava Deluxe (m990),"{'Main Course', 'Dessert'}"
+990,Potato Salad Mild (m991),{'Salad'}
+991,Lentil Soup Classic (m992),{'Soup'}
+992,Churros Classic (m993),{'Dessert'}
+993,Danish Special (m994),"{'Soup', 'Main Course', 'Breakfast Item'}"
+994,Frittata (m995),{'Breakfast Item'}
+995,Lemonade (m996),{'Beverage'}
+996,Cannoli (m997),{'Dessert'}
+997,Quiche Premium (m998),"{'Breakfast Item', 'Side'}"
+998,Ramen (m999),{'Soup'}
+999,Greek Salad Special (m1000),"{'Salad', 'Breakfast Item'}"
+1000,Spinach Artichoke Dip Spicy (m1001),"{'Main Course', 'Appetizer'}"
+1001,Roasted Carrots (m1002),"{'Soup', 'Side'}"
+1002,Cupcakes Classic (m1003),"{'Beverage', 'Dessert'}"
+1003,Fruit Bowl (m1004),"{'Salad', 'Breakfast Item'}"
+1004,Yams Special (m1005),{'Side'}
+1005,Red Velvet Cake Spicy (m1006),{'Dessert'}
+1006,Lentil Soup Light (m1007),"{'Soup', 'Beverage'}"
+1007,Chef Salad Spicy (m1008),"{'Salad', 'Appetizer'}"
+1008,Shrimp Cocktail Premium (m1009),{'Appetizer'}
+1009,Bruschetta Mild (m1010),{'Appetizer'}
+1010,Espresso Spicy (m1011),{'Beverage'}
+1011,Bruschetta Deluxe (m1012),"{'Breakfast Item', 'Appetizer'}"
+1012,Chicken Enchiladas Deluxe (m1013),"{'Main Course', 'Breakfast Item', 'Dessert'}"
+1013,Yogurt Spicy (m1014),"{'Soup', 'Breakfast Item'}"
+1014,Caesar Salad Mild (m1015),{'Salad'}
+1015,Smoothie (m1016),{'Beverage'}
+1016,Chicken Rice Soup Mild (m1017),{'Soup'}
+1017,Sprite Special (m1018),{'Beverage'}
+1018,Macarons Spicy (m1019),{'Dessert'}
+1019,Fried Pickles Spicy (m1020),{'Appetizer'}
+1020,Garlic Bread Spicy (m1021),{'Side'}
+1021,Steamed Vegetables Classic (m1022),{'Side'}
+1022,Omelet Spicy (m1023),{'Breakfast Item'}
+1023,Steamed Vegetables Mild (m1024),{'Side'}
+1024,Fruit Salad Special (m1025),"{'Salad', 'Beverage'}"
+1025,Waldorf Salad Mild (m1026),{'Salad'}
+1026,Roasted Carrots Special (m1027),"{'Main Course', 'Side'}"
+1027,Brownies Mild (m1028),{'Dessert'}
+1028,Bread Pudding Classic (m1029),{'Dessert'}
+1029,Vegetable Curry Special (m1030),"{'Main Course', 'Beverage', 'Appetizer'}"
+1030,Hot and Sour Soup Premium (m1031),"{'Soup', 'Appetizer'}"
+1031,Polenta Mild (m1032),{'Side'}
+1032,Rice Pudding Light (m1033),"{'Breakfast Item', 'Dessert'}"
+1033,BBQ Chicken Spicy (m1034),"{'Main Course', 'Beverage'}"
+1034,Sushi Roll Premium (m1035),"{'Main Course', 'Beverage'}"
+1035,Beef Kebab Special (m1036),"{'Main Course', 'Breakfast Item'}"
+1036,Edamame Classic (m1037),"{'Main Course', 'Beverage', 'Appetizer'}"
+1037,Bruschetta Special (m1038),{'Appetizer'}
+1038,Miso Soup Classic (m1039),{'Soup'}
+1039,Gazpacho Mild (m1040),"{'Soup', 'Dessert'}"
+1040,Shrimp Salad Classic (m1041),"{'Salad', 'Main Course'}"
+1041,Lamb Chops Light (m1042),"{'Main Course', 'Dessert'}"
+1042,Quinoa Salad (m1043),{'Salad'}
+1043,Coleslaw (m1044),"{'Salad', 'Breakfast Item'}"
+1044,Corned Beef Hash Classic (m1045),"{'Soup', 'Breakfast Item'}"
+1045,Sushi Roll Mild (m1046),{'Main Course'}
+1046,Crème Brûlée Deluxe (m1047),"{'Breakfast Item', 'Dessert'}"
+1047,Rice Noodles (m1048),{'Side'}
+1048,Grilled Zucchini Classic (m1049),{'Side'}
+1049,Hash Browns Special (m1050),"{'Appetizer', 'Main Course', 'Side'}"
+1050,Minestrone Premium (m1051),"{'Soup', 'Side'}"
+1051,Fruit Punch Special (m1052),{'Beverage'}
+1052,Biscuits and Gravy Classic (m1053),{'Breakfast Item'}
+1053,Cheesecake Special (m1054),"{'Main Course', 'Dessert'}"
+1054,Grilled Zucchini Classic (m1055),{'Side'}
+1055,Panna Cotta Premium (m1056),{'Dessert'}
+1056,Mozzarella Sticks Premium (m1057),"{'Breakfast Item', 'Appetizer'}"
+1057,Hot Tea Premium (m1058),{'Beverage'}
+1058,Brownies Classic (m1059),{'Dessert'}
+1059,Mozzarella Sticks Spicy (m1060),{'Appetizer'}
+1060,Butternut Squash Soup Special (m1061),{'Soup'}
+1061,Mac and Cheese Spicy (m1062),{'Side'}
+1062,Vegetable Soup Light (m1063),"{'Soup', 'Breakfast Item', 'Side'}"
+1063,Goat Cheese Crostini Classic (m1064),{'Appetizer'}
+1064,Cappuccino Spicy (m1065),{'Beverage'}
+1065,Lasagna Premium (m1066),"{'Main Course', 'Appetizer'}"
+1066,Kale Salad Mild (m1067),"{'Salad', 'Side'}"
+1067,Beef Stroganoff Special (m1068),{'Main Course'}
+1068,Cappuccino Deluxe (m1069),"{'Beverage', 'Dessert'}"
+1069,Arugula Salad Premium (m1070),"{'Salad', 'Dessert'}"
+1070,Hot Chocolate Special (m1071),"{'Soup', 'Beverage'}"
+1071,Grilled Chicken Deluxe (m1072),"{'Main Course', 'Dessert'}"
+1072,Rice Pilaf Premium (m1073),{'Side'}
+1073,Falafel Wrap (m1074),{'Main Course'}
+1074,Tater Tots Light (m1075),"{'Salad', 'Side'}"
+1075,Cupcakes Mild (m1076),{'Dessert'}
+1076,Chicken Salad Premium (m1077),"{'Salad', 'Soup'}"
+1077,Breakfast Sandwich Spicy (m1078),"{'Breakfast Item', 'Dessert'}"
+1078,Calamari Spicy (m1079),"{'Main Course', 'Beverage', 'Appetizer'}"
+1079,Cookies Special (m1080),"{'Breakfast Item', 'Beverage', 'Dessert'}"
+1080,Tomato Soup Premium (m1081),"{'Salad', 'Soup'}"
+1081,Mozzarella Sticks Deluxe (m1082),{'Appetizer'}
+1082,Chicken Skewers Spicy (m1083),"{'Side', 'Appetizer'}"
+1083,Cheesecake Mild (m1084),{'Dessert'}
+1084,Lobster Bisque (m1085),{'Soup'}
+1085,Hot and Sour Soup Mild (m1086),"{'Soup', 'Appetizer'}"
+1086,Stuffing Spicy (m1087),"{'Salad', 'Breakfast Item', 'Side'}"
+1087,Quiche Spicy (m1088),"{'Salad', 'Breakfast Item'}"
+1088,Shrimp Salad Deluxe (m1089),"{'Salad', 'Side'}"
+1089,Cannoli (m1090),{'Dessert'}
+1090,Smoothie Deluxe (m1091),"{'Breakfast Item', 'Beverage'}"
+1091,Broccoli Cheddar Soup Light (m1092),"{'Main Course', 'Soup'}"
+1092,Chicken Curry Classic (m1093),"{'Main Course', 'Side'}"
+1093,Potato Salad Spicy (m1094),{'Salad'}
+1094,Matcha Latte Light (m1095),{'Beverage'}
+1095,Buffalo Wings (m1096),{'Appetizer'}
+1096,Bacon Wrapped Dates Premium (m1097),"{'Side', 'Appetizer'}"
+1097,Bacon Wrapped Dates Special (m1098),{'Appetizer'}
+1098,Deviled Eggs Special (m1099),{'Appetizer'}
+1099,Rice Pudding Spicy (m1100),"{'Salad', 'Dessert'}"
+1100,Buffalo Wings Mild (m1101),"{'Soup', 'Appetizer'}"
+1101,Broccoli Cheddar Soup Mild (m1102),"{'Soup', 'Dessert'}"
+1102,Milk Premium (m1103),"{'Salad', 'Beverage'}"
+1103,Edamame Mild (m1104),"{'Breakfast Item', 'Appetizer'}"
+1104,Yams Special (m1105),"{'Salad', 'Side'}"
+1105,Potato Salad Spicy (m1106),"{'Salad', 'Breakfast Item'}"
+1106,Pizza Margherita (m1107),{'Main Course'}
+1107,Chicken Parmesan Spicy (m1108),"{'Main Course', 'Soup', 'Side'}"
+1108,Bread Pudding Classic (m1109),{'Dessert'}
+1109,Americano Classic (m1110),{'Beverage'}
+1110,Asparagus Special (m1111),{'Side'}
+1111,Deviled Eggs Premium (m1112),"{'Dessert', 'Appetizer'}"
+1112,Herbal Tea Classic (m1113),"{'Beverage', 'Side'}"
+1113,Wild Rice Classic (m1114),{'Side'}
+1114,Falafel Wrap Premium (m1115),{'Main Course'}
+1115,Chicken Tikka Masala Mild (m1116),"{'Main Course', 'Soup', 'Salad'}"
+1116,English Muffin (m1117),"{'Breakfast Item', 'Appetizer'}"
+1117,Tater Tots Mild (m1118),"{'Breakfast Item', 'Side'}"
+1118,Corn Chowder Light (m1119),"{'Salad', 'Soup'}"
+1119,Spinach Artichoke Dip Classic (m1120),"{'Side', 'Breakfast Item', 'Appetizer'}"
+1120,Chef Salad Deluxe (m1121),{'Salad'}
+1121,Potato Leek Soup Deluxe (m1122),"{'Soup', 'Appetizer'}"
+1122,Clam Chowder Premium (m1123),{'Soup'}
+1123,Green Beans Spicy (m1124),{'Side'}
+1124,Cranberry Juice Mild (m1125),{'Beverage'}
+1125,Deviled Eggs Deluxe (m1126),"{'Dessert', 'Appetizer'}"
+1126,Chocolate Cake Light (m1127),"{'Side', 'Soup', 'Dessert'}"
+1127,Tuna Tartare Mild (m1128),{'Appetizer'}
+1128,Caesar Salad Mild (m1129),"{'Salad', 'Appetizer'}"
+1129,Bacon Classic (m1130),{'Breakfast Item'}
+1130,Pizza Margherita Classic (m1131),{'Main Course'}
+1131,Parfait Light (m1132),"{'Appetizer', 'Breakfast Item', 'Dessert'}"
+1132,Rice Noodles Classic (m1133),"{'Breakfast Item', 'Side'}"
+1133,Pork Ribs Mild (m1134),{'Main Course'}
+1134,Pumpkin Soup (m1135),"{'Soup', 'Dessert'}"
+1135,Crème Brûlée Light (m1136),{'Dessert'}
+1136,Peach Tea Mild (m1137),"{'Beverage', 'Side'}"
+1137,Toast Deluxe (m1138),"{'Salad', 'Breakfast Item', 'Side'}"
+1138,Sushi Roll Light (m1139),{'Main Course'}
+1139,Coffee Light (m1140),{'Beverage'}
+1140,Oat Milk Deluxe (m1141),"{'Beverage', 'Dessert'}"
+1141,Buffalo Wings Deluxe (m1142),"{'Salad', 'Appetizer'}"
+1142,Hash Browns Deluxe (m1143),"{'Soup', 'Breakfast Item'}"
+1143,Tea Mild (m1144),"{'Salad', 'Beverage'}"
+1144,French Fries Special (m1145),{'Side'}
+1145,Chicken Wings Deluxe (m1146),"{'Main Course', 'Beverage', 'Dessert'}"
+1146,Panna Cotta Deluxe (m1147),"{'Appetizer', 'Dessert'}"
+1147,Strawberry Shortcake (m1148),{'Dessert'}
+1148,Cucumber Salad (m1149),"{'Salad', 'Main Course'}"
+1149,Meatball Sub (m1150),{'Main Course'}
+1150,Pho (m1151),"{'Salad', 'Soup', 'Side'}"
+1151,Tuna Salad Light (m1152),"{'Salad', 'Beverage', 'Side'}"
+1152,Hot Chocolate Premium (m1153),"{'Soup', 'Beverage'}"
+1153,Pancakes Deluxe (m1154),{'Breakfast Item'}
+1154,Meatball Sub Light (m1155),"{'Main Course', 'Breakfast Item'}"
+1155,Cheesecake Deluxe (m1156),{'Dessert'}
+1156,Pizza Margherita Deluxe (m1157),{'Main Course'}
+1157,Caprese Salad Premium (m1158),"{'Salad', 'Dessert'}"
+1158,Asparagus Spicy (m1159),"{'Main Course', 'Dessert', 'Side'}"
+1159,Tuna Salad Classic (m1160),{'Salad'}
+1160,Edamame Light (m1161),{'Appetizer'}
+1161,Crepes Light (m1162),"{'Salad', 'Breakfast Item', 'Dessert'}"
+1162,Potato Skins Spicy (m1163),{'Appetizer'}
+1163,Brussels Sprouts Light (m1164),{'Side'}
+1164,Chicken Rice Soup Special (m1165),"{'Soup', 'Beverage', 'Side'}"
+1165,Lentil Soup Special (m1166),{'Soup'}
+1166,Tres Leches Cake Deluxe (m1167),"{'Soup', 'Breakfast Item', 'Dessert'}"
+1167,Croissant Premium (m1168),"{'Salad', 'Breakfast Item', 'Side'}"
+1168,Cheese Platter Mild (m1169),"{'Salad', 'Appetizer'}"
+1169,Fruit Tart Deluxe (m1170),{'Dessert'}
+1170,Chef Salad (m1171),"{'Salad', 'Beverage'}"
+1171,Asparagus Special (m1172),{'Side'}
+1172,Shrimp Salad Deluxe (m1173),"{'Salad', 'Main Course'}"
+1173,Lemon Tart Deluxe (m1174),{'Dessert'}
+1174,Mediterranean Salad Premium (m1175),{'Salad'}
+1175,Prosciutto Melon Special (m1176),"{'Salad', 'Soup', 'Appetizer'}"
+1176,Panna Cotta Special (m1177),{'Dessert'}
+1177,Hot Tea Light (m1178),"{'Main Course', 'Beverage'}"
+1178,Fried Pickles Light (m1179),"{'Main Course', 'Appetizer'}"
+1179,Shrimp Cocktail Special (m1180),"{'Side', 'Appetizer'}"
+1180,Hummus with Pita Special (m1181),{'Appetizer'}
+1181,Carrot Cake Classic (m1182),{'Dessert'}
+1182,Bean Soup Special (m1183),{'Soup'}
+1183,Soy Milk Spicy (m1184),"{'Beverage', 'Dessert'}"
+1184,Pasta Salad Mild (m1185),"{'Salad', 'Side'}"
+1185,Edamame Premium (m1186),"{'Appetizer', 'Side'}"
+1186,Potato Skins Classic (m1187),"{'Salad', 'Soup', 'Appetizer'}"
+1187,Flan Light (m1188),"{'Main Course', 'Soup', 'Dessert'}"
+1188,Waldorf Salad Premium (m1189),{'Salad'}
+1189,Chocolate Mousse Classic (m1190),{'Dessert'}
+1190,Chocolate Milk Light (m1191),"{'Beverage', 'Appetizer'}"
+1191,Rice Noodles Mild (m1192),"{'Appetizer', 'Side'}"
+1192,Cola Mild (m1193),{'Beverage'}
+1193,Banana Smoothie Classic (m1194),"{'Breakfast Item', 'Beverage'}"
+1194,Fried Rice Deluxe (m1195),"{'Main Course', 'Dessert', 'Side'}"
+1195,Chicken Parmesan Special (m1196),{'Main Course'}
+1196,French Toast Special (m1197),"{'Breakfast Item', 'Dessert'}"
+1197,Vegetable Stir Fry Premium (m1198),"{'Main Course', 'Soup'}"
+1198,Grape Juice Mild (m1199),{'Beverage'}
+1199,Sprite (m1200),{'Beverage'}
+1200,Pork Ribs Light (m1201),{'Main Course'}
+1201,Crepes (m1202),{'Breakfast Item'}
+1202,Tomato Soup Classic (m1203),"{'Salad', 'Soup'}"
+1203,Baklava (m1204),"{'Main Course', 'Soup', 'Dessert'}"
+1204,Creamed Spinach Mild (m1205),"{'Main Course', 'Side'}"
+1205,Potato Salad (m1206),{'Salad'}
+1206,Cinnamon Roll Light (m1207),{'Breakfast Item'}
+1207,Lentil Soup Premium (m1208),{'Soup'}
+1208,Potato Salad Mild (m1209),"{'Salad', 'Side'}"
+1209,Edamame Classic (m1210),{'Appetizer'}
+1210,Garden Salad Light (m1211),"{'Salad', 'Main Course'}"
+1211,Breakfast Tacos Special (m1212),{'Breakfast Item'}
+1212,Calamari Light (m1213),{'Appetizer'}
+1213,Chicken Alfredo (m1214),"{'Main Course', 'Soup'}"
+1214,Garden Salad Spicy (m1215),{'Salad'}
+1215,Oysters Mild (m1216),{'Appetizer'}
+1216,Chicken Salad Light (m1217),"{'Salad', 'Dessert'}"
+1217,Mushroom Soup Light (m1218),"{'Main Course', 'Soup'}"
+1218,Hummus with Pita Light (m1219),{'Appetizer'}
+1219,Bacon Deluxe (m1220),"{'Breakfast Item', 'Beverage', 'Dessert'}"
+1220,Pizza Margherita Deluxe (m1221),"{'Main Course', 'Dessert'}"
+1221,Oatmeal (m1222),{'Breakfast Item'}
+1222,Split Pea Soup Classic (m1223),"{'Soup', 'Appetizer'}"
+1223,French Onion Soup (m1224),{'Soup'}
+1224,Potato Salad Special (m1225),{'Salad'}
+1225,Nachos Premium (m1226),{'Appetizer'}
+1226,Sprite (m1227),"{'Breakfast Item', 'Beverage'}"
+1227,Meatloaf Light (m1228),{'Main Course'}
+1228,Gelato Special (m1229),{'Dessert'}
+1229,Iced Coffee Spicy (m1230),{'Beverage'}
+1230,Iced Tea Classic (m1231),"{'Beverage', 'Appetizer'}"
+1231,Strawberry Shortcake Deluxe (m1232),{'Dessert'}
+1232,Roasted Vegetables (m1233),{'Side'}
+1233,Mediterranean Salad Spicy (m1234),{'Salad'}
+1234,Fish Curry Mild (m1235),"{'Main Course', 'Breakfast Item', 'Side'}"
+1235,Nicoise Salad Special (m1236),"{'Salad', 'Breakfast Item', 'Main Course'}"
+1236,Scrambled Eggs Deluxe (m1237),"{'Main Course', 'Breakfast Item', 'Dessert'}"
+1237,Lentil Soup Deluxe (m1238),"{'Salad', 'Soup', 'Beverage'}"
+1238,Fried Rice Special (m1239),{'Side'}
+1239,Chicken Rice Soup (m1240),"{'Soup', 'Beverage', 'Appetizer'}"
+1240,Hot and Sour Soup Spicy (m1241),{'Soup'}
+1241,Frittata (m1242),"{'Breakfast Item', 'Beverage'}"
+1242,Milk Special (m1243),"{'Beverage', 'Appetizer'}"
+1243,Donut Spicy (m1244),"{'Salad', 'Beverage', 'Dessert'}"
+1244,Chicken Enchiladas Mild (m1245),"{'Main Course', 'Breakfast Item'}"
+1245,Chicken Tikka Masala Special (m1246),{'Main Course'}
+1246,Chicken Shawarma Premium (m1247),{'Main Course'}
+1247,Roasted Vegetables Spicy (m1248),{'Side'}
+1248,Arugula Salad Mild (m1249),{'Salad'}
+1249,Egg Salad Light (m1250),{'Salad'}
+1250,Quiche Light (m1251),{'Breakfast Item'}
+1251,Spring Rolls Premium (m1252),{'Appetizer'}
+1252,Deviled Eggs Spicy (m1253),"{'Salad', 'Beverage', 'Appetizer'}"
+1253,Chicken Tortilla Soup Deluxe (m1254),"{'Soup', 'Breakfast Item'}"
+1254,Mocha Mild (m1255),{'Beverage'}
+1255,Parfait Premium (m1256),"{'Soup', 'Dessert'}"
+1256,Veggie Pizza Spicy (m1257),{'Main Course'}
+1257,Gelato Light (m1258),{'Dessert'}
+1258,Cobb Salad Special (m1259),"{'Salad', 'Appetizer'}"
+1259,Shrimp Salad (m1260),{'Salad'}
+1260,Bean Soup (m1261),{'Soup'}
+1261,Water Classic (m1262),{'Beverage'}
+1262,Chocolate Milk Light (m1263),{'Beverage'}
+1263,Hot Tea Classic (m1264),"{'Salad', 'Breakfast Item', 'Beverage'}"
+1264,Steak Fajitas Classic (m1265),"{'Main Course', 'Side'}"
+1265,Panna Cotta Classic (m1266),"{'Soup', 'Beverage', 'Dessert'}"
+1266,Veggie Pizza Spicy (m1267),"{'Main Course', 'Beverage'}"
+1267,Chocolate Mousse Light (m1268),"{'Breakfast Item', 'Dessert'}"
+1268,English Muffin (m1269),{'Breakfast Item'}
+1269,Sweet Potato Fries Light (m1270),{'Side'}
+1270,Beef Tacos Mild (m1271),{'Main Course'}
+1271,Crab Cakes Classic (m1272),{'Appetizer'}
+1272,Chocolate Mousse Classic (m1273),{'Dessert'}
+1273,Garden Salad Deluxe (m1274),"{'Salad', 'Soup'}"
+1274,Scrambled Eggs Mild (m1275),"{'Soup', 'Breakfast Item'}"
+1275,Tuna Tartare Special (m1276),"{'Side', 'Appetizer'}"
+1276,Sliders Light (m1277),"{'Main Course', 'Beverage', 'Appetizer'}"
+1277,Hot and Sour Soup Spicy (m1278),"{'Soup', 'Side'}"
+1278,Mushroom Soup (m1279),{'Soup'}
+1279,Sautéed Mushrooms (m1280),{'Side'}
+1280,Pudding Deluxe (m1281),{'Dessert'}
+1281,Yogurt Premium (m1282),"{'Breakfast Item', 'Dessert'}"
+1282,Chicken Shawarma Classic (m1283),{'Main Course'}
+1283,Deviled Eggs Deluxe (m1284),"{'Salad', 'Appetizer'}"
+1284,Cranberry Juice Premium (m1285),"{'Breakfast Item', 'Beverage'}"
+1285,Custard Special (m1286),{'Dessert'}
+1286,Donut Light (m1287),"{'Beverage', 'Dessert'}"
+1287,Espresso Spicy (m1288),{'Beverage'}
+1288,Veggie Pizza Special (m1289),"{'Main Course', 'Salad', 'Appetizer'}"
+1289,Goat Cheese Crostini Classic (m1290),"{'Soup', 'Appetizer'}"
+1290,Sweet Potato Fries Spicy (m1291),"{'Salad', 'Side'}"
+1291,Donut Classic (m1292),"{'Soup', 'Breakfast Item', 'Dessert'}"
+1292,Parfait (m1293),{'Dessert'}
+1293,Cinnamon Roll Classic (m1294),"{'Breakfast Item', 'Appetizer'}"
+1294,Churros Premium (m1295),"{'Breakfast Item', 'Dessert'}"
+1295,Hot and Sour Soup Light (m1296),{'Soup'}
+1296,Garden Salad Spicy (m1297),{'Salad'}
+1297,Onion Rings Classic (m1298),{'Side'}
+1298,Mushroom Soup Classic (m1299),"{'Soup', 'Breakfast Item'}"
+1299,Chicken Wings Deluxe (m1300),"{'Main Course', 'Soup'}"
+1300,Carrot Cake Spicy (m1301),{'Dessert'}
+1301,Sushi Roll Mild (m1302),"{'Main Course', 'Salad'}"
+1302,Kale Salad Deluxe (m1303),"{'Salad', 'Side'}"
+1303,Water Special (m1304),{'Beverage'}
+1304,Cappuccino Spicy (m1305),{'Beverage'}
+1305,Butternut Squash Soup Classic (m1306),"{'Soup', 'Side'}"
+1306,Scone Classic (m1307),{'Breakfast Item'}
+1307,Tuna Salad Special (m1308),{'Salad'}
+1308,Potato Leek Soup Mild (m1309),{'Soup'}
+1309,Jalapeño Poppers Classic (m1310),"{'Soup', 'Appetizer'}"
+1310,Chicken Souvlaki Classic (m1311),{'Main Course'}
+1311,Scone Spicy (m1312),{'Breakfast Item'}
+1312,Mashed Potatoes Classic (m1313),"{'Main Course', 'Side'}"
+1313,Mango Juice Premium (m1314),"{'Beverage', 'Dessert'}"
+1314,Pad Thai (m1315),{'Main Course'}
+1315,Cola Premium (m1316),{'Beverage'}
+1316,Bacon Wrapped Dates Special (m1317),{'Appetizer'}
+1317,Bacon Mild (m1318),"{'Breakfast Item', 'Side'}"
+1318,Split Pea Soup Spicy (m1319),{'Soup'}
+1319,Red Velvet Cake Spicy (m1320),"{'Appetizer', 'Dessert'}"
+1320,Pepsi Light (m1321),"{'Breakfast Item', 'Beverage', 'Dessert'}"
+1321,Sushi Roll Deluxe (m1322),{'Main Course'}
+1322,Stuffing Deluxe (m1323),{'Side'}
+1323,Crab Cakes Premium (m1324),{'Appetizer'}
+1324,Cinnamon Roll Deluxe (m1325),{'Breakfast Item'}
+1325,Fruit Salad Special (m1326),"{'Salad', 'Main Course'}"
+1326,Oat Milk Light (m1327),"{'Beverage', 'Dessert'}"
+1327,Grilled Eggplant Light (m1328),"{'Salad', 'Side'}"
+1328,Pad Thai Spicy (m1329),"{'Main Course', 'Beverage'}"
+1329,Waffles Classic (m1330),"{'Soup', 'Main Course', 'Breakfast Item'}"
+1330,Croissant Classic (m1331),"{'Breakfast Item', 'Appetizer'}"
+1331,Garden Salad Light (m1332),"{'Salad', 'Main Course', 'Side'}"
+1332,Bacon Wrapped Dates Premium (m1333),{'Appetizer'}
+1333,Beet Salad Classic (m1334),"{'Salad', 'Appetizer'}"
+1334,Miso Soup Special (m1335),{'Soup'}
+1335,Churros Spicy (m1336),{'Dessert'}
+1336,Churros Deluxe (m1337),"{'Beverage', 'Dessert'}"
+1337,Quinoa Salad Mild (m1338),"{'Salad', 'Breakfast Item'}"
+1338,Spring Rolls Light (m1339),"{'Salad', 'Soup', 'Appetizer'}"
+1339,Cobbler Light (m1340),{'Dessert'}
+1340,Ramen Deluxe (m1341),"{'Salad', 'Soup', 'Main Course'}"
+1341,Shrimp Salad Premium (m1342),"{'Salad', 'Soup'}"
+1342,Bagel Premium (m1343),"{'Salad', 'Breakfast Item'}"
+1343,Onion Rings Special (m1344),{'Side'}
+1344,Clam Chowder Special (m1345),"{'Soup', 'Beverage'}"
+1345,Brownies Classic (m1346),"{'Side', 'Dessert'}"
+1346,Waldorf Salad Light (m1347),{'Salad'}
+1347,Donut (m1348),{'Dessert'}
+1348,Lasagna Classic (m1349),{'Main Course'}
+1349,Onion Rings Classic (m1350),"{'Breakfast Item', 'Side'}"
+1350,Custard Classic (m1351),"{'Main Course', 'Dessert'}"
+1351,Breakfast Tacos Mild (m1352),{'Breakfast Item'}
+1352,Kale Salad Mild (m1353),"{'Soup', 'Salad', 'Breakfast Item'}"
+1353,Minestrone Special (m1354),"{'Salad', 'Soup', 'Dessert'}"
+1354,Mediterranean Salad Mild (m1355),{'Salad'}
+1355,Bagel (m1356),"{'Breakfast Item', 'Beverage'}"
+1356,Bruschetta (m1357),{'Appetizer'}
+1357,Tres Leches Cake Special (m1358),{'Dessert'}
+1358,Americano Classic (m1359),"{'Main Course', 'Beverage', 'Dessert'}"
+1359,Cheesecake Mild (m1360),{'Dessert'}
+1360,Oat Milk (m1361),{'Beverage'}
+1361,Steak Fajitas Classic (m1362),{'Main Course'}
+1362,Pork Schnitzel Mild (m1363),"{'Main Course', 'Salad', 'Appetizer'}"
+1363,Biscuits and Gravy Mild (m1364),"{'Main Course', 'Breakfast Item', 'Appetizer'}"
+1364,Orange Juice Mild (m1365),"{'Salad', 'Soup', 'Beverage'}"
+1365,Quinoa Deluxe (m1366),"{'Soup', 'Dessert', 'Side'}"
+1366,Chicken Quesadilla (m1367),"{'Main Course', 'Breakfast Item', 'Side'}"
+1367,Butternut Squash Soup Spicy (m1368),{'Soup'}
+1368,Tomato Soup Classic (m1369),{'Soup'}
+1369,Roasted Carrots Spicy (m1370),{'Side'}
+1370,Cauliflower Mash Spicy (m1371),{'Side'}
+1371,Clams Casino Premium (m1372),{'Appetizer'}
+1372,Red Velvet Cake Special (m1373),"{'Salad', 'Soup', 'Dessert'}"
+1373,Sausage Mild (m1374),{'Breakfast Item'}
+1374,Tuna Tartare (m1375),{'Appetizer'}
+1375,Stuffing Light (m1376),"{'Appetizer', 'Side'}"
+1376,Brussels Sprouts Special (m1377),"{'Soup', 'Side'}"
+1377,Baked Beans Premium (m1378),"{'Appetizer', 'Side'}"
+1378,Roast Turkey Light (m1379),{'Main Course'}
+1379,Taco Salad Deluxe (m1380),"{'Soup', 'Salad', 'Breakfast Item'}"
+1380,Banana Split Light (m1381),"{'Salad', 'Dessert'}"
+1381,Chocolate Cake (m1382),{'Dessert'}
+1382,Asian Salad Light (m1383),{'Salad'}
+1383,Greek Salad Deluxe (m1384),{'Salad'}
+1384,Fruit Smoothie Bowl Spicy (m1385),"{'Side', 'Breakfast Item', 'Appetizer'}"
+1385,Key Lime Pie Spicy (m1386),"{'Appetizer', 'Dessert'}"
+1386,French Fries Premium (m1387),{'Side'}
+1387,Lentil Soup Light (m1388),{'Soup'}
+1388,Couscous Deluxe (m1389),"{'Soup', 'Side'}"
+1389,Strawberry Shortcake Classic (m1390),{'Dessert'}
+1390,Rice Noodles Mild (m1391),"{'Appetizer', 'Beverage', 'Side'}"
+1391,Salmon Fillet Mild (m1392),{'Main Course'}
+1392,Beef Steak Special (m1393),"{'Main Course', 'Breakfast Item', 'Appetizer'}"
+1393,Egg Salad Spicy (m1394),"{'Side', 'Salad', 'Appetizer'}"
+1394,Banana Split Mild (m1395),"{'Side', 'Dessert'}"
+1395,Banana Smoothie Special (m1396),{'Beverage'}
+1396,Gelato Deluxe (m1397),"{'Salad', 'Breakfast Item', 'Dessert'}"
+1397,Water (m1398),{'Beverage'}
+1398,Oatmeal Deluxe (m1399),{'Breakfast Item'}
+1399,Vanilla Latte Special (m1400),{'Beverage'}
+1400,Breakfast Burrito Classic (m1401),"{'Breakfast Item', 'Side'}"
+1401,Potato Leek Soup Premium (m1402),{'Soup'}
+1402,Chef Salad Special (m1403),{'Salad'}
+1403,Tuna Tartare Spicy (m1404),{'Appetizer'}
+1404,Macarons Special (m1405),{'Dessert'}
+1405,Baked Beans Deluxe (m1406),{'Side'}
+1406,Asian Salad Premium (m1407),"{'Salad', 'Dessert', 'Side'}"
+1407,Prosciutto Melon Light (m1408),{'Appetizer'}
+1408,Wild Rice Deluxe (m1409),{'Side'}
+1409,Coleslaw Spicy (m1410),"{'Salad', 'Breakfast Item', 'Beverage'}"
+1410,Crab Cakes Classic (m1411),"{'Soup', 'Beverage', 'Appetizer'}"
+1411,Ramen Light (m1412),"{'Main Course', 'Soup', 'Side'}"
+1412,Pork Ribs Special (m1413),{'Main Course'}
+1413,Split Pea Soup Light (m1414),{'Soup'}
+1414,Onion Rings Deluxe (m1415),{'Side'}
+1415,Hot Tea Spicy (m1416),"{'Beverage', 'Side'}"
+1416,Hummus with Pita Deluxe (m1417),"{'Soup', 'Appetizer'}"
+1417,Tomato Soup Premium (m1418),{'Soup'}
+1418,Iced Coffee (m1419),{'Beverage'}
+1419,Mediterranean Salad Special (m1420),{'Salad'}
+1420,Butternut Squash Soup Classic (m1421),"{'Soup', 'Side'}"
+1421,Breakfast Tacos (m1422),"{'Main Course', 'Breakfast Item'}"
+1422,Egg Salad Mild (m1423),"{'Salad', 'Dessert'}"
+1423,Chicken Alfredo Mild (m1424),{'Main Course'}
+1424,Iced Tea Mild (m1425),"{'Main Course', 'Salad', 'Beverage'}"
+1425,Cereal Deluxe (m1426),"{'Salad', 'Breakfast Item'}"
+1426,Rice Pilaf Premium (m1427),"{'Dessert', 'Side'}"
+1427,Pumpkin Soup Deluxe (m1428),"{'Main Course', 'Soup', 'Dessert'}"
+1428,Fruit Smoothie Bowl Deluxe (m1429),"{'Breakfast Item', 'Beverage'}"
+1429,Panna Cotta Premium (m1430),"{'Main Course', 'Dessert'}"
+1430,Onion Rings Spicy (m1431),{'Side'}
+1431,Lemonade Light (m1432),"{'Beverage', 'Side'}"
+1432,Sweet Potato Fries Spicy (m1433),{'Side'}
+1433,Danish Mild (m1434),"{'Salad', 'Breakfast Item', 'Side'}"
+1434,Fruit Smoothie Bowl Classic (m1435),{'Breakfast Item'}
+1435,Orange Juice Classic (m1436),{'Beverage'}
+1436,Corned Beef Hash Premium (m1437),"{'Breakfast Item', 'Dessert'}"
+1437,Chef Salad (m1438),{'Salad'}
+1438,Bean Soup Classic (m1439),"{'Soup', 'Appetizer'}"
+1439,Potato Salad Special (m1440),"{'Salad', 'Dessert'}"
+1440,Chicken Wings Deluxe (m1441),{'Main Course'}
+1441,Mushroom Soup Light (m1442),"{'Soup', 'Side'}"
+1442,Crème Brûlée Light (m1443),"{'Soup', 'Dessert'}"
+1443,Chicken Alfredo Special (m1444),"{'Main Course', 'Breakfast Item'}"
+1444,Fish Tacos Mild (m1445),"{'Main Course', 'Salad', 'Side'}"
+1445,Pasta Salad Light (m1446),{'Salad'}
+1446,Quinoa Salad (m1447),"{'Salad', 'Dessert'}"
+1447,Broccoli Cheddar Soup Special (m1448),{'Soup'}
+1448,Pasta Salad Spicy (m1449),{'Salad'}
+1449,Avocado Toast Special (m1450),"{'Breakfast Item', 'Beverage'}"
+1450,Chicken Rice Soup (m1451),"{'Main Course', 'Soup', 'Dessert'}"
+1451,Steamed Vegetables Premium (m1452),{'Side'}
+1452,Vegetable Curry (m1453),{'Main Course'}
+1453,Soy Milk Premium (m1454),"{'Beverage', 'Appetizer'}"
+1454,Mushroom Soup Spicy (m1455),{'Soup'}
+1455,Edamame (m1456),"{'Breakfast Item', 'Dessert', 'Side'}"
+1456,Crab Cakes Classic (m1457),{'Appetizer'}
+1457,Bean Soup Classic (m1458),"{'Soup', 'Dessert'}"
+1458,Iced Coffee Premium (m1459),"{'Breakfast Item', 'Beverage'}"
+1459,Orange Juice Premium (m1460),"{'Beverage', 'Side'}"
+1460,Clam Chowder Special (m1461),"{'Salad', 'Soup', 'Beverage'}"
+1461,Cookies Special (m1462),"{'Appetizer', 'Dessert'}"
+1462,Cookies Special (m1463),"{'Breakfast Item', 'Dessert'}"
+1463,Beef Lo Mein Mild (m1464),"{'Main Course', 'Salad', 'Beverage'}"
+1464,Rice Noodles Light (m1465),"{'Dessert', 'Side'}"
+1465,Caprese Salad Light (m1466),"{'Salad', 'Side'}"
+1466,Clam Chowder Light (m1467),{'Soup'}
+1467,Chicken Salad Spicy (m1468),"{'Salad', 'Dessert', 'Side'}"
+1468,Shrimp Cocktail (m1469),{'Appetizer'}
+1469,Grilled Salmon Spicy (m1470),{'Main Course'}
+1470,Beef Tacos (m1471),{'Main Course'}
+1471,Mediterranean Salad Light (m1472),"{'Salad', 'Soup'}"
+1472,Chicken Noodle Soup Deluxe (m1473),"{'Soup', 'Beverage'}"
+1473,Spinach Salad Deluxe (m1474),"{'Salad', 'Breakfast Item', 'Main Course'}"
+1474,Cobb Salad Classic (m1475),"{'Salad', 'Beverage'}"
+1475,Flan Spicy (m1476),"{'Beverage', 'Dessert'}"
+1476,Gazpacho Special (m1477),{'Soup'}
+1477,Quinoa Salad Special (m1478),{'Salad'}
+1478,Crème Brûlée Light (m1479),{'Dessert'}
+1479,Yams Premium (m1480),"{'Appetizer', 'Side'}"
+1480,Lobster Bisque Special (m1481),"{'Soup', 'Side'}"
+1481,Bacon Spicy (m1482),{'Breakfast Item'}
+1482,Vegetable Soup Spicy (m1483),{'Soup'}
+1483,Asian Salad Deluxe (m1484),"{'Salad', 'Dessert'}"
+1484,Danish Light (m1485),{'Breakfast Item'}
+1485,Pineapple Juice (m1486),{'Beverage'}
+1486,Milk Classic (m1487),"{'Salad', 'Beverage', 'Appetizer'}"
+1487,Nachos Classic (m1488),{'Appetizer'}
+1488,Cheesecake Special (m1489),{'Dessert'}
+1489,Gelato Classic (m1490),"{'Main Course', 'Dessert'}"
+1490,Baked Beans Deluxe (m1491),"{'Main Course', 'Side'}"
+1491,Grilled Zucchini Light (m1492),{'Side'}
+1492,Clams Casino Spicy (m1493),{'Appetizer'}
+1493,Fish Tacos Deluxe (m1494),{'Main Course'}
+1494,Tea Classic (m1495),{'Beverage'}
+1495,Shrimp Salad Premium (m1496),"{'Salad', 'Side'}"
+1496,Greek Salad Mild (m1497),{'Salad'}
+1497,Oysters Premium (m1498),"{'Soup', 'Appetizer'}"
+1498,Iced Coffee (m1499),"{'Main Course', 'Beverage'}"
+1499,Cobb Salad Spicy (m1500),"{'Salad', 'Beverage'}"
+1500,Iced Tea Classic (m1501),{'Beverage'}
+1501,Mocha Mild (m1502),"{'Beverage', 'Appetizer'}"
+1502,Corn on the Cob Mild (m1503),"{'Breakfast Item', 'Side'}"
+1503,Mushroom Soup Light (m1504),{'Soup'}
+1504,Cheesecake Special (m1505),"{'Breakfast Item', 'Dessert'}"
+1505,Spring Rolls Spicy (m1506),{'Appetizer'}
+1506,Chocolate Cake Deluxe (m1507),"{'Side', 'Dessert'}"
+1507,Coleslaw (m1508),"{'Soup', 'Side'}"
+1508,Potato Salad Light (m1509),"{'Salad', 'Appetizer'}"
+1509,Fruit Tart (m1510),"{'Soup', 'Dessert'}"
+1510,Strawberry Shortcake Spicy (m1511),"{'Breakfast Item', 'Dessert'}"
+1511,Vegetable Curry Premium (m1512),{'Main Course'}
+1512,Beef Stew Special (m1513),"{'Main Course', 'Beverage', 'Appetizer'}"
+1513,Banana Smoothie (m1514),{'Beverage'}
+1514,Ginger Ale (m1515),"{'Main Course', 'Beverage'}"
+1515,Potato Leek Soup Premium (m1516),"{'Soup', 'Breakfast Item'}"
+1516,Chicken Enchiladas Light (m1517),"{'Main Course', 'Side'}"
+1517,Ramen Mild (m1518),{'Soup'}
+1518,Tomato Soup (m1519),"{'Soup', 'Beverage'}"
+1519,Tomato Soup Premium (m1520),"{'Soup', 'Breakfast Item', 'Dessert'}"
+1520,Panna Cotta Mild (m1521),"{'Soup', 'Dessert'}"
+1521,Avocado Toast Classic (m1522),{'Breakfast Item'}
+1522,Coleslaw Special (m1523),"{'Beverage', 'Side'}"
+1523,Coleslaw Premium (m1524),{'Side'}
+1524,Jalapeño Poppers Premium (m1525),"{'Main Course', 'Appetizer'}"
+1525,Pudding Mild (m1526),"{'Breakfast Item', 'Dessert'}"
+1526,Fried Rice (m1527),"{'Breakfast Item', 'Side'}"
+1527,Miso Soup (m1528),{'Soup'}
+1528,Asparagus Premium (m1529),{'Side'}
+1529,Crème Brûlée Mild (m1530),"{'Appetizer', 'Main Course', 'Dessert'}"
+1530,Pho Spicy (m1531),"{'Salad', 'Soup'}"
+1531,Mozzarella Sticks Special (m1532),{'Appetizer'}
+1532,Green Tea Premium (m1533),"{'Breakfast Item', 'Beverage'}"
+1533,Chocolate Mousse Special (m1534),{'Dessert'}
+1534,Roasted Vegetables Mild (m1535),{'Side'}
+1535,Asparagus Spicy (m1536),"{'Appetizer', 'Main Course', 'Side'}"
+1536,Potato Salad Classic (m1537),"{'Salad', 'Soup', 'Main Course'}"
+1537,Hash Browns Classic (m1538),{'Breakfast Item'}
+1538,Caesar Salad Light (m1539),"{'Salad', 'Breakfast Item', 'Dessert'}"
+1539,Key Lime Pie Premium (m1540),{'Dessert'}
+1540,Tomato Soup Light (m1541),{'Soup'}
+1541,Hummus with Pita Spicy (m1542),{'Appetizer'}
+1542,Beef Burrito Classic (m1543),{'Main Course'}
+1543,Bacon Wrapped Dates Light (m1544),"{'Main Course', 'Appetizer'}"
+1544,Potato Leek Soup Premium (m1545),{'Soup'}
+1545,Arugula Salad Premium (m1546),{'Salad'}
+1546,Crab Cakes (m1547),{'Appetizer'}
+1547,Herbal Tea Deluxe (m1548),"{'Main Course', 'Beverage'}"
+1548,Panna Cotta Special (m1549),{'Dessert'}
+1549,Potato Skins Spicy (m1550),{'Appetizer'}
+1550,Fruit Tart Premium (m1551),{'Dessert'}
+1551,Pudding Light (m1552),"{'Main Course', 'Dessert'}"
+1552,Mashed Potatoes (m1553),"{'Appetizer', 'Dessert', 'Side'}"
+1553,Stuffed Mushrooms Light (m1554),"{'Main Course', 'Appetizer'}"
+1554,Pork Schnitzel Light (m1555),{'Main Course'}
+1555,Grilled Chicken Special (m1556),{'Main Course'}
+1556,Sausage (m1557),{'Breakfast Item'}
+1557,Lobster Bisque Mild (m1558),"{'Salad', 'Soup', 'Side'}"
+1558,Cola Premium (m1559),"{'Main Course', 'Beverage'}"
+1559,Chai Latte Mild (m1560),"{'Beverage', 'Dessert'}"
+1560,Fish Tacos Spicy (m1561),"{'Main Course', 'Beverage', 'Side'}"
+1561,Hot and Sour Soup Classic (m1562),"{'Soup', 'Dessert'}"
+1562,Mushroom Soup Light (m1563),{'Soup'}
+1563,Carrot Ginger Soup Special (m1564),"{'Salad', 'Soup', 'Breakfast Item'}"
+1564,Clams Casino Deluxe (m1565),"{'Beverage', 'Dessert', 'Appetizer'}"
+1565,Pork Ribs Classic (m1566),{'Main Course'}
+1566,English Muffin Classic (m1567),"{'Salad', 'Breakfast Item'}"
+1567,Nicoise Salad (m1568),"{'Salad', 'Side'}"
+1568,Hummus with Pita Deluxe (m1569),{'Appetizer'}
+1569,Cobbler Premium (m1570),{'Dessert'}
+1570,Avocado Toast Deluxe (m1571),{'Breakfast Item'}
+1571,Crème Brûlée (m1572),"{'Main Course', 'Breakfast Item', 'Dessert'}"
+1572,Caesar Salad Premium (m1573),{'Salad'}
+1573,Nachos Deluxe (m1574),{'Appetizer'}
+1574,Churros (m1575),{'Dessert'}
+1575,Mocha (m1576),"{'Soup', 'Beverage'}"
+1576,Matcha Latte Classic (m1577),{'Beverage'}
+1577,Nicoise Salad Mild (m1578),"{'Salad', 'Soup', 'Side'}"
+1578,Frittata Mild (m1579),{'Breakfast Item'}
+1579,Cheesecake Deluxe (m1580),"{'Appetizer', 'Salad', 'Dessert'}"
+1580,BBQ Chicken Light (m1581),"{'Main Course', 'Dessert'}"
+1581,Prosciutto Melon Mild (m1582),{'Appetizer'}
+1582,Mushroom Soup Classic (m1583),"{'Salad', 'Soup', 'Breakfast Item'}"
+1583,Lemon Tart Spicy (m1584),"{'Appetizer', 'Dessert'}"
+1584,Sprite Deluxe (m1585),"{'Beverage', 'Side'}"
+1585,Cobb Salad Classic (m1586),"{'Salad', 'Dessert'}"
+1586,Mashed Potatoes Light (m1587),"{'Main Course', 'Side'}"
+1587,Breakfast Potatoes Special (m1588),{'Breakfast Item'}
+1588,Raspberry Lemonade Spicy (m1589),"{'Beverage', 'Side'}"
+1589,Pho Classic (m1590),{'Soup'}
+1590,Mozzarella Sticks Deluxe (m1591),{'Appetizer'}
+1591,Meatloaf (m1592),"{'Main Course', 'Breakfast Item'}"
+1592,Waffles Deluxe (m1593),"{'Salad', 'Breakfast Item'}"
+1593,Chicken Curry Special (m1594),{'Main Course'}
+1594,Pho (m1595),{'Soup'}
+1595,Corn on the Cob Spicy (m1596),"{'Beverage', 'Side'}"
+1596,Creamed Spinach Deluxe (m1597),{'Side'}
+1597,Chicken Noodle Soup (m1598),"{'Soup', 'Beverage', 'Dessert'}"
+1598,Tuna Tartare (m1599),{'Appetizer'}
+1599,English Muffin Spicy (m1600),{'Breakfast Item'}
+1600,Lamb Chops Premium (m1601),"{'Main Course', 'Soup', 'Salad'}"
+1601,Nicoise Salad Deluxe (m1602),"{'Salad', 'Appetizer'}"
+1602,Chicken Enchiladas Light (m1603),"{'Main Course', 'Beverage'}"
+1603,Custard Mild (m1604),"{'Appetizer', 'Breakfast Item', 'Dessert'}"
+1604,Cobbler Premium (m1605),{'Dessert'}
+1605,Strawberry Smoothie Classic (m1606),{'Beverage'}
+1606,Beef Steak (m1607),"{'Main Course', 'Soup'}"
+1607,Vanilla Latte Premium (m1608),"{'Soup', 'Beverage', 'Side'}"
+1608,Waffles Classic (m1609),{'Breakfast Item'}
+1609,Lentil Soup Deluxe (m1610),"{'Salad', 'Soup'}"
+1610,Meatball Sub Light (m1611),{'Main Course'}
+1611,Roasted Carrots Classic (m1612),"{'Soup', 'Breakfast Item', 'Side'}"
+1612,Burger Premium (m1613),{'Main Course'}
+1613,Fish Tacos Light (m1614),{'Main Course'}
+1614,Beef Stew (m1615),"{'Soup', 'Breakfast Item'}"
+1615,Coconut Water Light (m1616),"{'Salad', 'Soup', 'Beverage'}"
+1616,Custard Spicy (m1617),{'Dessert'}
+1617,Samosas Light (m1618),{'Appetizer'}
+1618,Jalapeño Poppers Deluxe (m1619),{'Appetizer'}
+1619,Fruit Smoothie Bowl Premium (m1620),"{'Breakfast Item', 'Dessert'}"
+1620,Chicken Tortilla Soup Classic (m1621),"{'Soup', 'Dessert', 'Side'}"
+1621,Kale Salad Classic (m1622),"{'Salad', 'Main Course'}"
+1622,Eggs Benedict Deluxe (m1623),"{'Breakfast Item', 'Appetizer'}"
+1623,Beef Lo Mein Premium (m1624),"{'Soup', 'Main Course', 'Breakfast Item'}"
+1624,Omelet Deluxe (m1625),{'Breakfast Item'}
+1625,Toast Classic (m1626),"{'Breakfast Item', 'Dessert'}"
+1626,Arugula Salad (m1627),{'Salad'}
+1627,Clam Chowder Mild (m1628),{'Soup'}
+1628,Caprese Salad Premium (m1629),"{'Salad', 'Breakfast Item'}"
+1629,Toast Deluxe (m1630),"{'Main Course', 'Breakfast Item'}"
+1630,Rice Pudding Spicy (m1631),{'Dessert'}
+1631,Crepes Mild (m1632),{'Breakfast Item'}
+1632,Red Velvet Cake Special (m1633),"{'Main Course', 'Dessert'}"
+1633,Vegetable Soup Deluxe (m1634),"{'Soup', 'Appetizer'}"
+1634,Deviled Eggs Deluxe (m1635),"{'Side', 'Breakfast Item', 'Appetizer'}"
+1635,Mozzarella Sticks Spicy (m1636),"{'Salad', 'Dessert', 'Appetizer'}"
+1636,Chocolate Cake Classic (m1637),{'Dessert'}
+1637,Chicken Parmesan Light (m1638),{'Main Course'}
+1638,Couscous Classic (m1639),"{'Main Course', 'Beverage', 'Side'}"
+1639,Water Spicy (m1640),{'Beverage'}
+1640,Strawberry Shortcake Light (m1641),"{'Soup', 'Dessert'}"
+1641,Parfait Spicy (m1642),"{'Side', 'Dessert'}"
+1642,Rice Pudding Deluxe (m1643),{'Dessert'}
+1643,Spinach Salad (m1644),{'Salad'}
+1644,Garlic Bread Special (m1645),"{'Breakfast Item', 'Side'}"
+1645,Crepes Light (m1646),"{'Salad', 'Breakfast Item'}"
+1646,Baked Beans Mild (m1647),{'Side'}
+1647,Breakfast Potatoes Light (m1648),"{'Main Course', 'Breakfast Item', 'Side'}"
+1648,Ratatouille Premium (m1649),{'Side'}
+1649,Fried Pickles Classic (m1650),{'Appetizer'}
+1650,Cinnamon Roll Light (m1651),"{'Salad', 'Breakfast Item', 'Beverage'}"
+1651,Kale Salad Premium (m1652),{'Salad'}
+1652,Gazpacho Mild (m1653),"{'Side', 'Soup', 'Dessert'}"
+1653,Corn on the Cob Deluxe (m1654),{'Side'}
+1654,Hot Tea Premium (m1655),{'Beverage'}
+1655,Chicken Salad Classic (m1656),"{'Salad', 'Breakfast Item', 'Main Course'}"
+1656,Coffee Classic (m1657),"{'Beverage', 'Side'}"
+1657,Tomato Soup Classic (m1658),"{'Soup', 'Appetizer'}"
+1658,Fish Tacos Special (m1659),"{'Main Course', 'Beverage'}"
+1659,Strawberry Shortcake Premium (m1660),"{'Appetizer', 'Dessert'}"
+1660,Mango Juice (m1661),{'Beverage'}
+1661,Chicken Tortilla Soup Classic (m1662),"{'Salad', 'Soup', 'Side'}"
+1662,Sushi Roll Spicy (m1663),{'Main Course'}
+1663,Pho Light (m1664),"{'Soup', 'Beverage'}"
+1664,Split Pea Soup Deluxe (m1665),{'Soup'}
+1665,Pancakes Deluxe (m1666),"{'Side', 'Breakfast Item', 'Appetizer'}"
+1666,Creamed Spinach (m1667),"{'Dessert', 'Side'}"
+1667,Veggie Burger Special (m1668),{'Main Course'}
+1668,Chicken Tikka Masala Mild (m1669),{'Main Course'}
+1669,Onion Rings Spicy (m1670),"{'Beverage', 'Side'}"
+1670,Hot Chocolate Premium (m1671),{'Beverage'}
+1671,Chicken Skewers Classic (m1672),"{'Main Course', 'Appetizer'}"
+1672,Yogurt Premium (m1673),"{'Breakfast Item', 'Side'}"
+1673,Macarons Mild (m1674),{'Dessert'}
+1674,Oat Milk Deluxe (m1675),{'Beverage'}
+1675,Asparagus Deluxe (m1676),{'Side'}
+1676,Stuffed Mushrooms Special (m1677),"{'Breakfast Item', 'Appetizer'}"
+1677,Custard (m1678),{'Dessert'}
+1678,Vegetable Soup Premium (m1679),"{'Soup', 'Side'}"
+1679,Chicken Noodle Soup (m1680),{'Soup'}
+1680,Breakfast Tacos Deluxe (m1681),"{'Soup', 'Breakfast Item', 'Side'}"
+1681,Matcha Latte Premium (m1682),"{'Salad', 'Beverage'}"
+1682,Chicken Noodle Soup Deluxe (m1683),{'Soup'}
+1683,Fish Curry Special (m1684),"{'Main Course', 'Salad'}"
+1684,Danish Premium (m1685),"{'Main Course', 'Breakfast Item'}"
+1685,Peach Tea Mild (m1686),"{'Soup', 'Beverage'}"
+1686,Flan (m1687),{'Dessert'}
+1687,Pad Thai Deluxe (m1688),"{'Main Course', 'Dessert'}"
+1688,Fruit Tart Deluxe (m1689),"{'Main Course', 'Dessert'}"
+1689,Scone Mild (m1690),{'Breakfast Item'}
+1690,Burger Light (m1691),"{'Main Course', 'Side'}"
+1691,Fruit Punch Special (m1692),"{'Beverage', 'Appetizer'}"
+1692,Ice Cream Spicy (m1693),"{'Salad', 'Dessert'}"
+1693,Pasta Salad Classic (m1694),{'Salad'}
+1694,Stuffed Peppers Mild (m1695),{'Appetizer'}
+1695,Cheese Platter Deluxe (m1696),{'Appetizer'}
+1696,Brownies Spicy (m1697),{'Dessert'}
+1697,Ratatouille Spicy (m1698),{'Side'}
+1698,Clams Casino Premium (m1699),{'Appetizer'}
+1699,Tuna Tartare Special (m1700),"{'Main Course', 'Appetizer'}"
+1700,Chef Salad Deluxe (m1701),{'Salad'}
+1701,Almond Milk Classic (m1702),"{'Main Course', 'Beverage'}"
+1702,Chicken Skewers Light (m1703),{'Appetizer'}
+1703,Cola Classic (m1704),"{'Beverage', 'Side'}"
+1704,Bagel Spicy (m1705),"{'Salad', 'Breakfast Item', 'Main Course'}"
+1705,Corn on the Cob Spicy (m1706),"{'Soup', 'Side'}"
+1706,Sautéed Mushrooms Special (m1707),{'Side'}
+1707,Cappuccino Light (m1708),"{'Salad', 'Beverage', 'Side'}"
+1708,Pasta Carbonara Deluxe (m1709),"{'Main Course', 'Breakfast Item'}"
+1709,Tomato Soup Mild (m1710),{'Soup'}
+1710,Pepsi Special (m1711),"{'Breakfast Item', 'Beverage'}"
+1711,Fruit Punch Light (m1712),"{'Beverage', 'Side'}"
+1712,Lentil Soup (m1713),"{'Soup', 'Beverage', 'Side'}"
+1713,Chocolate Mousse Special (m1714),"{'Soup', 'Dessert'}"
+1714,Chicken Shawarma Deluxe (m1715),{'Main Course'}
+1715,Chicken Rice Soup (m1716),{'Soup'}
+1716,Gelato Light (m1717),"{'Breakfast Item', 'Dessert'}"
+1717,Hash Browns Classic (m1718),"{'Dessert', 'Side'}"
+1718,Cobbler Mild (m1719),"{'Soup', 'Dessert'}"
+1719,Carrot Cake (m1720),"{'Breakfast Item', 'Dessert'}"
+1720,Garden Salad Special (m1721),"{'Salad', 'Main Course'}"
+1721,Roasted Vegetables Special (m1722),{'Side'}
+1722,Samosas Light (m1723),"{'Side', 'Appetizer'}"
+1723,Tuna Tartare Mild (m1724),"{'Salad', 'Appetizer'}"
+1724,Chef Salad Classic (m1725),{'Salad'}
+1725,Scone Premium (m1726),{'Breakfast Item'}
+1726,Carrot Ginger Soup Premium (m1727),"{'Main Course', 'Soup'}"
+1727,Shrimp Salad Light (m1728),{'Salad'}
+1728,Roasted Carrots Classic (m1729),"{'Main Course', 'Side'}"
+1729,Tater Tots Classic (m1730),{'Side'}
+1730,Pork Schnitzel Premium (m1731),"{'Main Course', 'Soup', 'Appetizer'}"
+1731,Chef Salad Special (m1732),{'Salad'}
+1732,Caprese Salad Deluxe (m1733),{'Appetizer'}
+1733,Key Lime Pie Premium (m1734),{'Dessert'}
+1734,Arugula Salad Special (m1735),"{'Salad', 'Beverage'}"
+1735,BBQ Chicken Special (m1736),{'Main Course'}
+1736,Ratatouille Mild (m1737),"{'Appetizer', 'Side'}"
+1737,Apple Juice Classic (m1738),{'Beverage'}
+1738,Falafel Wrap Deluxe (m1739),"{'Main Course', 'Breakfast Item'}"
+1739,Orange Juice Spicy (m1740),{'Beverage'}
+1740,Beef Stew Light (m1741),{'Soup'}
+1741,Tomato Soup Premium (m1742),"{'Main Course', 'Soup', 'Side'}"
+1742,Shrimp Cocktail Mild (m1743),"{'Salad', 'Beverage', 'Appetizer'}"
+1743,Matcha Latte (m1744),"{'Beverage', 'Side'}"
+1744,Churros Premium (m1745),{'Dessert'}
+1745,Pumpkin Soup Light (m1746),{'Soup'}
+1746,Chicken Souvlaki Light (m1747),{'Main Course'}
+1747,Sautéed Mushrooms (m1748),{'Side'}
+1748,Pudding Premium (m1749),{'Dessert'}
+1749,Lamb Kebab Classic (m1750),"{'Main Course', 'Soup', 'Side'}"
+1750,Yams Deluxe (m1751),"{'Dessert', 'Side'}"
+1751,Ramen (m1752),"{'Salad', 'Soup'}"
+1752,Crème Brûlée Spicy (m1753),"{'Breakfast Item', 'Dessert'}"
+1753,Pepsi Light (m1754),"{'Main Course', 'Beverage'}"
+1754,Roasted Vegetables Mild (m1755),{'Side'}
+1755,Fish Tacos Mild (m1756),{'Main Course'}
+1756,Water Spicy (m1757),{'Beverage'}
+1757,Potato Salad (m1758),"{'Salad', 'Soup'}"
+1758,Cookies Deluxe (m1759),"{'Appetizer', 'Beverage', 'Dessert'}"
+1759,Croissant Mild (m1760),"{'Salad', 'Breakfast Item', 'Appetizer'}"
+1760,Carrot Ginger Soup Spicy (m1761),"{'Soup', 'Dessert'}"
+1761,Danish Mild (m1762),{'Breakfast Item'}
+1762,Couscous Light (m1763),{'Side'}
+1763,Roasted Vegetables Mild (m1764),"{'Soup', 'Side'}"
+1764,Creamed Spinach Classic (m1765),"{'Salad', 'Breakfast Item', 'Side'}"
+1765,Pumpkin Soup Special (m1766),{'Soup'}
+1766,Jalapeño Poppers Mild (m1767),{'Appetizer'}
+1767,Roast Turkey Classic (m1768),{'Main Course'}
+1768,Pork Fried Rice Special (m1769),{'Main Course'}
+1769,Chicken Salad Deluxe (m1770),"{'Salad', 'Side'}"
+1770,Broccoli Cheddar Soup (m1771),"{'Side', 'Soup', 'Appetizer'}"
+1771,Spinach Artichoke Dip Mild (m1772),"{'Salad', 'Main Course', 'Appetizer'}"
+1772,Vegetable Soup Spicy (m1773),{'Soup'}
+1773,Tuna Salad Spicy (m1774),{'Salad'}
+1774,Samosas Spicy (m1775),"{'Salad', 'Main Course', 'Appetizer'}"
+1775,Samosas Mild (m1776),{'Appetizer'}
+1776,Quiche Classic (m1777),{'Breakfast Item'}
+1777,Mediterranean Salad Light (m1778),"{'Salad', 'Dessert'}"
+1778,Grilled Zucchini Classic (m1779),{'Side'}
+1779,Fish Tacos Classic (m1780),{'Main Course'}
+1780,Herbal Tea Classic (m1781),{'Beverage'}
+1781,Milk Premium (m1782),"{'Soup', 'Beverage'}"
+1782,Pork Chops Spicy (m1783),{'Main Course'}
+1783,Falafel Wrap Deluxe (m1784),{'Main Course'}
+1784,Broccoli Cheddar Soup Special (m1785),"{'Soup', 'Appetizer'}"
+1785,Chicken Quesadilla Mild (m1786),"{'Main Course', 'Side'}"
+1786,Cheesecake Special (m1787),{'Dessert'}
+1787,Sprite Classic (m1788),"{'Beverage', 'Appetizer'}"
+1788,Oysters Special (m1789),"{'Breakfast Item', 'Dessert', 'Appetizer'}"
+1789,Pumpkin Soup Deluxe (m1790),{'Soup'}
+1790,Pork Tenderloin Special (m1791),"{'Main Course', 'Side'}"
+1791,Bread Pudding Deluxe (m1792),"{'Main Course', 'Dessert'}"
+1792,Cupcakes Classic (m1793),{'Dessert'}
+1793,Hot and Sour Soup Light (m1794),"{'Salad', 'Soup', 'Appetizer'}"
+1794,Sausage Spicy (m1795),"{'Breakfast Item', 'Dessert'}"
+1795,Soy Milk Mild (m1796),"{'Salad', 'Soup', 'Beverage'}"
+1796,Bean Soup Premium (m1797),"{'Soup', 'Dessert'}"
+1797,Greek Salad Classic (m1798),{'Salad'}
+1798,Carrot Cake Spicy (m1799),"{'Appetizer', 'Dessert'}"
+1799,Fish Curry Spicy (m1800),{'Main Course'}
+1800,Tea Mild (m1801),"{'Beverage', 'Dessert'}"
+1801,Baklava Classic (m1802),{'Dessert'}
+1802,Polenta Special (m1803),{'Side'}
+1803,Greek Salad Deluxe (m1804),{'Salad'}
+1804,Oat Milk Special (m1805),{'Beverage'}
+1805,Omelet (m1806),"{'Soup', 'Salad', 'Breakfast Item'}"
+1806,Samosas Spicy (m1807),{'Appetizer'}
+1807,Waldorf Salad (m1808),{'Salad'}
+1808,Cannoli Special (m1809),{'Dessert'}
+1809,Caprese Salad (m1810),"{'Main Course', 'Appetizer'}"
+1810,Kale Salad Mild (m1811),{'Salad'}
+1811,Veggie Burger Premium (m1812),{'Main Course'}
+1812,Yogurt Premium (m1813),{'Breakfast Item'}
+1813,Croissant Special (m1814),{'Breakfast Item'}
+1814,Chocolate Cake Light (m1815),{'Dessert'}
+1815,Cobbler Premium (m1816),{'Dessert'}
+1816,Quinoa Salad Spicy (m1817),{'Salad'}
+1817,Clam Chowder Mild (m1818),"{'Soup', 'Dessert'}"
+1818,Pork Ribs Premium (m1819),"{'Main Course', 'Beverage'}"
+1819,Yogurt Classic (m1820),{'Breakfast Item'}
+1820,Gelato Mild (m1821),{'Dessert'}
+1821,Mango Juice Mild (m1822),{'Beverage'}
+1822,Hot and Sour Soup (m1823),"{'Soup', 'Beverage'}"
+1823,Tuna Salad (m1824),{'Salad'}
+1824,Chicken Rice Soup Deluxe (m1825),{'Soup'}
+1825,Croissant Premium (m1826),{'Breakfast Item'}
+1826,Beef Carpaccio Special (m1827),{'Appetizer'}
+1827,Green Beans Spicy (m1828),{'Side'}
+1828,Beef Burrito Special (m1829),"{'Main Course', 'Dessert'}"
+1829,Jalapeño Poppers Deluxe (m1830),"{'Dessert', 'Appetizer'}"
+1830,Fruit Bowl Special (m1831),{'Breakfast Item'}
+1831,Eggs Benedict Mild (m1832),{'Breakfast Item'}
+1832,Chicken Skewers Light (m1833),"{'Salad', 'Appetizer'}"
+1833,Hash Browns Premium (m1834),{'Side'}
+1834,Asian Salad Deluxe (m1835),{'Salad'}
+1835,Buffalo Wings Special (m1836),{'Appetizer'}
+1836,Beet Salad (m1837),{'Salad'}
+1837,Tiramisu (m1838),{'Dessert'}
+1838,Lamb Kebab Deluxe (m1839),"{'Main Course', 'Appetizer'}"
+1839,Breakfast Tacos Classic (m1840),{'Breakfast Item'}
+1840,Iced Tea Premium (m1841),{'Beverage'}
+1841,Panna Cotta (m1842),{'Dessert'}
+1842,Beef Steak Premium (m1843),"{'Main Course', 'Soup', 'Beverage'}"
+1843,Pork Tenderloin Deluxe (m1844),"{'Main Course', 'Salad', 'Breakfast Item'}"
+1844,Macarons Premium (m1845),"{'Beverage', 'Dessert'}"
+1845,Breakfast Sandwich Light (m1846),"{'Breakfast Item', 'Beverage'}"
+1846,Sorbet Light (m1847),"{'Main Course', 'Dessert'}"
+1847,Pork Ribs Spicy (m1848),"{'Main Course', 'Breakfast Item'}"
+1848,Quinoa Premium (m1849),{'Side'}
+1849,Omelet Mild (m1850),{'Breakfast Item'}
+1850,Lamb Kebab Deluxe (m1851),{'Main Course'}
+1851,Hot Chocolate Special (m1852),{'Beverage'}
+1852,French Fries Deluxe (m1853),{'Side'}
+1853,Brownies Mild (m1854),"{'Beverage', 'Dessert'}"
+1854,Kale Salad Special (m1855),"{'Salad', 'Soup'}"
+1855,Chicken Noodle Soup (m1856),{'Soup'}
+1856,Granola Classic (m1857),"{'Breakfast Item', 'Dessert'}"
+1857,Coleslaw Light (m1858),"{'Salad', 'Soup', 'Beverage'}"
+1858,Lasagna Special (m1859),{'Main Course'}
+1859,Onion Rings Premium (m1860),{'Side'}
+1860,Eggs Benedict Premium (m1861),"{'Main Course', 'Breakfast Item', 'Salad'}"
+1861,Americano Spicy (m1862),{'Beverage'}
+1862,Ramen Light (m1863),{'Soup'}
+1863,Potato Salad Special (m1864),{'Side'}
+1864,Frittata Mild (m1865),{'Breakfast Item'}
+1865,Sorbet Spicy (m1866),{'Dessert'}
+1866,Rice Pudding Premium (m1867),{'Dessert'}
+1867,Bread Pudding Classic (m1868),{'Dessert'}
+1868,Carrot Cake Light (m1869),{'Dessert'}
+1869,Edamame Spicy (m1870),{'Side'}
+1870,Avocado Toast Special (m1871),{'Breakfast Item'}
+1871,Potato Skins Premium (m1872),{'Appetizer'}
+1872,Mac and Cheese Classic (m1873),"{'Main Course', 'Side'}"
+1873,Raspberry Lemonade (m1874),{'Beverage'}
+1874,Waldorf Salad Deluxe (m1875),{'Salad'}
+1875,Lamb Chops Premium (m1876),"{'Soup', 'Main Course', 'Breakfast Item'}"
+1876,Pork Fried Rice Mild (m1877),"{'Main Course', 'Salad'}"
+1877,Pasta Salad Mild (m1878),{'Salad'}
+1878,Egg Salad Spicy (m1879),{'Salad'}
+1879,Shrimp Scampi Classic (m1880),"{'Main Course', 'Beverage'}"
+1880,Split Pea Soup Special (m1881),{'Soup'}
+1881,Hot Chocolate Classic (m1882),{'Beverage'}
+1882,Churros Special (m1883),"{'Appetizer', 'Dessert'}"
+1883,Macarons Light (m1884),"{'Breakfast Item', 'Dessert'}"
+1884,Pancakes Light (m1885),"{'Main Course', 'Breakfast Item'}"
+1885,Nachos Classic (m1886),{'Appetizer'}
+1886,Carrot Cake Spicy (m1887),{'Dessert'}
+1887,Muffin Premium (m1888),"{'Breakfast Item', 'Beverage'}"
+1888,Fruit Smoothie Bowl Special (m1889),{'Breakfast Item'}
+1889,Grilled Eggplant Light (m1890),{'Side'}
+1890,Meatball Sub Mild (m1891),{'Main Course'}
+1891,Cobb Salad Mild (m1892),{'Salad'}
+1892,Pepsi Classic (m1893),{'Beverage'}
+1893,Chicken Teriyaki Premium (m1894),"{'Main Course', 'Soup'}"
+1894,Potato Leek Soup Special (m1895),"{'Salad', 'Soup', 'Side'}"
+1895,Pork Fried Rice Light (m1896),"{'Main Course', 'Soup'}"
+1896,Rice Noodles Deluxe (m1897),"{'Beverage', 'Side'}"
+1897,Asian Salad Premium (m1898),"{'Salad', 'Appetizer'}"
+1898,Scone Spicy (m1899),{'Breakfast Item'}
+1899,Calamari Mild (m1900),"{'Beverage', 'Appetizer'}"
+1900,Breakfast Potatoes Classic (m1901),"{'Salad', 'Breakfast Item'}"
+1901,Polenta Special (m1902),"{'Main Course', 'Side'}"
+1902,Pancakes Premium (m1903),{'Breakfast Item'}
+1903,Water Premium (m1904),"{'Main Course', 'Beverage'}"
+1904,Hot and Sour Soup Special (m1905),{'Soup'}
+1905,Coffee Spicy (m1906),"{'Main Course', 'Breakfast Item', 'Beverage'}"
+1906,Stuffed Peppers (m1907),{'Appetizer'}
+1907,Bread Pudding Classic (m1908),"{'Appetizer', 'Dessert'}"
+1908,Edamame (m1909),"{'Beverage', 'Appetizer'}"
+1909,Beef Carpaccio Spicy (m1910),{'Appetizer'}
+1910,Ramen Deluxe (m1911),"{'Salad', 'Soup'}"
+1911,Butternut Squash Soup Light (m1912),"{'Soup', 'Breakfast Item'}"
+1912,Sushi Roll Mild (m1913),"{'Main Course', 'Breakfast Item', 'Dessert'}"
+1913,Peach Tea Special (m1914),"{'Soup', 'Beverage'}"
+1914,Fruit Salad Classic (m1915),"{'Salad', 'Beverage'}"
+1915,Key Lime Pie Deluxe (m1916),"{'Appetizer', 'Dessert'}"
+1916,Quinoa Salad Classic (m1917),"{'Salad', 'Breakfast Item'}"
+1917,Shrimp Cocktail Classic (m1918),{'Appetizer'}
+1918,Granola Special (m1919),{'Breakfast Item'}
+1919,Sprite (m1920),"{'Beverage', 'Side'}"
+1920,Coconut Water Classic (m1921),{'Beverage'}
+1921,Scrambled Eggs (m1922),{'Breakfast Item'}
+1922,Caprese Salad Premium (m1923),"{'Salad', 'Appetizer'}"
+1923,Pasta Salad Classic (m1924),"{'Salad', 'Soup', 'Side'}"
+1924,Milk Spicy (m1925),{'Beverage'}
+1925,Chocolate Cake (m1926),{'Dessert'}
+1926,Yogurt Spicy (m1927),"{'Breakfast Item', 'Beverage', 'Appetizer'}"
+1927,Vegetable Soup Premium (m1928),{'Soup'}
+1928,Calamari Mild (m1929),{'Appetizer'}
+1929,Clams Casino Premium (m1930),"{'Beverage', 'Appetizer'}"
+1930,Falafel Wrap Light (m1931),"{'Main Course', 'Salad'}"
+1931,Stuffing Special (m1932),"{'Breakfast Item', 'Beverage', 'Side'}"
+1932,Samosas Spicy (m1933),{'Appetizer'}
+1933,Carrot Ginger Soup Spicy (m1934),{'Soup'}
+1934,Eggs Benedict Mild (m1935),{'Breakfast Item'}
+1935,Bean Soup Premium (m1936),"{'Soup', 'Beverage', 'Dessert'}"
+1936,Chicken Salad Spicy (m1937),"{'Salad', 'Dessert'}"
+1937,Sorbet Mild (m1938),{'Dessert'}
+1938,Hash Browns Spicy (m1939),{'Side'}
+1939,Spinach Artichoke Dip Deluxe (m1940),"{'Soup', 'Appetizer'}"
+1940,Sorbet Deluxe (m1941),"{'Side', 'Soup', 'Dessert'}"
+1941,Shrimp Scampi Deluxe (m1942),{'Main Course'}
+1942,Potato Salad Spicy (m1943),{'Side'}
+1943,Hot and Sour Soup (m1944),{'Soup'}
+1944,Grape Juice Special (m1945),"{'Breakfast Item', 'Beverage'}"
+1945,Chicken Noodle Soup Spicy (m1946),"{'Soup', 'Breakfast Item'}"
+1946,Bacon Wrapped Dates Light (m1947),"{'Salad', 'Appetizer'}"
+1947,Hot Tea Classic (m1948),{'Beverage'}
+1948,Cupcakes Mild (m1949),"{'Appetizer', 'Dessert'}"
+1949,Carrot Cake Light (m1950),{'Dessert'}
+1950,Soy Milk (m1951),"{'Beverage', 'Side'}"
+1951,Burger Light (m1952),"{'Main Course', 'Beverage'}"
+1952,Nachos (m1953),{'Appetizer'}
+1953,Shrimp Salad (m1954),"{'Salad', 'Beverage'}"
+1954,Muffin Mild (m1955),"{'Main Course', 'Breakfast Item'}"
+1955,Eggs Benedict Special (m1956),{'Breakfast Item'}
+1956,Banana Smoothie Special (m1957),"{'Beverage', 'Dessert'}"
+1957,Potato Salad Mild (m1958),{'Salad'}
+1958,Kale Salad Spicy (m1959),{'Salad'}
+1959,Chicken Souvlaki Spicy (m1960),{'Main Course'}
+1960,Egg Salad Light (m1961),"{'Salad', 'Beverage', 'Appetizer'}"
+1961,French Fries Classic (m1962),"{'Dessert', 'Side'}"
+1962,Caprese Salad Spicy (m1963),"{'Salad', 'Appetizer'}"
+1963,Potato Salad (m1964),"{'Salad', 'Main Course'}"
+1964,Lemon Tart (m1965),"{'Breakfast Item', 'Dessert'}"
+1965,Lasagna Light (m1966),{'Main Course'}
+1966,Mango Juice Spicy (m1967),"{'Soup', 'Beverage'}"
+1967,Beef Kebab Special (m1968),"{'Main Course', 'Side'}"
+1968,Corn on the Cob (m1969),{'Side'}
+1969,Split Pea Soup Deluxe (m1970),"{'Soup', 'Beverage'}"
+1970,Mediterranean Salad Classic (m1971),"{'Salad', 'Beverage'}"
+1971,Prosciutto Melon Premium (m1972),"{'Side', 'Appetizer'}"
+1972,Chicken Tortilla Soup Special (m1973),"{'Salad', 'Soup', 'Breakfast Item'}"
+1973,Stuffing Special (m1974),{'Side'}
+1974,Couscous Spicy (m1975),{'Side'}
+1975,Chicken Fried Rice Light (m1976),{'Main Course'}
+1976,Ice Cream Classic (m1977),{'Dessert'}
+1977,Chocolate Milk Deluxe (m1978),{'Beverage'}
+1978,Prosciutto Melon Premium (m1979),"{'Side', 'Appetizer'}"
+1979,Beef Stew Deluxe (m1980),"{'Main Course', 'Soup'}"
+1980,English Muffin Special (m1981),"{'Main Course', 'Breakfast Item'}"
+1981,Fruit Salad Spicy (m1982),{'Salad'}
+1982,Hash Browns Light (m1983),"{'Breakfast Item', 'Side'}"
+1983,Apple Pie Special (m1984),"{'Side', 'Dessert'}"
+1984,Éclair Premium (m1985),{'Dessert'}
+1985,Clam Chowder Classic (m1986),{'Soup'}
+1986,Biscuits and Gravy Light (m1987),{'Breakfast Item'}
+1987,Vegetable Soup Classic (m1988),"{'Soup', 'Dessert'}"
+1988,Roasted Vegetables Mild (m1989),"{'Beverage', 'Side'}"
+1989,Goat Cheese Crostini Special (m1990),{'Appetizer'}
+1990,Mediterranean Salad Premium (m1991),{'Salad'}
+1991,Split Pea Soup Mild (m1992),{'Soup'}
+1992,French Onion Soup Deluxe (m1993),{'Soup'}
+1993,Wild Rice Deluxe (m1994),"{'Main Course', 'Side'}"
+1994,Shrimp Cocktail Spicy (m1995),"{'Salad', 'Appetizer'}"
+1995,Pasta Carbonara Special (m1996),"{'Main Course', 'Side'}"
+1996,Bruschetta Special (m1997),{'Appetizer'}
+1997,Brussels Sprouts Special (m1998),{'Side'}
+1998,Red Velvet Cake (m1999),{'Dessert'}
+1999,Lentil Soup Premium (m2000),{'Soup'}
